@@ -1,0 +1,2730 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GggxmDn8Rz+qXkWInHMXVJo4lq+USxFD0ibP1wbMUIIpq9zdf5JaLUyTgbZ9PcaR
+ I3GlYUYthathB2T24v8kng==
+
+0001104659-07-062470.txt : 20070814
+
+0001104659-07-062470.hdr.sgml : 20070814
+
+20070814161159
+ACCESSION NUMBER:		0001104659-07-062470
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20070630
+FILED AS OF DATE:		20070814
+DATE AS OF CHANGE:		20070814
+
+FILER:
+
+	COMPANY DATA:
+		COMPANY CONFORMED NAME:			SPHERIX INC
+		CENTRAL INDEX KEY:			0000012239
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ENGINEERING, ACCOUNTING, RESEARCH, MANAGEMENT [8700]
+		IRS NUMBER:				520849320
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-05576
+		FILM NUMBER:		071055298
+
+	BUSINESS ADDRESS:
+		STREET 1:		12051 INDIAN CREEK CT
+		CITY:			BELTSVILLE
+		STATE:			MD
+		ZIP:			20705
+		BUSINESS PHONE:		3014193900
+
+	MAIL ADDRESS:
+		STREET 1:		12051 INDIAN CREEK COURT
+		CITY:			BELTSVILLE
+		STATE:			MD
+		ZIP:			20705
+
+	FORMER COMPANY:
+		FORMER CONFORMED NAME:	BIOSPHERICS INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:
+		FORMER CONFORMED NAME:	BIOSPHERICS RESEARCH INC
+		DATE OF NAME CHANGE:	19720404
+
+10-Q
+
+1
+
+a07-18931_110q.htm
+
+10-Q
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-Q
+
+(Mark one)
+
+x
+
+QUARTERLY
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the
+quarterly period ended
+
+June 30, 2007
+.
+
+o
+
+TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the
+transition period from
+to
+
+Commission
+file number  0-5576
+
+SPHERIX INCORPORATED
+
+(Exact name of Registrant as specified in its charter)
+
+Delaware
+
+52-0849320
+
+(State or other
+  jurisdiction of incorporation or organization)
+
+(I.R.S. Employer
+  Identification No.)
+
+12051 Indian Creek Court,
+Beltsville, Maryland 20705
+
+(Address of principal executive offices)
+
+301-419-3900
+
+(Registrant’s telephone number, including area code)
+
+Indicate by check mark
+whether the Registrant (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Exchange Act of 1934 during the preceding 12
+months (or for such shorter period that the Registrant was required to file
+such reports), and (2) has been subject to such filing requirements for
+the past 90 days.  Yes
+x
+      No
+o
+
+Indicate by check mark
+whether the Registrant is a large accelerated filer, an accelerated filer, or a
+non-accelerated filer.
+
+See definition of “accelerated
+filer and large accelerated filer” in Rule 12b-2 of the Exchange Act. (Check
+one):
+
+Large Accelerated
+Filer
+o
+      Accelerated
+Filer
+o
+      Non-accelerated Filer
+x
+
+Indicate by check mark
+whether the Registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act).  Yes
+o
+      No
+x
+
+Indicate the number of
+shares outstanding of each of the Registrant’s classes of Common Stock, as of
+the latest practicable date.
+
+Class
+
+Outstanding
+  as of August 10, 2007
+
+Common Stock,
+  $0.005 par value
+
+14,254,562
+  shares
+
+Spherix Incorporated
+
+Form 10-Q
+
+For the
+Quarter Ended June 30, 2007
+
+Index
+
+Page No.
+
+Part
+  I. Financial Information
+
+Item
+  1.
+
+Financial
+  Statements (Unaudited)
+
+Consolidated Statements of Operations for the
+  three-month and six-month periods ended
+
+  June 30, 2007 and 2006
+
+3
+
+Consolidated
+  Balance Sheets as of June 30, 2007 and December 31, 2006
+
+4
+
+Consolidated Statements of Cash Flows for the
+  six-month periods ended
+
+  June 30, 2007 and 2006
+
+5
+
+Notes to the Consolidated Financial Statements
+
+6
+
+Item 2.
+
+Management’s Discussion and Analysis of Financial
+  Condition and Results of Operations
+
+11
+
+Item 3.
+
+Quantitative and Qualitative Disclosures about Market
+  Risk
+
+15
+
+Item 4.
+
+Controls and Procedures
+
+15
+
+Part
+  II. Other Information
+
+Item 1a.
+
+Risk Factors
+
+16
+
+Item 6.
+
+Exhibits
+
+16
+
+Signatures
+
+16
+
+2
+
+Spherix Incorporated
+
+Part I.  Financial Information
+
+Item 1.
+
+Financial
+Statements
+
+Consolidated Statements of Operations
+
+(Unaudited)
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+2007
+
+2006
+
+2007
+
+2006
+
+Revenue
+
+$
+
+3,769
+
+$
+
+—
+
+$
+
+4,019
+
+$
+
+2,735
+
+Operating expense
+
+Selling, general
+  and administrative expense
+
+959,854
+
+574,174
+
+1,637,072
+
+1,142,656
+
+Research and
+  development expense
+
+985,937
+
+176,988
+
+2,385,540
+
+281,739
+
+Total operating
+  expense
+
+1,945,791
+
+751,162
+
+4,022,612
+
+1,424,395
+
+Loss from operations
+
+(1,942,022
+
+)
+
+(751,162
+
+)
+
+(4,018,593
+
+)
+
+(1,421,660
+
+)
+
+Interest income
+
+21,131
+
+53,293
+
+57,724
+
+87,539
+
+Interest expense
+
+29
+
+1,592
+
+29
+
+35,030
+
+Loss from continuing
+  operations before taxes
+
+(1,920,920
+
+)
+
+(699,461
+
+)
+
+(3,960,898
+
+)
+
+(1,369,151
+
+)
+
+Income tax
+  benefit
+
+(20,000
+
+)
+
+—
+
+(20,000
+
+)
+
+—
+
+Loss from continuing operations
+
+(1,900,920
+
+)
+
+(699,461
+
+)
+
+(3,940,898
+
+)
+
+(1,369,151
+
+)
+
+Discontinued operations
+
+Income from
+  discontinued operations before taxes
+
+240,261
+
+958,062
+
+2,218
+
+1,094,723
+
+Income tax
+  expense
+
+85,000
+
+20,000
+
+97,500
+
+20,000
+
+Income (loss) from discontinued
+  operations
+
+155,261
+
+938,062
+
+(95,282
+
+)
+
+1,074,723
+
+Net (loss) income
+
+$
+
+(1,745,659
+
+)
+
+$
+
+238,601
+
+$
+
+(4,036,180
+
+)
+
+$
+
+(294,428
+
+)
+
+Net (loss) income per
+  share, basic
+
+Continuing
+  operations
+
+$
+
+(0.13
+
+)
+
+$
+
+(0.05
+
+)
+
+$
+
+(0.28
+
+)
+
+$
+
+(0.10
+
+)
+
+Discontinued
+  operations
+
+$
+
+0.01
+
+$
+
+0.07
+
+$
+
+(0.01
+
+)
+
+$
+
+0.08
+
+Net (loss)
+  income per share, basic
+
+$
+
+(0.12
+
+)
+
+$
+
+0.02
+
+$
+
+(0.29
+
+)
+
+$
+
+(0.02
+
+)
+
+Net (loss) income per
+  share, diluted
+
+Continuing
+  operations
+
+$
+
+(0.13
+
+)
+
+$
+
+(0.05
+
+)
+
+$
+
+(0.28
+
+)
+
+$
+
+(0.10
+
+)
+
+Discontinued
+  operations
+
+$
+
+0.01
+
+$
+
+0.07
+
+$
+
+(0.01
+
+)
+
+$
+
+0.08
+
+Net (loss)
+  income per share, diluted
+
+$
+
+(0.12
+
+)
+
+$
+
+0.02
+
+$
+
+(0.29
+
+)
+
+$
+
+(0.02
+
+)
+
+Weighted average shares
+  outstanding, basic
+
+14,254,562
+
+13,724,642
+
+14,125,660
+
+13,353,574
+
+Weighted average shares
+  outstanding, diluted
+
+14,254,562
+
+13,726,756
+
+14,125,660
+
+13,353,574
+
+See accompanying
+notes to financial statements.
+
+3
+
+Spherix Incorporated
+
+Consolidated Balance Sheets
+
+June 30, 2007
+
+  (Unaudited)
+
+December 31,
+
+   2006
+
+ASSETS
+
+Current assets
+
+Cash and cash equivalents
+
+$
+
+7,103,936
+
+$
+
+9,863,771
+
+Other receivables
+
+32
+
+479
+
+Prepaid expenses and other assets
+
+317,125
+
+366,147
+
+Assets of segment held for sale, current
+
+4,399,410
+
+3,543,703
+
+Total current assets
+
+11,820,503
+
+13,774,100
+
+Property and equipment, net
+
+183,726
+
+288,113
+
+Patents, net of accumulated amortization of $147,738
+  and $134,963
+
+93,858
+
+106,633
+
+Assets of segment held for sale, non-current
+
+4,094,897
+
+4,207,080
+
+Total assets
+
+$
+
+16,192,984
+
+$
+
+18,375,926
+
+LIABILITIES
+  AND STOCKHOLDERS’ EQUITY
+
+Current
+  liabilities
+
+Accounts payable and accrued expenses
+
+$
+
+573,012
+
+$
+
+230,432
+
+Accrued salaries and benefits
+
+214,533
+
+275,984
+
+Capital lease obligations
+
+2,081
+
+10,810
+
+Liabilities of segment held for sale, current
+
+3,299,366
+
+2,391,291
+
+Total current liabilities
+
+4,088,992
+
+2,908,517
+
+Deferred compensation
+
+497,852
+
+495,000
+
+Deferred rent
+
+128,457
+
+156,306
+
+Liabilities of segment held for sale, non-current
+
+191,900
+
+265,506
+
+Total liabilities
+
+4,907,201
+
+3,825,329
+
+Commitments and
+  contingencies
+
+—
+
+—
+
+Stockholders’
+  equity
+
+Preferred stock, $0.01 par value, 2,000,000 shares
+  authorized; none issued and outstanding
+
+—
+
+—
+
+Common stock, $0.005 par value, 50,000,000 shares
+  authorized; 14,335,000 and 13,892,642 issued, and 14,254,562 and 13,812,204
+  shares outstanding at June 30, 2007 and December 31, 2006
+
+71,496
+
+69,463
+
+Paid-in capital in excess of par value
+
+27,441,717
+
+26,672,384
+
+Treasury stock, 80,438 shares at cost
+
+(464,786
+
+)
+
+(464,786
+
+)
+
+Accumulated deficit
+
+(15,762,644
+
+)
+
+(11,726,464
+
+)
+
+Total stockholders’ equity
+
+11,285,783
+
+14,550,597
+
+Total liabilities and stockholders’ equity
+
+$
+
+16,192,984
+
+$
+
+18,375,926
+
+See accompanying
+notes to financial statements.
+
+4
+
+Spherix Incorporated
+
+Consolidated Statements of Cash Flows
+
+(Unaudited)
+
+Six Months Ended June 30,
+
+2007
+
+2006
+
+Cash
+  flows from operating activities
+
+Net loss
+
+$
+
+(4,036,180
+
+)
+
+$
+
+(294,428
+
+)
+
+Adjustments to
+  reconcile net loss to net cash (used in) provided by operating activities:
+
+Loss (income) from discontinued operations
+
+95,282
+
+(1,074,723
+
+)
+
+Depreciation and amortization
+
+82,219
+
+87,200
+
+Stock-based compensation
+
+13,866
+
+20,749
+
+Changes in assets and liabilities:
+
+Other receivables
+
+447
+
+(5,823
+
+)
+
+Prepaid expenses and other assets
+
+49,022
+
+(68,767
+
+)
+
+Accounts payable and accrued expenses
+
+223,813
+
+(97,226
+
+)
+
+Deferred rent
+
+(27,849
+
+)
+
+(17,926
+
+)
+
+Deferred compensation
+
+2,852
+
+2,851
+
+Net cash used in
+  activities of continuing operations
+
+(3,596,528
+
+)
+
+(1,448,093
+
+)
+
+Net cash
+  provided by activities of discontinued operations
+
+1,223,846
+
+2,601,299
+
+Net cash (used in) provided by operating activities
+
+(2,372,682
+
+)
+
+1,153,206
+
+Cash
+  flow from investing activities
+
+Purchases of property and equipment
+
+(13,729
+
+)
+
+(3,466
+
+)
+
+Proceeds from maturity of certificate of deposit
+
+—
+
+2,000,000
+
+Net cash (used
+  in) provided by investing activities of continuing operations
+
+(13,729
+
+)
+
+1,996,534
+
+Net cash used in
+  investing activities of discontinued operations
+
+(1,137,650
+
+)
+
+(784,733
+
+)
+
+Net cash (used in) provided by investing activities
+
+(1,151,379
+
+)
+
+1,211,801
+
+Cash flows from financing activities
+
+Net change on bank line of credit
+
+—
+
+(1,449,318
+
+)
+
+Net change in book overdraft
+
+57,316
+
+110,813
+
+Payments on capital lease obligations
+
+(8,729
+
+)
+
+(8,324
+
+)
+
+Proceeds from issuance of common stock
+
+757,500
+
+3,091,584
+
+Cost of issuance of common stock
+
+—
+
+(15,204
+
+)
+
+Net cash
+  provided by financing activities of continuing operations
+
+806,087
+
+1,729,551
+
+Net cash used in
+  financing activities of discontinued operations
+
+(37,921
+
+)
+
+(616,996
+
+)
+
+Net cash
+  provided by financing activities
+
+768,166
+
+1,112,555
+
+Net
+  (decrease) increase in cash and cash equivalents
+
+(2,755,895
+
+)
+
+3,477,562
+
+Cash
+  and cash equivalents, beginning of period
+
+10,951,275
+
+2,667,733
+
+Cash
+  and cash equivalents, end of period
+
+$
+
+8,195,380
+
+$
+
+6,145,295
+
+See accompanying notes to financial statements.
+
+5
+
+Spherix Incorporated
+
+Notes to
+the Consolidated Financial Statements
+
+(Unaudited)
+
+1.             Basis of Presentation
+
+On June 25, 2007, the
+Company signed a definitive purchase agreement to sell the InfoSpherix
+Incorporated subsidiary (“InfoSpherix”), subject to shareholder approval.  Accordingly, the operations of InfoSpherix
+are reported in the accompanying financial statements as discontinued
+operations in the Consolidated Statement of Operations, and the assets held for
+sale of the discontinued segment are separately identified in the Company’s
+Consolidated Balance Sheet.  The
+activities of the “BioSpherix” Division continue to operate through Spherix
+Incorporated.
+
+The accompanying
+consolidated financial statements of the Company are unaudited and do not
+include all of the information and disclosures generally required for annual
+financial statements.  In the opinion of
+management, the statements contain all material adjustments (consisting of
+normal recurring accruals) necessary to present fairly the Company’s financial
+position as of June 30, 2007, the results of its operations for the three-month
+and six-month periods ended June 30, 2007 and 2006, and its cash flows for the
+six-month periods ended June 30, 2007 and 2006.
+This report should be read in conjunction with the Company’s Annual
+Report on Form 10-K, which does contain the complete information and disclosure
+for the year ended December 31, 2006.
+
+2.
+
+Use of
+Estimates and Assumptions
+
+The accompanying
+consolidated financial statements have been prepared in conformity with
+accounting principles generally accepted in the United States of America.  This requires management to make estimates
+and assumptions that affect certain reported amounts of assets and liabilities
+and disclosures of contingent assets and liabilities at the date of the
+financial statements, and the reported amounts of revenue and expenses during
+the period.  Accordingly, actual results
+could differ from those estimates and assumptions.
+
+3.
+
+Discontinued
+Operations
+
+On June 25, 2007, the
+Company signed a definitive purchase agreement to sell the InfoSpherix
+subsidiary, subject to shareholder approval.
+The InfoSpherix segment comprises the majority of the Company’s
+operations.  The sale will allow Spherix
+to focus all of its efforts on the BioSpherix Division’s biotechnology
+products, with the principal focus on the commercialization of Naturlose.  The sale is subject to the approval of the
+Company’s stockholders and, if ratified, must be completed within two days of
+the Company’s August 15, 2007 annual meeting.
+
+Facts and Circumstances Leading to the Proposed Sale
+
+Spherix employed a
+business model for many years where it operated two separate lines of business —
+InfoSpherix and BioSpherix.  In
+accordance with the business plan, InfoSpherix earned enough money to support
+itself and BioSpherix.  This allowed
+InfoSpherix to grow while supplying funds for the research and development
+efforts of the BioSpherix Division, which focused on developing
+healthcare-related products.
+
+By mid-2004, management
+believed that this model would soon have to change.  The product mix in InfoSpherix was shifting
+away from the commercial sector to a less profitable government sector.  Clients were beginning to require that the
+Company fund the upfront costs for information projects and recover the cost
+over the life of the project.  Also, our
+BioSpherix products were far enough along where continued development would
+soon require significant capital.  In
+addition, equity investors interested in BioSpherix did not understand InfoSpherix
+and its purpose.  Therefore, responsible
+investors were more difficult to attract.
+Our InfoSpherix clients became concerned about our focus on this
+business and they questioned our long-term commitment to the business.  Also, our bank stated that it was not
+interested in funding biotechnology research.
+Therefore, they required the Company to secure its line of credit with
+cash in lieu of receivables and other fixed assets.  Financing for capital equipment was becoming
+harder to attract.  As a result, at the
+February 17, 2005 meeting, the Board of Directors decided it was time to split
+the two divisions and require each one to be self-funding.  On June 8, 2005, the stockholders approved
+the establishment of InfoSpherix Incorporated as a wholly-owned subsidiary of
+Spherix.  Subsequently, on January 1,
+2006, InfoSpherix began operating as an independent subsidiary.
+
+6
+
+In December 2005, the FDA
+gave Spherix final permission to conduct a Phase 3 clinical trial for Naturlose
+as a treatment for Type 2 diabetes.  The
+Company signed agreements with independent contract research organizations to
+conduct the Phase 3 trial and engaged another entity to assist in the
+development and monitoring of the trials and to consult on FDA issues.  Although initial estimates developed by
+Spherix and the above consultants indicated we had sufficient capital to
+complete the trial, the Board and management became concerned about long-term
+financing.  A manufacturing source needed
+to be found and, should complications develop in our Phase 3 trial, final FDA
+approval of the protocol could result in significant additional capital
+needs.  In addition, it was becoming
+clear that InfoSpherix also needed capital to develop next generation products.
+
+In the spring of 2006,
+Active Network approached the Company expressing an interest in the reservation
+portion of the InfoSpherix business and the Company held some preliminary
+discussion with the Active Network during the next few months.  On June 27, 2006, a meeting of the Executive
+Advisory Committee of the Board was held in Cumberland, Maryland.  The Committee discussed a potential sale of
+all or part of the InfoSpherix subsidiary, along with the use of funds from
+this sale and any settlement of our National Park Service dispute.  The Committee agreed that it was premature to
+make a decision as to whether any sale of InfoSpherix was desirable.  However, the Committee decided that if a sale
+was ever to be pursued, a sale of the entire subsidiary was preferential and
+that other potential buyers should be sought.
+
+On November 17, 2006, the
+Company received a letter through its FDA consultant requiring additional
+expenditures on its Phase 3 clinical trial.
+At this point it was becoming apparent that the Phase 3 trial was going
+to be more expensive than first thought.
+
+Also on November 17,
+2006, the Company received an unsolicited Letter of Intent (LOI) from Active
+Network.  The LOI was for the purchase of
+the entire information business.  The Board
+met on November 21, 2006.  After review
+of the LOI from The Active Network, the Board declined the offer.  Discussions were held on the need to raise
+more capital, even with the $6 million settlement related to the National Park
+Service.  The rising cost of the Phase 3
+trial was discussed along with the need to complete the anti-plaque study of
+Naturlose at the University of Maryland.
+Several methods of raising capital were discussed, but no final decision
+was made.
+
+A special Board Meeting
+was held on January 8, 2007.  The
+immediate need to raise capital was discussed and the President was authorized
+to seek equity funding for $12-15 million to fund the BioSpherix Division.  In addition, further discussions were held to
+consider the possibility of selling InfoSpherix as a means of raising cash.
+
+SC&H Capital
+Corporation (“SC&H”), a consulting firm with merger and acquisition
+experience, was engaged on January 29, 2007, to assist the management team in
+exploring a sale of InfoSpherix.  On
+March 6, 2007, the Board of Directors created an Evaluation Committee
+consisting of three outside directors appointed to provide SC&H with
+guidance in the process and to avoid any actual or perceived conflicts of
+interest.
+
+During the first several
+months of 2007, the President met with several investment bankers about the
+possibility of raising capital.  It was
+decided that, given the current stock price and early phase of the Phase 3
+clinical trial, an equity offering would not be prudent at this time.
+
+On April 13, 2007, a
+Board Meeting was held to review the capital raising alternatives.  In the course of reviewing these
+alternatives, SC&H reviewed the process it had conducted with management to
+that point.  Contact had been made with
+approximately 100 companies, including both strategic and financial targets,
+through the use of a blind profile which outlined the InfoSpherix
+opportunity.  This campaign ultimately
+resulted in approximately 10 management presentations provided to various
+interested parties.  The above activities
+yielded four Letters of Intent, including a revised offer from The Active
+Network.  One of the Letters of Intent
+was ultimately withdrawn.  SC&H
+prepared a comparison of each of the Letters of Intent and presented it to the
+Evaluation Committee.  A discussion of
+the possible terms and requirements of a deal ensued.
+
+Pursuant to a
+recommendation from the Evaluation Committee, the Board concluded that a sale
+of InfoSpherix was in the best interests of Spherix and the Board approved a
+resolution to accept the offer from Active Network as proposed.  The Evaluation Committee was given the
+authority to approve any changes to the LOI consistent with the discussions.
+
+7
+
+Subsequent negotiations,
+led by the management team and outside counsel, were held with The Active
+Network and on April 17, 2007, a final LOI was signed.  Detailed due diligence has been conducted by
+Active Network and a definitive purchase agreement was executed on June 25,
+2007.  The sale is subject to the approval
+of the Company’s stockholders and, if ratified, must be completed within two
+days of the Company’s August 15, 2007 annual meeting.
+
+Financial
+Detail of the Discontinued Operations
+
+The results of operations
+of the discontinued InfoSpherix segment, including the costs to sell the
+segment, are as follows:
+
+Discontinued operations
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+2007
+
+2006
+
+2007
+
+2006
+
+Revenue
+
+$
+
+6,490,000
+
+$
+
+7,582,000
+
+$
+
+11,837,000
+
+$
+
+13,501,000
+
+Direct cost and operating expense
+
+5,471,000
+
+5,684,000
+
+10,387,000
+
+10,602,000
+
+Selling, general and administrative expense
+
+657,000
+
+911,000
+
+1,390,000
+
+1,774,000
+
+Costs to sell segment
+
+172,000
+
+—
+
+172,000
+
+—
+
+Interest revenue
+
+58,000
+
+—
+
+132,000
+
+—
+
+Interest expense
+
+8,000
+
+29,000
+
+18,000
+
+30,000
+
+Income from discontinued
+  operations before taxes
+
+$
+
+240,000
+
+$
+
+958,000
+
+$
+
+2,000
+
+$
+
+1,095,000
+
+The principal balance
+sheet items of the assets held for sale are stated below.  Under the terms of the agreement InfoSpherix
+is permitted to distribute its cash to Spherix, which the Company plans to do
+prior to the closing.  The agreement also
+contains a tangible net asset clause that may limit the amount of cash Spherix
+is entitled to retain.  The cash and cash
+equivalent balances reflect the cash balances required to satisfy the minimum
+tangible net assets requirement as calculated on the respective balance sheet
+dates presented below.
+
+June 30, 2007
+
+  (Unaudited)
+
+December 31,
+
+   2006
+
+Current
+  assets
+
+Cash and cash equivalents
+
+$
+
+1,091,000
+
+$
+
+1,088,000
+
+Trade accounts receivables
+
+2,843,000
+
+2,166,000
+
+Other receivables
+
+8,000
+
+13,000
+
+Prepaid expenses and other assets
+
+457,000
+
+277,000
+
+Total current assets
+
+$
+
+4,399,000
+
+$
+
+3,544,000
+
+Non-Current
+  assets
+
+Property and equipment, net
+
+$
+
+3,584,000
+
+$
+
+3,626,000
+
+Intangible assets, net of accumulated amortization
+  of $465,000 and $395,000
+
+511,000
+
+581,000
+
+Total non-current assets
+
+$
+
+4,095,000
+
+$
+
+4,207,000
+
+Current
+  liabilities
+
+Accounts payable and accrued expenses
+
+$
+
+2,312,000
+
+$
+
+1,304,000
+
+Accrued salaries and benefits
+
+814,000
+
+872,000
+
+Capital lease obligations
+
+173,000
+
+215,000
+
+Total current liabilities
+
+$
+
+3,299,000
+
+$
+
+2,391,000
+
+Non-Current
+  liabilities
+
+Capital lease obligation
+
+$
+
+73,000
+
+$
+
+139,000
+
+Deferred rent
+
+119,000
+
+127,000
+
+Total Non-current liabilities
+
+$
+
+192,000
+
+$
+
+266,000
+
+8
+
+4.             Net Income Per Share
+
+Basic net income (loss)
+per common share has been computed by dividing net income (loss) by the
+weighted-average number of common shares outstanding during the period.  Diluted net income per common share has been
+computed by dividing net income by the weighted-average number of common shares
+outstanding plus common shares outstanding that are assumed likely to be
+exercised.  Diluted net loss per common
+share has been computed by dividing net loss by the weighted-average number of
+common shares outstanding without an assumed increase in common shares
+outstanding for common stock equivalents, as common stock equivalents are
+antidilutive.  Common stock equivalents consist
+of stock options and warrants that are assumed likely to be exercised.  Common stock equivalents were 55,470 and
+66,886 at June 30, 2007 and 2006, respectively.
+
+5.             Stockholders’ Equity
+
+During the six months
+ended June 30, 2007, the Company sold 442,358 shares for an additional $757,500
+in proceeds under the July 22, 2005, Standby Equity Distribution Agreement (“SEDA”).  At June 30, 2007, the remaining maximum
+amount available for future draws under the SEDA was $800,000.
+
+On March 9, 2006, in
+exchange for the Company’s agreement to reduce the exercise price to $2.04 per
+share, an institutional investor (“the Investor”) agreed to exercise the
+remainder of its warrants for the purchase of 585,973 shares of common stock
+for total proceeds of approximately $1.2 million.  In connection with these warrants, the
+Investor agreed that it would not exercise any of the warrants to the extent
+that it would acquire shares of Common Stock exceeding 9.9% of the outstanding
+Common Stock, nor would it knowingly sell shares to anyone to the extent that
+their holdings in the Company would exceed 4.9% of the outstanding Common
+Stock.  The warrants and shares of Common
+Stock were issued in transactions exempt from Registration pursuant to Section
+4(2) of the Securities Act.  The Company
+has registered the shares issuable upon exercise of the warrants for resale by
+the institutional Investor.
+
+6.             Accounting for Stock-Based Compensation
+
+Effective January 1,
+2006, the Company adopted Statement of Financial Accounting Standards No.
+123(R) “Share-Based Payment” (FAS 123R), which requires the measurement of all
+employee share-based payments to employees, including grants of employee stock
+options, using a fair-value based method and the recording of such expense in
+the consolidated statements of operations and comprehensive loss.  The Company uses a Black-Scholes option
+pricing model and has elected to use the modified prospective transition method
+and, therefore, has not restated results for prior periods.  At the time the Company adopted FAS 123R,
+there were no unvested options outstanding. The Company realized stock based
+compensation expense of $7,000 and $14,000 for the three and six months ended
+June 30, 2007, and $7,000 and $10,000 for the three and six months ended June
+30, 2006, respectively, related to 59,000 stock options awarded in February
+2006.  The effect of adopting FAS 123R
+increased the loss from operations, the loss before taxes, and the net loss by
+$7,000 and $14,000 for the three and six months ended June 30, 2007, and $7,000
+and $10,000 for the three and six months ended June 30, 2006, and had no effect
+on basic and diluted earnings per share, net cash flow from operations, or net
+cash flow from financing activities.
+
+A summary of option
+activity under the Company’s employee stock option plan for the six months
+ended June 30, 2007, is presented below:
+
+Options
+
+Shares
+
+Weighted-
+
+  Average
+
+  Exercise
+
+  Price
+
+Weighted-
+
+  Average
+
+  Remaining
+
+  Contractual
+
+  Term
+
+Aggregate
+
+  Intrinsic
+
+  Value
+
+Outstanding at
+  December 31, 2006
+
+501,100
+
+$
+
+7.11
+
+Granted
+
+—
+
+Exercised
+
+—
+
+Expired or forfeited
+
+(122,000
+
+)
+
+$
+
+6.26
+
+Outstanding at
+  June 30, 2007
+
+379,100
+
+$
+
+7.38
+
+2.5
+
+$
+
+8,000
+
+Exercisable at
+  June 30, 2007
+
+353,600
+
+2.5
+
+$
+
+5,000
+
+9
+
+As of June 30, 2007,
+there were approximately 25,500 unvested options to purchase common stock under
+the plans.  An estimated compensation
+cost of $73,000 related to the unvested options is expected to be recognized
+over the next 2.6 years.
+
+The Company used the
+following assumptions in the Black-Scholes calculation used to measure the fair
+value of stock-based compensation in accordance with FAS 123R.
+
+Expected term (in years)
+
+4
+
+Expected
+  volatility
+
+140.9
+
+%
+
+Expected
+  dividends
+
+0
+
+%
+
+Risk-free rate
+
+4.6
+
+%
+
+7.             Income Tax
+
+The Company adopted
+Financial Standards Accounting Board Interpretation No. 48 Accounting for
+Uncertainty in Income Taxes (“FIN 48”) on January 1, 2007.  As a result of the implementation of FIN 48,
+the Company recognized no material adjustments.
+The Company’s policy is to recognize interest and penalties on tax
+liabilities as interest expense.  At
+January 1, 2007 and June 30, 2007, the Company had no unrecognized income tax
+benefits and recognized no interest or penalties on income tax liabilities.
+
+The Federal and
+significant State statutes of limitations have not expired for the Company’s
+tax years ended December 31, 2003 through December 31, 2005.  As such, each of these tax years remain
+subject to examination by taxing authorities.
+The Federal and significant State statutes of limitations for the
+Company’s tax years ended December 31, 1998, December 31, 1999 and December 31,
+2002 have expired; however $10,217,000 of Federal net operating loss
+carryforwards generated in these closed years remain available to the Company
+and are subject to adjustment prior to utilization in future tax years.
+
+8.             Information by Business Segment
+
+The Company operates via two principal segments,
+BioSpherix and InfoSpherix.  BioSpherix
+develops proprietary products for commercial applications.  InfoSpherix provides contact center
+information and reservation services for government and industry, with
+substantially all of InfoSpherix revenue generated from government customers.  Revenue from reservation and tourism services
+is greatest in the spring and summer when vacation planning is the
+heaviest.  Revenue from other sources
+tends to be more evenly spread throughout the year, although the fourth quarter
+is historically the low period of the year.
+
+Financial information by
+business segment for the three and six months ended June 30, 2007 and 2006 is
+summarized below.
+
+10
+
+Three Months Ended
+
+  June 30,
+
+  (Dollars in thousands)
+
+Six Months Ended
+
+  June 30,
+
+  (Dollars in thousands)
+
+2007
+
+2006
+
+2007
+
+2006
+
+Revenue
+
+InfoSpherix
+
+$
+
+6,490
+
+$
+
+7,582
+
+$
+
+11,837
+
+$
+
+13,501
+
+BioSpherix
+
+4
+
+—
+
+4
+
+3
+
+Total
+  revenue
+
+$
+
+6,494
+
+$
+
+7,582
+
+$
+
+11,841
+
+$
+
+13,504
+
+Operating
+  (Loss) Income
+
+InfoSpherix
+
+$
+
+362
+
+$
+
+987
+
+$
+
+60
+
+$
+
+1,124
+
+and (Loss) Income Before
+
+BioSpherix
+
+(2,114
+
+)
+
+(751
+
+)
+
+(4,191
+
+)
+
+(1,421
+
+)
+
+Income Taxes
+
+Total
+  operating loss
+
+(1,752
+
+)
+
+236
+
+(4,131
+
+)
+
+(297
+
+)
+
+Interest income
+
+80
+
+53
+
+190
+
+88
+
+Interest expense
+
+8
+
+30
+
+18
+
+65
+
+Income (loss) from
+  operations before income taxes
+
+$
+
+(1,680
+
+)
+
+$
+
+259
+
+$
+
+(3,959
+
+)
+
+$
+
+(274
+
+)
+
+June 30,
+
+Dec. 31,
+
+2007
+
+2006
+
+Identifiable
+  Assets
+
+InfoSpherix
+
+$
+
+14,765
+
+$
+
+13,896
+
+BioSpherix
+
+1,428
+
+4,480
+
+Total
+  assets
+
+$
+
+16,193
+
+$
+
+18,376
+
+9.             Subsequent Event
+
+In August 2007,
+InfoSpherix signed a ten-year lease to rent 13,338 square feet of facility
+space in Clarksburg, Maryland, for use as an administrative office for
+InfoSpherix.  The target commencement
+date for the new lease is November 1, 2007.
+In connection with the signing of the above lease, Spherix also signed a
+lease termination agreement on its Beltsville facility.  Under the lease termination agreement,
+Spherix will pay a termination fee of $475,000 and the termination date is to
+be effective with the commencement of the Clarksburg lease.
+
+On June 25, 2007, as part
+of the Definitive Purchase Agreement to sell InfoSpherix, the Company agreed to
+terminate the InfoSpherix line-of-credit with Bank of America (“the Bank”)
+prior to closing.  Accordingly, the Company
+has subsequently closed the line-of-credit with the Bank.  The InfoSpherix bank line-of-credit was
+established on March 31, 2006.  The
+line-of-credit provided for borrowings up to $1.5 million, was collateralized
+by the subsidiary’s accounts receivables and equipment, and contained covenants
+on tangible net worth and funded debt to EBITDA ratios.  The Company had no outstanding borrowings
+under the Agreement at June 30, 2007, and at the time of termination.
+
+Item
+2.  Management’s Discussion and Analysis
+of Financial Condition and Results of Operations
+
+The following is intended
+to update the information contained in the Company’s Annual Report on Form 10-K
+for the year ended December 31, 2006, and presumes that readers have access to,
+and will have read, “Management’s Discussion and Analysis of Financial
+Condition and Results of Operations” contained in such Form 10-K.
+
+Certain statements in
+this Quarterly Report on Form 10-Q may contain forward-looking statements
+within the meaning of Section 27A of the Securities Act of 1933 and Section 21E
+of the Securities Exchange Act of 1934 and are identified by the use of
+forward-looking words or phrases such as “believes,” “expects,” is or are “expected,”
+“anticipates,” “anticipated,” “should” and words of similar impact.  These forward-looking statements are based on
+the Company’s current expectations.
+Because forward-looking statements involve risks and uncertainties, the
+Company’s actual results could differ materially.  See the Company’s Form 8-K filing dated March
+26, 1999, for a more detailed statement concerning forward-looking statements.
+
+Overview
+
+The Company operates via two principal segments,
+BioSpherix and InfoSpherix.  BioSpherix
+develops proprietary products for commercial applications.  InfoSpherix provides contact center
+information and reservation services for government and industry, with
+substantially all of InfoSpherix revenue generated from government customers.
+
+11
+
+BioSpherix engages in product development, notably
+tagatose.  The Company’s current focus is
+on the non-food use of tagatose, which we will market under the name “Naturlose”.  Our principal efforts have been to explore
+whether Naturlose is an effective treatment for Type 2 diabetes.  In April 2007, the Company commenced a Phase
+3 trial for this purpose.
+
+InfoSpherix has developed
+a niche in providing campground and other reservation services via its
+ReserveWorld business line and is one of only two major suppliers of campground
+reservation services in the U.S.  Reservation
+contracts make up over 50% of the Company’s revenue.  The reservation services contracts have
+revenue streams that are historically greater in the spring and summer months
+when vacation planning is more prevalent.
+These reservation contracts have certain fixed costs that continue
+throughout the year such as depreciation, telephone and computer related
+service and maintenance contracts, and minimum staffing requirements.  These contracts also incur certain costs in
+advance of the peak seasons in order to staff up and train the work force that
+will be needed during the peak seasons.
+On January 23, 2007, the Company concluded its long-standing National
+Park Service contract.  The National Park
+Service contract contributed approximately $4.0 million in revenue for each of
+the years ended December 31, 2006 and 2005.
+
+On June 25, 2007, the
+Company signed a definitive purchase agreement to sell the InfoSpherix
+subsidiary, subject to shareholder approval.
+The sale will allow Spherix to focus all of its efforts on the
+BioSpherix Division’s biotechnology products, with the principal focus on the
+commercialization of Naturlose.  The sale
+is subject to the approval of the Company’s stockholders and, if ratified, must
+be completed within two days of the Company’s August 15, 2007 annual meeting.
+
+The operations of
+InfoSpherix are reported in the accompanying financial statements as
+discontinued operations.
+
+Results of Operations for the
+Three and Six Months Ended June 30, 2007 and 2006
+
+Selling, General and
+Administrative
+
+Selling, general and
+administrative expenses (S,G&A) for the three and six months ended June 30,
+2007, increased $386,000 and $494,000 over those of the same periods in
+2006.  The increase in the second quarter
+was primarily the result of an executive bonus of $150,000 awarded to the CEO
+for past performance, and an increase in accounting costs of approximately
+$120,000 related to the increased complexity of the Company’s tax reporting
+requirements including the implementation of FIN 48.  The increase in S,G&A costs for the six
+months ended June 30, 2007 over those of the prior year also included
+approximately $120,000 in costs related to the services of an investment banker
+prior to the Company’s decision to sell InfoSpherix.  Excluded from the above S,G&A numbers is
+approximately $170,000 in consulting and legal costs related to the sale of
+InfoSpherix that have been classified as part of the costs of the discontinued
+operations.  These costs were incurred in
+the second quarter of 2007, following the decision to sell InfoSpherix.
+
+Research
+and Development
+
+The Company’s R&D
+expenditures have significantly increased between years as a direct result of
+the Company’s Phase 3 clinical trial in
+the use of Naturlose for the treatment of Type 2 diabetes, which began
+this year.  The primary focus of BioSpherix’s research and development (R&D)
+activities for the six months
+ended June 30, 2007, has been on the planning and preparation of a Phase 3
+trial.  The Company has completed
+an initial dose range-finding study, and the recruitment of patients for the
+trial, which will take place in Australia and the United States, is
+ongoing.  The first participants began
+the Phase 3 clinical trial in April 2007.
+More than 400 subjects from the United States and abroad, representing
+the demographic mix in the U.S., will receive oral doses of Naturlose to test
+its ability to treat Type 2 diabetes.  A
+Phase 3 clinical trial, which gathers evidence regarding effectiveness and
+safety, is needed to evaluate the overall benefit-risk relationship of new drugs
+proposed to the FDA.  The Company
+believes its chances for a successful outcome are enhanced by the widely
+demonstrated safety of the product, lack of safety being the primary cause for
+failure of most drug candidates.  Testing
+is scheduled to finish in mid-2009.  If
+the trial is successful, it will likely take several months to compile the data
+and submit a new drug application (“NDA”) to the FDA.  The FDA will then likely take up to a year to
+respond to the NDA.  Accordingly, we do
+not expect FDA approval before mid-2010 at the earliest.
+
+12
+
+In 2005, the Company
+contracted with the University of Maryland School of Dentistry to conduct a
+human clinical trial on the oral anti-plaque efficacy of Naturlose.  The study demonstrated tagatose to be much
+more resistant to oral bacteria, which form plaque, than is sorbitol, a sugar
+substitute that is widely used in oral care products.  The study suggested ways of modifying the
+Naturlose product to effect desired plaque reduction.  Such modifications have been made, and the
+Company has arranged with the University of Maryland School of Dentistry to
+conduct a trial of Naturlose toothpaste formulated by the Company in an attempt
+to establish an anti-plaque and anti-gingivitis claim for the toothpaste.  The clinical trial started in early 2007.
+
+InfoSpherix
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+2007
+
+2006
+
+2007
+
+2006
+
+Revenue
+
+$
+
+6,490,000
+
+$
+
+7,582,000
+
+$
+
+11,837,000
+
+$
+
+13,501,000
+
+Direct cost and
+  operating expense
+
+5,471,000
+
+5,684,000
+
+10,387,000
+
+10,602,000
+
+Gross margin
+
+$
+
+1,019,000
+
+$
+
+1,898,000
+
+$
+
+1,450,000
+
+$
+
+2,899,000
+
+Revenue for the three and
+six months ended June 30, 2007, decreased $1.1 million (14%) and $1.7 million
+(12%) from the same periods in 2006 due to the completion of the National Park
+Service contract, which concluded on January 23, 2007.  Reductions from the direct costs associated
+with the National Park Service Contract were off-set by increased costs under
+the new Michigan contract and additional costs incurred under the contracts
+transferred from the former South Dakota facility to the new facility in
+Indiana.  The National Park Service
+contract contributed approximately $4.0 million in revenue for each of the years
+ended December 31, 2006 and 2005.
+
+Liquidity and Capital Resources,
+Consolidated
+
+On June 25, 2007, as part
+of the Definitive Purchase Agreement to sell InfoSpherix, the Company agreed to
+terminate the InfoSpherix line-of-credit with Bank of America (“the Bank”)
+prior to closing.  Accordingly, the
+Company subsequently closed the line-of-credit with the Bank.  The InfoSpherix bank line-of-credit was
+established on March 31, 2006.  The
+line-of-credit provided for borrowings up to $1.5 million, was collateralized
+by the subsidiary’s accounts receivables and equipment, and contained covenants
+on tangible net worth and funded debt to EBITDA ratios.  The interest rate under the Agreement was
+based on the LIBOR daily floating rate plus 3% (approximately 8.5% at June 30,
+2007).  The Company had no outstanding
+borrowings under the Agreement at June 30, 2007, and the total amount available
+for future advances to the subsidiary was $1.5 million under the Agreement.
+
+Working capital as of
+June 30, 2007, was $7.8 million, which represents a $3.1 million decrease from
+working capital of $10.9 million at December 31, 2006.  The decrease in working capital was largely
+related to the Company’s Phase 3 clinical trial costs and increased costs
+related to the anticipated sale of InfoSpherix.
+
+Spherix expects to expend
+up to $5 million over the next year in costs related to the Phase 3 clinical
+trial and other R&D activity.  The
+clinical trial is expected to take at least two years to complete.  The Company intends to finance the BioSpherix
+activities through proceeds from the sale of the InfoSpherix subsidiary and
+proceeds from possible future issuance of additional common stock.  The Company also intends to seek
+pharmaceutical partners to assist in completing development of the BioSpherix
+products.
+
+Cash flow for the six
+months ended June 30, 2007, reflects a net cash outflow of $2.8 million,
+consisting of $2.4 million used in operating activities, $1.2 million used in
+investing activities, and $768,000 provided by financing activities.  The increase in cash used by operating
+activities in 2007 from that of the prior year is primarily related to the cost
+of the Phase 3 clinical trial.  The
+change in cash used in investing activities is related to one-time proceeds of
+$2 million from the maturity of a certificate of deposit in the prior
+year.  Cash flows from financing
+activities in 2006 included proceeds from the issuance of warrants.
+
+13
+
+Trends
+and Outlooks
+
+BioSpherix
+
+·
+
+On
+June 25, 2007, the Company signed a definitive purchase agreement to sell the
+InfoSpherix subsidiary, subject to shareholder approval, for $17 million ($15
+million at closing and $2 million following a 15-month escrow period).  The sale will allow Spherix to focus all of
+its efforts on the BioSpherix Division’s biotechnology products.
+
+·
+
+BioSpherix’s
+primary emphasis is on a Phase 3 clinical trial to demonstrate that Naturlose
+is a successful treatment for Type 2 diabetes.
+The trial began in April 2007, and testing is scheduled to finish in mid-2009.  If the trial is successful, it will likely
+take several months to compile the data and submit a new drug application (“NDA”)
+to the FDA.  The FDA will then likely
+take up to a year to respond to the NDA.
+Accordingly, we do not expect FDA approval before mid-to-late 2010 at
+the earliest.
+
+·
+
+The
+Company has decided to conduct the entire Phase 3 clinical trial for Type 2
+diabetes in the United States and according has terminating the Australian
+trials. The change is intended to simplify the logistics of managing the trial.
+
+·
+
+Costs
+of conducting the Phase 3 trial have substantially increased as we have
+obtained further direction from the FDA concerning the processes to be employed
+in the trial.  The Company expects to
+spend up to $5 million in R&D costs over the next year.  The Company intends to use the proceeds from
+the sale of the InfoSpherix subsidiary to fund the Phase 3 trial.  If the sale is not concluded, the Company will
+need to reassess continuation of the tests in view of the increased costs of
+the tests and the expected follow-on costs in pursuit of FDA approval.
+
+·
+
+A
+human clinical trial on the oral anti-plaque efficacy of Naturlose was
+conducted by the Company at the University of Maryland School of
+Dentistry.  The trial started in early
+2007 and was completed in July.  The
+Company expects to receive the results later this year.
+
+·
+
+Spherix
+has subsequently launched a health sciences consulting business line to provide
+technical and regulatory consulting services to biotechnology and
+pharmaceutical companies.
+
+InfoSpherix
+
+·
+
+As
+noted above, on June 25, 2007, the Company signed a definitive purchase
+agreement to sell the InfoSpherix subsidiary, subject to shareholder approval,
+for $17 million ($15 million at closing and $2 million following a 15-month
+escrow period).
+
+·
+
+The Company
+concluded the National Park Service contract on January 23, 2007.  The National Park Service contract
+contributed approximately $4 million in revenue for each of the years ended
+December 31, 2006 and 2005.  The loss of
+the National Park Service contract will have an adverse effect on the Company’s
+financial results in comparison to the prior year.
+
+·
+
+Since 1998,
+InfoSpherix has grown its government park reservation business from one
+contract to 17 government reservation contracts.  InfoSpherix’s reservation business accounted
+for over 60% of the Company’s revenue in 2006 and 2005, and over 50% for the
+three months ended March 31, 2007.
+InfoSpherix is now one of only two major suppliers of Government
+campground reservation services in the U.S.
+
+·
+
+On February 6,
+2007, InfoSpherix signed an agreement to lease 32,423 square feet of facility
+space in Frostburg, Maryland effective December 1, 2007, for use as a call
+center to replace the existing Cumberland, Maryland facility.
+
+·
+
+In
+August 2007, InfoSpherix signed a ten-year lease to rent 13,338 square feet of
+facility space in Clarksburg, Maryland, for use as an administrative office for
+InfoSpherix.  The target commencement
+date for the new lease is November 1, 2007.
+In connection with the signing of the above lease, Spherix also signed a
+lease termination agreement on its Beltsville facility.  Under the lease termination agreement,
+Spherix will pay a termination fee of $475,000 and the termination date is to
+be effective with the commencement of the Clarksburg lease.
+
+·
+
+The Company will
+cease to have any continuing obligations under the Frostburg, Maryland, or
+Clarksburg, Maryland, leases upon completion of the sale of InfoSpherix.  The Company will relocate to a smaller
+facility upon termination of the Beltsville lease.
+
+14
+
+Item 3.
+Quantitative and Qualitative Disclosures about Market Risk
+
+The Company
+manages its debt and its available cash considering available investment
+opportunities and risks, tax consequences and overall financing strategies.
+
+At June 30, 2007,
+the Company did not have any fixed-rate or variable-rate indebtedness.  The Company has not entered into any interest
+rate swaps or other derivatives with respect to its indebtedness.
+
+Cash available for
+investment is typically invested in short term funds, which generally mature in
+30 days, or money-market funds.  In
+general, such funds are not subject to market risk because the interest paid on
+such funds fluctuates with the prevailing interest rate.  The carrying amounts approximate market
+value.  It is the Company’s practice to
+hold these investments to maturity.
+
+Assuming the June
+30, 2007, variable rate debt and cash and cash available for investment, a
+one-percent change in interest rates would impact net interest income by less
+than $100,000.
+
+Item 4.
+Controls and Procedures
+
+Disclosure
+Controls and Procedures.
+  We maintain disclosure
+controls and procedures that are designed to ensure that information required
+to be disclosed in our Exchange Act reports, such as this report on Form 10-Q,
+is recorded, processed, summarized and reported within the time periods
+specified in the SEC’s rules and forms, and that such information is
+accumulated and communicated to our management, including our Chief Executive
+Officer/Chief Financial Officer, as appropriate, to allow timely decisions
+regarding required disclosure. These controls and procedures are based closely
+on the definition of “disclosure controls and procedures” in
+Rule 13a-15(e) promulgated under the Exchange Act.  Rules adopted by
+the SEC require that we present the conclusions of the Chief Executive
+Officer/Chief Financial Officer about the effectiveness of our disclosure
+controls and procedures as of the end of the period covered by this quarterly
+report.
+
+Limitations
+on the Effectiveness of Controls.
+  Management, including
+our Chief Executive Officer/Chief Financial Officer, do not expect that our
+disclosure controls and procedures will prevent all errors and fraud.  In
+designing and evaluating the disclosure controls and procedures, management
+recognized that any controls and procedures, no matter how well designed and
+operated, can provide only reasonable, not absolute, assurance of achieving the
+desired control objectives.  Further, the design of a control system must
+reflect the fact that there are resource constraints, and management
+necessarily was required to apply its judgment in evaluating the cost-benefit
+relationship of possible controls and procedures.  Because of the inherent
+limitations in all control systems, no evaluation of controls can provide
+absolute assurance that all control issues and instances of fraud, if any,
+within the Company have been detected.
+These inherent limitations include the realities that judgments in
+decision-making can be faulty, and that breakdowns can occur because of simple
+error or mistake.  Additionally, controls
+can be circumvented by the individual acts of some persons, by collusion of two
+or more people, or by management’s override of the control.  The design of any system of controls also is
+based in part upon certain assumptions about the likelihood of future events,
+and there can be no assurance that any design will succeed in achieving its
+stated goals under all potential future conditions.  Over time, controls may become inadequate
+because of changes in conditions, or the degree of compliance with the policies
+or procedures may deteriorate.  Because
+of the inherent limitations in a cost-effective control system, misstatements
+due to error or fraud may occur and not be detected.
+
+Periodic
+Evaluation and Conclusion.
+  The Company carried out an evaluation, under
+the supervision and with the participation of the Company’s management,
+including the Company’s Chief Executive Officer/Chief Financial Officer, of the
+effectiveness of the design and operation of the Company’s disclosure controls
+and procedures to provide reasonable assurance of achieving their objective
+pursuant to Exchange Act Rule 13a-14. Based upon that evaluation, the Chief
+Executive Officer/Chief Financial Officer concluded that the Company’s
+disclosure controls and procedures are effective at that reasonable assurance
+level.  There were no significant changes
+in internal controls during the latest quarter over financial reporting that
+materially affected, or is reasonably likely to materially affect, internal
+controls over financial reporting.
+
+15
+
+Part
+II.  Other Information
+
+Item 1a.  Risk
+Factors
+
+In
+addition to the other information set forth in this report, you should
+carefully consider the factors discussed in Part I, “Item 1A Risk Factors” in
+our Form 10-K for the year ending December 31, 2006, and those included in the
+Company’s Proxy Statement for the August 15, 2007 annual meeting, which could
+materially affect our business, financial condition, and results of
+operations.  The risks described in our
+Form 10-K and Proxy Statement are not the only risks facing our Company.  Additional risks and uncertainties not
+currently known to us or that we currently deem to be immaterial also may
+materially adversely affect our business, financial condition and/or operating
+results.
+
+Item 6.  Exhibits
+
+10.1
+
+Stock Purchase Agreement dated June 25, 2007, by and
+  between The Active Network, Inc., Spherix Incorporated and InfoSpherix
+  Incorporated (incorporated by reference to the definitive Proxy Statement
+  filed with the SEC on July 16, 2007).
+
+31.1
+
+Certification of Chief Executive Officer and Chief
+  Financial Officer of Spherix Incorporated pursuant to Section 302 of the
+  Sarbanes-Oxley Act of 2002
+
+32.1
+
+Certification of Chief Executive Officer and Chief
+  Financial Officer of Spherix Incorporated pursuant to Section 906 of the
+  Sarbanes-Oxley Act of 2002
+
+Signatures
+
+Pursuant to the
+requirements of the Exchange Act of 1934, the Registrant has duly caused this
+report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+
+Spherix Incorporated
+
+(Registrant)
+
+Date:
+
+August 14, 2007
+
+By:
+
+/s/ Richard C. Levin
+
+Richard C. Levin
+
+Chief Executive Officer, President,
+
+and Chief
+  Financial Officer
+
+16
+
+EX-31.1
+
+2
+
+a07-18931_1ex31d1.htm
+
+EX-31.1
+
+Exhibit 31.1
+
+Certification
+of
+
+Chief
+Executive Officer and Chief Financial Officer
+
+Pursuant to Section 302 of the
+Sarbanes-Oxley Act of 2002
+
+I, Richard C. Levin,
+certify that:
+
+1.
+
+I
+have reviewed this quarterly report on Form 10-Q of Spherix Incorporated;
+
+2.
+
+Based
+on my knowledge, this quarterly report does not contain any untrue statement of
+a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements were
+made, not misleading with respect to the period covered by this quarterly
+report;
+
+3.
+
+Based
+on my knowledge, the consolidated financial statements, and other financial
+information included in this quarterly report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this quarterly report;
+
+4.
+
+I
+am responsible for establishing and maintaining disclosure controls and
+procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the
+registrant and have:
+
+a)
+
+Designed such
+disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this quarterly report is being prepared;
+
+b)
+
+Evaluated the
+effectiveness of the registrant’s disclosure controls and procedures and
+presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures as of the end of the period covered by this
+report based on such evaluation; and
+
+c)
+
+Disclosed in this
+report any change in the registrant’s internal control over financial reporting
+that occurred during the registrant’s most recent fiscal quarter (the
+registrant’s fourth fiscal quarter in the case of an annual report) that has
+materially affected, or is reasonably likely to materially affect, the registrant’s
+internal control over financial reporting; and
+
+5.
+
+I
+have disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the registrant’s auditors and the audit committee of
+registrant’s board of directors (or persons performing the equivalent
+functions):
+
+a)
+
+All significant
+deficiencies and material weaknesses in the design or operation of internal
+control over financial reporting which are reasonably likely to adversely
+affect the registrant’s ability to record, process, summarize and report
+financial information; and
+
+b)
+
+Any fraud, whether or
+not material, that involves management or other employees who have a
+significant role in the registrant’s internal control over financial reporting.
+
+/s/ Richard C. Levin
+
+Richard C. Levin
+
+CEO, President and CFO
+
+August 14, 2007
+
+EX-32.1
+
+3
+
+a07-18931_1ex32d1.htm
+
+EX-32.1
+
+Exhibit 32.1
+
+Certification
+of
+
+Chief
+Executive Officer and Chief Financial Officer
+
+Pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002
+
+I, Richard C. Levin,
+Chief Executive Officer, President and Chief Financial Officer, of Spherix
+Incorporated (the “Company”), in compliance with Section 906 of the
+Sarbanes-Oxley Act of 2002, hereby certify that, to the best of my knowledge,
+the Company’s Quarterly Report on Form 10-Q for the period ended June 30, 2007
+(the “Report”) filed with the Securities and Exchange Commission:
+
+·
+
+Fully
+complies with the requirements of Section 13(a) or 15(d) of the Securities
+Exchange Act of 1934; and
+
+·
+
+The
+information contained in the Report fairly presents, in all material respects,
+the financial condition and results of operations of the Company.
+
+/s/ Richard C. Levin
+
+Richard C. Levin
+
+CEO, President and CFO
+
+August 14, 2007
+
+A signed copy of this
+written statement required by Section 906 has been provided to Spherix
+Incorporated and will be retained by Spherix Incorporated and furnished to the
+Securities and Exchange Commission or its staff upon request.
+
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,2843 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LP+roQQ6XMkDKbwdKdzl+zUdCJOuI0R294jK2LN/J5qa89W3R5uUtJwi60DLW9Mh
+ sgX4e863lfqOStVJidvLtw==
+
+0000950129-06-004690.txt : 20060501
+
+0000950129-06-004690.hdr.sgml : 20060501
+
+20060501170425
+ACCESSION NUMBER:		0000950129-06-004690
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060501
+DATE AS OF CHANGE:		20060501
+
+FILER:
+
+	COMPANY DATA:
+		COMPANY CONFORMED NAME:			Allis Chalmers Energy Inc.
+		CENTRAL INDEX KEY:			0000003982
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISC INDUSTRIAL & COMMERCIAL MACHINERY & EQUIPMENT [3590]
+		IRS NUMBER:				390126090
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02199
+		FILM NUMBER:		06795993
+
+	BUSINESS ADDRESS:
+		STREET 1:		5075 WESTHEIMER
+		STREET 2:		SUITE 890
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77056
+		BUSINESS PHONE:		713-369-0550
+
+	MAIL ADDRESS:
+		STREET 1:		5075 WESTHEIMER
+		STREET 2:		SUITE 890
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77056
+
+	FORMER COMPANY:
+		FORMER CONFORMED NAME:	ALLIS CHALMERS CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:
+		FORMER CONFORMED NAME:	ALLIS CHALMERS MANUFACTURING CO
+		DATE OF NAME CHANGE:	19710614
+
+10-K/A
+
+1
+
+h34263a1e10vkza.htm
+
+ALLIS-CHALMERS ENERGY INC.- AMENDMENT NO.1 - DECEMBER 31, 2005
+
+e10vkza
+
+UNITED STATES SECURITIES AND
+    EXCHANGE COMMISSION
+
+Washington, D. C.
+    20549
+
+Form 10-K/A-1
+
+(Mark One)
+
+þ
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+
+    OF THE SECURITIES EXCHANGE ACT OF 1934
+
+FOR THE FISCAL YEAR ENDED
+    DECEMBER 31, 2005
+
+OR
+
+o
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+
+    OF THE SECURITIES EXCHANGE ACT OF 1934
+
+FOR THE TRANSITION PERIOD
+    FROM
+    TO
+
+Commission file number 1-2199
+
+ALLIS-CHALMERS ENERGY
+    INC.
+
+(Exact name of registrant as
+    specified in its charter)
+
+Delaware
+
+39-0126090
+
+(State or other jurisdiction
+    of
+
+    incorporation or organization)
+
+(I.R.S. Employer
+
+    Identification No.)
+
+5075 WESTHEIMER,
+    SUITE 890,
+
+    HOUSTON, TEXAS
+
+77056
+
+(Zip code)
+
+(Address of principal executive
+    offices)
+
+(713) 369-0550
+
+Registrant’s telephone
+    number, including area code
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE
+    ACT:
+
+Title of Security:
+
+Name of Exchange:
+
+Common Stock, par value
+    $0.01 per share
+
+American Stock Exchange
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE
+    ACT:
+
+NONE
+
+    Indicate by check mark if the registrant is a well-known
+    seasoned issuer, as defined in Rule 405 of the Securities
+    Act.  Yes
+o
+     No
+þ
+
+    Indicate by check mark if the registrant is not required to file
+    reports pursuant to Section 13 or
+    15(d).  Yes
+o
+     No
+þ
+
+    Indicate by check mark whether the registrant (1) has filed
+    all reports required to be filed by Section 13 or 15(d) of
+    the Securities Exchange Act of 1934 during the preceding
+    12 months (or for such shorter period that the registrant
+    was required to file such reports), and (2) has been
+    subject to such filing requirements for the past
+    90 days.  Yes
+þ
+     No
+o
+
+    Indicate by check mark if disclosure of delinquent filers
+    pursuant to ITEM 405 of
+
+Regulation S-K
+
+    is not contained herein, and will not be contained, to the best
+    of registrant’s knowledge, in definitive proxy or
+    information statements incorporated by reference in
+    Part III of this
+
+Form 10-K
+
+    or any amendment to this
+
+Form 10-K.
+o
+
+    Indicate by check mark whether the registrant is a large
+    accelerated filer, an accelerated filer or a non-accelerated
+    filer. See definition of “accelerated filer” and
+    “large accelerated filer” in
+
+Rule 12b-2
+
+    of the Exchange Act (Check one):
+
+    Large accelerated
+    filer
+o
+     Accelerated
+    filer
+o
+     Non-accelerated
+    filer
+þ
+
+    Indicate by check mark whether the registrant is a shell company
+    (as defined in
+
+Rule 12b-2
+
+    of the Exchange
+    Act).  Yes
+o
+     No
+þ
+
+    The aggregate market value of the common equity held by
+    non-affiliates of the registrant, computed using the average of
+    the closing price of the common stock of $5.65 per share on
+    June 30, 2005, as reported on the American Stock Exchange,
+    was approximately $46,064,970 (affiliates included for this
+    computation only: directors, executive officers and holders of
+    more than 5% of the registrant’s common stock).
+
+    As of April 28, 2006 there were 17,350,615 shares of
+    common stock outstanding.
+
+EXPLANATORY
+    NOTE
+
+    This
+
+Form 10-K/A-1
+
+    is being filed by Allis-Chalmers Energy Inc. to provide the
+    disclosures required under Part III of
+
+Form 10-K,
+
+    since our definitive proxy statement for our 2006 annual meeting
+    of stockholders will not be filed with the Securities and
+    Exchange Commission, or SEC, within 120 days following
+    December 31, 2005.
+
+    As required by
+
+Rule 12b-15
+
+    under the Securities Exchange Act of 1934, as amended, which we
+    refer to as the Exchange Act, new certifications by our Chief
+    Executive Officer and Chief Financial Officer are being filed as
+    exhibits to this
+
+Form 10-K/A-1
+
+    under Item 15 of Part IV.
+
+    For purposes of this
+
+Form 10-K/A-1,
+
+    and in accordance with
+
+Rule 12b-15
+
+    under the Exchange Act, each item of our Annual Report on
+
+Form 10-K
+
+    for the year ended December 31, 2005, as originally filed
+    on March 22, 2006, that is affected by this amendment, has
+    been amended and restated in its entirety. No attempt has been
+    made in this
+
+Form 10-K/A-1
+
+    to modify or update other disclosures as presented in the
+    original
+
+Form 10-K,
+
+    except as required to reflect such amendments.
+
+    As used herein, “Allis-Chalmers”, “we”,
+    “our” and “us” may refer to Allis-Chalmers
+    Energy Inc. or its subsidiaries. The use of these terms is not
+    intended to connote any particular corporate status or
+    relationships.
+
+    2
+
+2005
+
+FORM 10-K/A-1
+
+    CONTENTS
+
+Item
+
+Page
+
+PART III
+
+10.
+
+Directors and Executive Officers
+    of the Registrant
+
+4
+
+11.
+
+Executive Compensation
+
+10
+
+12.
+
+Security Ownership of Certain
+    Beneficial Owners and Management and Related Stockholder
+    Matters
+
+14
+
+13.
+
+Certain Relationships and Related
+    Transactions
+
+16
+
+14.
+
+Principal Accountant Fees and
+    Services
+
+17
+
+PART IV
+
+15.
+
+Exhibits and Financial Statement
+    Schedules
+
+18
+
+Signatures
+
+19
+
+Exhibit Index
+
+20
+
+    3
+
+PART III
+
+ITEM 10.
+
+DIRECTORS
+    AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+Information
+    Regarding Board of Directors
+
+    The following individuals serve on our board of directors for a
+    term of one year and until their successors are elected and take
+    office
+:
+
+Name
+
+Age
+
+Committee
+
+Director Since
+
+Jeffrey R. Freedman
+
+    58
+
+January 2005
+
+Victor F. Germack
+
+    66
+
+    (1
+
+    )
+
+January 2005
+
+Munawar H. Hidayatallah
+
+    61
+
+May 2001
+
+Thomas E. Kelly
+
+    50
+
+    (2
+
+    )
+
+January 2005
+
+John E. McConnaughy, Jr.
+
+    76
+
+    (1
+
+    )
+
+May 2004
+
+Jens H. Mortensen, Jr.
+
+    52
+
+February 2003
+
+Robert E. Nederlander
+
+    72
+
+    (1
+
+    )(3)
+
+May 1989
+
+Leonard Toboroff
+
+    73
+
+May 1989
+
+Thomas O. Whitener, Jr.
+
+    58
+
+    (2
+
+    )(3)
+
+February 2002
+
+    (1)
+
+    Member of Audit Committee.
+
+    (2)
+
+    Member of Compensation Committee.
+
+    (3)
+
+    Member of Nominating Committee.
+
+Jeffrey R. Freedman
+was appointed to our board of
+    directors in January 2005. Mr. Freedman served as our
+    Executive Vice President — Corporate Development
+    from January 2002 to November 2002. Since January 2003,
+    Mr. Freedman has been involved in real estate development
+    in South Florida. From 1994 through March 2002,
+    Mr. Freedman was Managing Director — Oil
+    Services and Equipment for Prudential Securities with
+    responsibilities for institutional equity research of oilfield
+    services and contract drilling companies in the U.S. public
+    markets. Mr. Freedman has been involved and held various
+    positions with major institutional brokerage firms in equity
+    research relating to the oil service sector over the last
+    20 years.
+
+Victor F. Germack
+was appointed to our board of directors
+    in January 2005. Mr. Germack has served since 1980 as
+    President of Heritage Capital Corp., a company engaged in
+    investment banking services. In addition, Mr. Germack
+    formed, and since 2002 has been President of, RateFinancials
+    Inc., a company that rates and ranks the financial reporting of
+    U.S. public companies.
+
+Munawar H. Hidayatallah
+has served as our Chairman of the
+    Board and Chief Executive Officer since May 2001, and was
+    President from May 2001 through February 2003.
+    Mr. Hidayatallah was Chief Executive Officer of OilQuip
+    Rentals, Inc. from its formation in February 2000 until it
+    merged with us in May 2001. From December 1994 until August
+    1999, Mr. Hidayatallah was the Chief Financial Officer and
+    a director of IRI International, Inc., which was acquired by
+    National Oilwell, Inc. in early 2000. IRI International, Inc.
+    manufactured, sold and rented oilfield equipment to the oilfield
+    and natural gas exploration and production sectors. From August
+    1999 until February 2001, Mr. Hidayatallah worked as a
+    consultant to IRI International, Inc. and Riddell Sports Inc.
+
+Thomas E. Kelly
+was appointed to our board of directors
+    in January 2005. Mr. Kelly was an owner and founder of
+    Downhole Injection Systems, LLC (formerly known as Downhole
+    Injection Services, Inc.), which we purchased in December 2004.
+    Since 1997, Mr. Kelly has been the Chairman and CEO of
+    United Fuel & Energy Corp., a provider of fuel,
+    lubricants and services in the Permian Basin of West Texas.
+    Mr. Kelly is also a director of BPZ Energy, a Houston based
+    exploration and production company with properties in Peru and
+    Ecuador, and was Chief Executive Officer of BPZ Energy from
+    September 2004 until May 2005. Mr. Kelly has been involved
+    in oil and natural gas exploration projects since 1981,
+    including Baytech, Inc., which he co-founded in 1981 and was
+    involved in until it was sold in 2002. Mr. Kelly currently
+    serves on the board of directors of BPZ Energy.
+
+    4
+
+John E. McConnaughy, Jr.
+ was appointed to our board
+    of directors in May 2004. Mr. McConnaughy has served as
+    Chairman and Chief Executive Officer of JEMC Corporation, a
+    personal holding company, since he founded it in 1985. His
+    career includes positions of management with Westinghouse
+    Electric and the Singer Company, as well as service as a
+    director of numerous public and private companies. In addition,
+    he previously served as Chairman and Chief Executive Officer of
+    Peabody International Corp. and Chairman and Chief Executive
+    Officer of GEO International Corp. He retired from Peabody in
+    February 1986 and GEO in October 1992. Mr. McConnaughy
+    currently serves on the boards of Wave Systems Corp., Consumer
+    Portfolio Services, Inc., Overhill Farms, Inc., Levcor
+    International, Inc. and Positron Corporation. He also serves as
+    Chairman of the Board of Trustees of the Strang Cancer
+    Prevention Center and as Chairman Emeritus for the Harlem School
+    of the Arts.
+
+Jens H. Mortensen, Jr.
+ has served as our director
+    since November 2002 and as Vice-Chairman since February 2005 and
+    served as our President and Chief Operating Officer from
+    February 2003 through February 2005. Mr. Mortensen founded
+    Allis-Chalmers Tubular Services, Inc., formerly known as
+    Jens’ Oilfield Service, Inc., one of our subsidiaries, in
+    1982 after having spent eight years in operations and sales
+    positions with a South Texas casing crew operator.
+    Mr. Mortensen’s experience includes extensive
+    knowledge of specialized equipment utilized to install the
+    various strings of casing required to drill and complete oil and
+    natural gas wells.
+
+Robert E. Nederlander
+has served as our director since
+    May 1989. Mr. Nederlander served as our Chairman of the
+    board of directors from May 1989 to 1993, and as our Vice
+    Chairman of the board of directors from 1993 to 1996.
+    Mr. Nederlander has been a Director of Cendant Corp. since
+    December 1997 and Chairman of the Corporate Governance Committee
+    of Cendant Corp. since 2002. Mr. Nederlander was a director
+    of HFS, Inc. from July 1995 to December 1997. Since November
+    1981, Mr. Nederlander has been President
+
+and/or
+
+    Director of the Nederlander Organization, Inc., owner and
+    operator of legitimate theaters in New York City. Since
+    December 1998, Mr. Nederlander has been a managing partner
+    of the Nederlander Company, LLC, operator of legitimate theaters
+    outside New York City. Mr. Nederlander was Chairman of
+    the board of directors of Varsity Brands, Inc. (formerly Riddell
+    Sports Inc.) from April 1988 to September 2003 and was the Chief
+    Executive Officer of such corporation from 1988 through
+    April 1, 1993. Mr. Nederlander has been a limited
+    partner and a director of the New York Yankees since 1973.
+    Mr. Nederlander has been President of Nederlander
+    Television and Film Productions, Inc. since October 1985. In
+    addition, from January 1988 to January 2002,
+    Mr. Nederlander was Chairman of the Board and Chief
+    Executive Officer of Mego Financial Corp., doing business as
+    Leisure Industries Corporation of America, which filed a
+    voluntary petition under Chapter 11 of the
+    U.S. federal bankruptcy code in July 2003.
+
+Leonard Toboroff
+has served as our director and Vice
+    Chairman of the board of directors since May 1989 and served as
+    our Executive Vice President from May 1989 until February 2002.
+    Mr. Toboroff served as a director and Vice President of
+    Varsity Brands, Inc. (formerly Riddell Sports Inc.) from April
+    1988 through October 2003, and he is also a director of Engex
+    Corp. Mr. Toboroff is currently a managing (executive)
+    director of Corinthian Capital, a private equity firm.
+    Mr. Toboroff has been a practicing attorney continuously
+    since 1961.
+
+Thomas O. Whitener, Jr.
+ has served as our director
+    since February 1, 2002. Mr. Whitener is a founding
+    partner of Energy Spectrum Capital and has been a partner since
+    May 1996. Mr. Whitener has also served as a managing
+    director of Energy Spectrum Securities Corp., a financial
+    advisory firm for energy companies, since October 1997.
+    Mr. Whitener has been financing companies in the energy
+    industry since 1974. From 1987 to 1996, Mr. Whitener was an
+    investment banker with R. Reid Investments Inc. and Dean Witter
+    Reynolds.
+
+Board of
+    Directors; Committees
+
+    Our board currently has nine members who serve for a term of one
+    year or until their successors are elected and take office. Our
+    board of directors currently has three standing committees: the
+    Audit Committee, the Nominating Committee and the Compensation
+    Committee.
+
+    5
+
+Audit
+    Committee
+
+    Our Audit Committee consists of three directors,
+    Mr. McConnaughy and Mr. Germack, who serve as
+
+Co-Chairmen,
+
+    and Mr. Nederlander. All of our Audit Committee members are
+    “independent” under the applicable American Stock
+    Exchange and SEC rules regarding audit committee membership. Our
+    board of directors has determined that Mr. Germack
+    qualifies as an “audit committee financial expert”
+    under applicable SEC rules and regulations governing the
+    composition of the Audit Committee. We pay Mr. Germack an
+    additional $30,000 per year for serving as our audit committee
+    financial expert.
+
+    The Audit Committee assists our board of directors in fulfilling
+    its oversight responsibility by overseeing and evaluating
+    (i) the conduct of our accounting and financial reporting
+    process and the integrity of the financial statements that will
+    be provided to stockholders and others; (ii) the
+    functioning of our systems of internal accounting and financial
+    controls; and (iii) the engagement, compensation,
+    performance, qualifications and independence of our independent
+    auditors. Our board of directors adopted a written Audit
+    Committee charter in March 2002, which was amended in May 2004.
+    The charter is reviewed annually and revised as appropriate. A
+    copy of the Audit Committee charter is available on our website
+    (
+www.alchenergy.com
+).
+
+    The independent auditors have unrestricted access and report
+    directly to the Audit Committee. The Audit Committee meets
+    privately with, and has unrestricted access to, the independent
+    auditors and all of our personnel. The Audit Committee has
+    selected UHY Mann Frankfort Stein & Lipp CPAs, LLP as
+    our independent auditors for the fiscal years ended
+    December 31, 2005 and 2006.
+
+    The Audit Committee held 6 meetings during 2005.
+
+Compensation
+    Committee
+
+    The Compensation Committee consists of two independent,
+    non-employee directors, Thomas E. Kelly and Thomas O.
+    Whitener, Jr. The Compensation Committee formulates and
+    oversees the execution of our compensation strategies, including
+    by making recommendations to our board of directors with respect
+    to compensation arrangements for senior management, directors
+    and other key employees. The Compensation Committee also
+    administers our 2003 Incentive Stock Plan. Our board of
+    directors has adopted a charter for the Compensation Committee,
+    a copy of which is available on our website
+    (
+www.alchenergy.com
+).
+
+Nominating
+    Committee
+
+    The Nominating Committee of our board of directors was
+    established in January 2005 to select nominees for the board of
+    directors. The Nominating Committee consists of
+    Mr. Nederlander, as Chairman, and Mr. Whitener, both
+    of whom are independent as defined for such purpose by the
+    American Stock Exchange. We have no formal procedure pursuant to
+    which stockholders may recommend nominees to our board of
+    directors or Nominating Committee, and the board of directors
+    believes that the lack of a formal procedure will not hinder the
+    consideration of qualified nominees. The Nominating Committee
+    utilizes a variety of methods for identifying and evaluating
+    nominees for directors. Candidates may come to the attention of
+    the Nominating Committee through current board members,
+    stockholders and other persons. Our board of directors has
+    adopted a charter for the Nominating Committee, a copy of which
+    is available on our website (
+www.alchenergy.com
+).
+
+    6
+
+Section 16(a)
+    Beneficial Ownership Reporting Compliance
+
+    Under Section 16(a) of the Exchange Act, directors, certain
+    officers, and beneficial owners of 10% or more of any class of
+    our stock, which we refer to as reporting persons, are required
+    from time to time to file with the SEC and the American Stock
+    Exchange reports of ownership and changes of ownership.
+    Reporting persons are required to furnish us with copies of all
+    Section 16(a) reports they file. Based solely on our review
+    of forms and written representations received from reporting
+    persons by us with respect to the fiscal year ended
+    December 31, 2005, we believe that all filing requirements
+    applicable to our officers, directors and greater than 10%
+    stockholders have been met, except as follows:
+
+Known
+
+Number of
+
+Failures to
+
+Number
+
+Transactions
+
+File a
+
+of Late
+
+Not Timely
+
+Required
+
+Name
+
+Reports
+
+Reported
+
+Description of Late
+    Reports
+
+Form
+
+David K. Bryan
+
+    2
+
+    2
+
+(1) Form 3 reflecting
+    Mr. Bryan’s appointment as an officer of our company;
+    and
+
+    —
+
+(2) Form 4 reflecting the
+    grant of stock options to Mr. Bryan in May 2005.
+
+Alya H. Hidayatallah
+
+    1
+
+    1
+
+(1) Form 4 reflecting the
+    grant of stock options to Ms. Hidayatallah in December 2005.
+
+    —
+
+Munawar H. Hidayatallah
+
+    1
+
+    1
+
+(1) Form 4 reflecting the
+    grant of stock options to Mr. Hidayatallah in December 2005.
+
+    —
+
+Terrence P. Keane
+
+    2
+
+    2
+
+(1) Form 4 reflecting the
+    grant of stock options to Mr. Keane in May 2005; and
+
+    —
+
+(2) Form 4 reflecting the
+    grant of stock options to Mr. Keane in December 2005.
+
+Victor M. Perez
+
+    1
+
+    1
+
+(1) Form 4 reflecting the
+    grant of stock options to Mr. Perez in December 2005.
+
+    —
+
+Theodore F. Pound III
+
+    1
+
+    1
+
+(1) Form 4 reflecting the
+    grant of stock options to Mr. Pound in December 2005.
+
+    —
+
+Bruce Sauers
+
+    1
+
+    1
+
+(1) Form 4 reflecting the
+    grant of stock options to Mr. Sauers in December 2005.
+
+    —
+
+David Wilde
+
+    1
+
+    1
+
+(1) Form 4 reflecting the
+    grant of stock options to Mr. Wilde in December 2005.
+
+    —
+
+Code of
+    Ethics
+
+    We have adopted a Code of Ethics applicable to all of our
+    executive officers and directors, including our principal
+    executive officer, principal financial officer, principal
+    accounting officer and controller, and persons performing
+    similar functions. The purpose of the Code of Ethics is:
+    (i) to deter wrongdoing; (ii) to promote honest and
+    ethical conduct, including the ethical handling of actual or
+    apparent conflicts of interest between personal and professional
+    relationships; (iii) to promote full, fair, accurate,
+    timely and understandable disclosure in reports and documents
+    that we file with the SEC or otherwise communicate to the
+    public; (iv) to promote compliance with applicable
+    governmental laws, rules and regulations; (v) to promote
+    prompt internal reporting of violations of the code to an
+    appropriate person; and (vi) to promote accountability for
+    adherence to the code.
+
+    7
+
+    We will provide a copy of the Code of Ethics without charge to
+    any person upon request. Requests may be made to our chief
+    financial officer in writing to our address shown on the first
+    page of this report or by calling
+
+(713) 369-0550.
+
+    A copy of the Code of Ethics is also available on our website
+    (
+www.alchenergy.com
+).
+
+Information
+    Regarding Executive Officers
+
+    The names of our executive officers and certain information
+    about them are set forth below:
+
+Name
+
+Age
+
+Position
+
+Munawar H. Hidayatallah
+
+61
+
+Chairman and Chief Executive
+    Officer
+
+David Wilde
+
+51
+
+President and Chief Operating
+    Officer
+
+Victor M. Perez
+
+53
+
+Chief Financial Officer
+
+Theodore F. Pound III
+
+51
+
+General Counsel and Secretary
+
+Bruce Sauers
+
+42
+
+Vice President and Corporate
+    Controller
+
+Alya H. Hidayatallah
+
+30
+
+Vice
+    President — Planning and Development
+
+David K. Bryan
+
+48
+
+President and Chief Operating
+    Officer of Strata Directional Technology, Inc.
+
+Steve Collins
+
+54
+
+President of Allis-Chalmers
+    Production Services, Inc.
+
+James Davey
+
+52
+
+President of Allis-Chalmers Rental
+    Tools Inc.
+
+Gary Edwards
+
+54
+
+President of Allis-Chalmers
+    Tubular Services Inc.
+
+Terrence P. Keane
+
+53
+
+President and Chief Executive
+    Officer of AirComp L.L.C.
+
+Munawar H. Hidayatallah
+has served as our Chairman of the
+    Board and Chief Executive Officer since May 2001, and was
+    President from May 2001 through February 2003.
+    Mr. Hidayatallah was Chief Executive Officer of OilQuip
+    Rentals, Inc. from its formation in February 2000 until it
+    merged with us in May 2001. From December 1994 until August
+    1999, Mr. Hidayatallah was the Chief Financial Officer and
+    a director of IRI International, Inc., which was acquired by
+    National Oilwell, Inc. in early 2000. IRI International, Inc.
+    manufactured, sold and rented oilfield equipment to the oilfield
+    and natural gas exploration and production sectors. From August
+    1999 until February 2001, Mr. Hidayatallah worked as a
+    consultant to IRI International, Inc. and Riddell Sports Inc.
+
+David Wilde
+became our President and Chief Operating
+    Officer in February 2005. Mr. Wilde was President and Chief
+    Executive Officer of Strata Directional Technology, Inc., or
+    Strata, from October 2003 through February 2005 and served as
+    Strata’s President and Chief Operating Officer from July
+    2003 until October 2003. From February 2002 until July 2003,
+    Mr. Wilde was our Executive Vice President of Sales and
+    Marketing. From May 1999 until February 2002, Mr. Wilde
+    served as Sales and Operations Manager at Strata. Mr. Wilde
+    has more than 30 years’ experience in the directional
+    drilling and rental tool sectors of the oilfield services
+    industry.
+
+Victor M. Perez
+became our Chief Financial Officer in
+    August 2004. From July 2003 to July 2004, Mr. Perez was a
+    private consultant engaged in corporate and international
+    finance advisory. From February 1995 to June 2003,
+    Mr. Perez was Vice President and Chief Financial Officer of
+    Trico Marine Services, Inc., a marine transportation company
+    serving the offshore energy industry. Trico Marine Services,
+    Inc. filed a petition under the federal bankruptcy laws in
+    December 2004. Mr. Perez was Vice President of Corporate
+    Finance with Offshore Pipelines, Inc., an oilfield marine
+    construction company, from October 1990 to January 1995, when
+    that company merged with a subsidiary of McDermott
+    International. Mr. Perez also has 15 years of
+    experience in international energy banking. Mr. Perez is a
+    director of Safeguard Security Holdings.
+
+Theodore F. Pound III
+became our General Counsel in
+    October 2004 and was elected Secretary in January 2005. For ten
+    years prior to joining us, he practiced law with the law firm of
+    Wilson, Cribbs & Goren, P.C.,
+
+    8
+
+    Houston, Texas. Mr. Pound has practiced law for more than
+    25 years. Mr. Pound represented us as our lead counsel
+    in each of our acquisitions beginning in 2001.
+
+Bruce Sauers
+has served as our Vice President and
+    Corporate Controller since July 2005. From January 2005 until
+    July 2005, Mr. Sauers was Controller of Blast Energy Inc.,
+    an oilfield services company. From June 2004 until January 2005,
+    Mr. Sauers worked as a financial and accounting consultant.
+    From July 2003 until June 2004, Mr. Sauers served as
+    controller for HMT, Inc., an above ground storage tank company.
+    From February 2003 until July 2003, Mr. Sauers served as
+    assistant controller at Todco, an offshore drilling contractor.
+    From August 2002 until January 2003, Mr. Sauers acted as a
+    consultant on SEC accounting and financial matters. From
+    December 2001 through June 2002, Mr. Sauers was corporate
+    controller at OSCA, Inc., an oilfield services company, which
+    merged with BJ Service Company. From December 1996 until
+    December 2001, Mr. Sauers was a corporate controller at UTI
+    Energy Corp., a land drilling contractor, which merged and
+    became Patterson-UTI Energy, Inc. Mr. Sauers is a certified
+    public accountant and has served as an accountant for
+    approximately 20 years.
+
+Alya H. Hidayatallah
+became our Vice
+    President — Planning and Development in April
+    2005. From January 2005 to March 2005, Ms. Hidayatallah was
+    a senior financial analyst for Panda Restaurant Group. From
+    November 2004 through December 2004, she worked as a financial
+    analyst for Lexicon Marketing. From February 2000 until April
+    2004, Ms. Hidayatallah was a Financial Analyst and Senior
+    Financial Analyst in the Financial Restructuring Group of
+    Houlihan Lokey Howard & Zukin. Ms. Hidayatallah
+    has a degree in Business Economics from the University of
+    California at Los Angeles awarded in 1997. Ms. Hidayatallah
+    is Mr. Hidayatallah’s daughter.
+
+David K. Bryan
+has served as President and Chief
+    Operating Officer of Strata since February 2005. Mr. Bryan
+    served as Vice President of Strata from June 2002 until February
+    2005. From February 2002 to June 2002, he served as General
+    Manager, and from May 1999 through February 2002, he served as
+    Operations Manager of Strata. Mr. Bryan has been involved
+    in the directional drilling sector since 1979.
+
+Steven Collins
+has served as President of Allis-Chalmers
+    Production Services, Inc., or Production Services, since
+    December 2005. Mr. Collins was our corporate Vice President
+    of Sales and Marketing from June 2005 to December 2005. From
+    2002 to 2005, Mr. Collins served as Sales Manager of Well
+    Testing and Corporate Strategic Accounts Manager for TETRA
+    Technologies. From 1997 to 2002, Mr. Collins was in sales
+    for Production Well Testers. Mr. Collins has over
+    25 years experience in various sales and management
+    positions in the oilfield services industry.
+
+James Davey
+has served as President of Allis-Chalmers
+    Rental Tools Inc., or Rental Tools, since April 2005.
+    Mr. Davey was President of Safco Oilfield Products from
+    September 2004 through 2005 and served as our Executive Vice
+    President of Business Development and Acquisitions in October
+    2003 until 2004. Prior to joining us, Mr. Davey had been
+    employed with CooperCameron for 28 years in various
+    positions.
+
+Gary Edwards
+has served as President of Allis-Chalmers
+    Tubular Services Inc., or Tubular Services, since December 2005
+    after serving as Executive Vice President of Tubular Services
+    since September 2005. From April 1997 to September 2005,
+    Mr. Edwards served as Operations Manager for International
+    Hammer/Spindletop Tubular Services, a division of Patterson
+    Services, Inc. Mr. Edwards has been in the casing and
+    tubing industry for the past 29 years.
+
+Terrence P. Keane
+has served as President and Chief
+    Executive Officer of our AirComp L.L.C. subsidiary since its
+    formation on July 1, 2003, and served as a consultant to
+    M-I, LLC in the area of compressed air drilling from July 2002
+    until June 2003. From March 1999 until June 2002, Mr. Keane
+    served as Vice President and General
+    Manager — Exploration, Production and Processing
+    Services for Gas Technology Institute where Mr. Keane was
+    responsible for all sales, marketing, operations and research
+    and development of the exploration, production and processing
+    business unit. For more than ten years prior to joining the Gas
+    Technology Institute, Mr. Keane had various positions with
+    Smith International, Inc., Houston, Texas, most recently in the
+    position of Vice President Worldwide Operations and Sales for
+    Smith Tool.
+
+    9
+
+ITEM 11.
+
+EXECUTIVE
+    COMPENSATION
+
+    The following table sets forth the compensation paid or awarded
+    by us in 2005, 2004 and 2003 to (i) our Chief Executive
+    Officer and (ii) our four other most highly compensated
+    executive officers as of December 31, 2005. In this report,
+    we refer to the individuals described in the immediately
+    preceding sentence as our named executive officers.
+
+Summary
+    Compensation Table
+
+Long Term
+
+Compensation
+
+Annual Compensation
+
+Awards
+
+Salary
+
+Bonus
+
+Other Annual
+
+Securities Underlying
+
+Name and Principal
+    Position
+
+Year
+
+($)
+
+($)
+
+Compensation(1)
+
+Options/SARs (#)
+
+Munawar H. Hidayatallah,
+
+    2005
+
+    395,833
+
+    200,000
+
+    3,000
+
+    725,000
+
+Chairman & Chief Executive
+    Officer
+
+    2004
+
+    337,500
+
+    580,000
+
+    (2)(3)
+
+    3,375
+
+    —
+
+    2003
+
+    300,000
+
+    (4)
+
+    81,775
+
+    (3)
+
+    3,000
+
+    400,000
+
+David Wilde,
+
+    2005
+
+    299,004
+
+    100,000
+
+    2,340
+
+    290,000
+
+President and Chief Operating
+
+    2004
+
+    209,964
+
+    275,000
+
+    (6)
+
+    1,672
+
+    110,000
+
+Officer(5)
+
+    2003
+
+    137,500
+
+    75,445
+
+    (7)
+
+    1,876
+
+    100,000
+
+Victor M. Perez,
+
+    2005
+
+    240,000
+
+    60,000
+
+    600
+
+    45,000
+
+Chief Financial Officer(8)
+
+    2004
+
+    105,000
+
+    5,500
+
+    2,500
+
+    55,000
+
+Terrence P. Keane,
+
+    2005
+
+    164,000
+
+    82,000
+
+    (10)
+
+    1,640
+
+    50,000
+
+Divisional President and Chief
+
+    2004
+
+    146,308
+
+    51,650
+
+    (11)
+
+    —
+
+    —
+
+Executive Officer of AirComp(9)
+
+    2003
+
+    68,440
+
+    —
+
+    —
+
+    —
+
+David Bryan,
+
+    2005
+
+    176,917
+
+    150,000
+
+    (13)
+
+    1,849
+
+    40,000
+
+President and Chief Operating
+    Officer
+
+    2004
+
+    156,050
+
+    100,000
+
+    (14)
+
+    1,800
+
+    —
+
+of Strata(12)
+
+    2003
+
+    140,000
+
+    14,000
+
+    (15)
+
+    4,050
+
+    30,000
+
+    (1)
+
+    Represents contributions to 401(k) plans. We match contributions
+    made by all employees up to a maximum 1% of each employee’s
+    salary.
+
+    (2)
+
+    Of this amount $175,000 was paid in 2005.
+
+    (3)
+
+    The bonus awarded to Mr. Hidayatallah for fiscal year 2003
+    was determined pursuant to his 2001 employment agreement, based
+    on acquisitions completed for fiscal year 2003, and the bonus
+    for fiscal year 2004 was based on Mr. Hidayatallah’s
+    attaining certain strategic objectives set forth in his 2004
+    employment agreement (see “— Employment
+    Agreements with Management” below).
+
+    (4)
+
+    Of this amount, $60,000 was deferred and paid during 2004.
+
+    (5)
+
+    Mr. Wilde was President and Chief Executive Officer of
+    Strata, one of our subsidiaries, until February 2005, when he
+    was named as our President and Chief Operating Officer.
+
+    (6)
+
+    Of this amount, $62,500 was paid in 2005.
+
+    (7)
+
+    Of this amount, $30,000 was paid in 2004.
+
+    (8)
+
+    Mr. Perez became our Chief Financial Officer in August 2004.
+
+    (9)
+
+    Mr. Keane serves as the President and Chief Executive
+    Officer of AirComp, one of our subsidiaries and, as such, is
+    considered an executive officer.
+
+    (10)
+
+    Of this amount, $82,000 was paid in 2006.
+
+    (11)
+
+    Of this amount, $16,150 was paid in 2005.
+
+    (12)
+
+    Mr. Bryan serves as the President and Chief Operating
+    Officer of Strata and, as such, is considered an executive
+    officer.
+
+    (13)
+
+    Of this amount, $20,794 was paid in 2006.
+
+    (14)
+
+    Of this amount, $31,250 was paid in 2005.
+
+    (15)
+
+    Of this amount, $14,000 was paid in 2004.
+
+    10
+
+Option
+    Grants In Last Fiscal Year
+
+    The following table provides information concerning stock
+    options granted to our named executive officers during 2005. All
+    the grants were options to purchase shares of common stock and
+    were made under our 2003 Incentive Stock Plan. No stock
+    appreciation rights were granted during 2005.
+
+Individual Grants
+
+Potential Realized
+
+Number of
+
+% of Total
+
+Value at Assumed Annual
+
+Securities
+
+Options/SARs
+
+Exercise
+
+Rates of Stock Price
+
+Underlying
+
+Granted to
+
+Price
+
+Appreciation for Option
+
+Options/SARs
+
+Employees
+
+per Share
+
+Expiration
+
+Terms(3)
+
+Name
+
+Granted(1)
+
+in 2005
+
+($/Sh)(2)
+
+Date
+
+5% ($)
+
+10% ($)
+
+Munawar H. Hidayatallah
+
+    125,000
+
+    7.47
+
+    %
+
+    $
+
+    10.85
+
+    12/16/2015
+
+    $
+
+    852,938
+
+    $
+
+    2,161,513
+
+    600,000
+
+    35.86
+
+    %
+
+    $
+
+    3.86
+
+    2/02/2015
+
+    $
+
+    1,456,520
+
+    $
+
+    3,691,108
+
+David Wilde
+
+    90,000
+
+    5.38
+
+    %
+
+    $
+
+    10.85
+
+    12/16/2015
+
+    $
+
+    614,116
+
+    $
+
+    1,556,290
+
+    200,000
+
+    11.95
+
+    %
+
+    $
+
+    3.86
+
+    2/02/2015
+
+    $
+
+    485,507
+
+    $
+
+    1,230,369
+
+Victor M. Perez
+
+    45,000
+
+    2.69
+
+    %
+
+    $
+
+    10.85
+
+    12/16/2015
+
+    $
+
+    307,058
+
+    $
+
+    778,145
+
+Terrence P. Keane
+
+    25,000
+
+    1.49
+
+    %
+
+    $
+
+    4.87
+
+    5/25/2015
+
+    $
+
+    76,568
+
+    $
+
+    194,038
+
+    25,000
+
+    1.49
+
+    %
+
+    $
+
+    10.85
+
+    12/16/2015
+
+    $
+
+    170,588
+
+    $
+
+    432,303
+
+David Bryan
+
+    20,000
+
+    1.20
+
+    %
+
+    $
+
+    3.86
+
+    2/02/2015
+
+    $
+
+    48,551
+
+    $
+
+    123,037
+
+    20,000
+
+    1.20
+
+    %
+
+    $
+
+    4.87
+
+    5/25/2015
+
+    $
+
+    61,254
+
+    $
+
+    155,231
+
+    (1)
+
+    All options were granted under our 2003 Incentive Stock Plan.
+    All options granted by us to date vest and become exercisable in
+    three equal installments, one of which vested upon the grant of
+    the options and one of which will vest upon each of the first
+    and second anniversaries of the date of grant of option,
+    provided that all options will become fully exercisable upon the
+    occurrence of a change of control (as defined in the 2003
+    Incentive Stock Plan).
+
+    (2)
+
+    The exercise price for these options is equal to the fair market
+    value of the common stock on the date of grant. The exercise
+    price may be paid in cash or in shares of common stock valued at
+    the fair market value on the exercise date.
+
+    (3)
+
+    The 5% and 10% assumed rates of appreciation are prescribed by
+    the rules and regulations of the SEC and do not represent our
+    estimate or projection of the future trading prices of our
+    common stock. The calculations assume annual compounding and
+    continued retention of the options or the underlying common
+    stock by the optionee for the full option term of ten years.
+    Unless the market price of the common stock actually appreciates
+    over the option term, no value will be realized by the optionee
+    from these option grants. Actual gains, if any, on stock option
+    exercises are dependent on numerous factors, including, without
+    limitation, our future performance, overall business and market
+    conditions, and the optionee’s continued employment with us
+    throughout the entire vesting period and option term, which
+    factors are not reflected in this table.
+
+    11
+
+Option
+    Exercises and Year-End Option Values
+
+    The following table sets forth, with respect to our named
+    executive officers, the number of options exercised during 2005,
+    the value of unexercised options held at December 31, 2005,
+    and the value of all options held by such persons on
+    December 31, 2005, based upon the closing price of our
+    common stock on such date.
+
+Aggregated
+    Option/ SAR Exercises In Last Fiscal Year
+
+    and FY-End Option/ SAR Values
+
+Number of Securities
+
+Value of Unexercised
+
+Underlying Unexercised
+
+In-the-Money
+
+Options/SARs
+
+Options/SARs
+
+Shares
+
+Value Realized
+
+at Fiscal Year-End (#)
+
+at Fiscal Year-End
+    ($)(1)
+
+Name
+
+Acquired (#)
+
+($)
+
+Exercisable
+
+Unexercisable
+
+Exercisable
+
+Unexercisable
+
+Munawar H. Hidayatallah
+
+    —
+
+    —
+
+    841,667
+
+    283,333
+
+    7,399,501
+
+    1,856,995
+
+David Wilde
+
+    —
+
+    —
+
+    336,666
+
+    163,334
+
+    2,727,395
+
+    950,605
+
+Victor M. Perez
+
+    —
+
+    —
+
+    51,667
+
+    48,333
+
+    303,703
+
+    188,297
+
+Terrence P. Keane
+
+    —
+
+    —
+
+    16,666
+
+    33,334
+
+    76,830
+
+    153,620
+
+David Bryan
+
+    —
+
+    —
+
+    50,000
+
+    20,000
+
+    457,066
+
+    158,734
+
+    (1)
+
+    Based on a value of $12.47 per share, the closing price per
+    share on the American Stock Exchange on December 31, 2005,
+    less the exercise price.
+
+Employment
+    Agreements With Management
+
+    We have entered into written employment agreements with our
+    executive officers as described below. Each employment agreement
+    (other than the agreement of Mr. Keane, which is described
+    below) provides that if the executive officer’s employment
+    is terminated by us for any reason other than “cause,”
+    as defined in the employment agreement, or death or disability,
+    or if the executive officer is “Constructively
+    Terminated,” as defined in the agreement (which definition
+    includes a change in control of us if the executive officer does
+    not continue employment with us or our successor), then he is
+    entitled to receive his then current salary for the entire term
+    of his contract, reduced by any amounts he earns for services
+    during the severance period.
+
+    Munawar H. Hidayatallah serves as our Chairman and Chief
+    Executive Officer pursuant to the terms of a three-year
+    employment agreement dated as of April 1, 2004. Under the
+    terms of the employment agreement, Mr. Hidayatallah
+    receives an annual base salary of $400,000 subject to annual
+    increase in the discretion of the board of directors. In
+    addition, Mr. Hidayatallah is entitled to receive a bonus
+    in an amount equal to 100% of his base salary if he meets
+    certain strategic objectives specified in the agreement, and if
+    he meets some but not all of such objectives may be granted a
+    bonus as determined by the Compensation Committee of the board
+    of directors. Mr. Hidayatallah received a signing bonus of
+    $230,000 but will be required to return a pro rata portion of
+    such bonus if his employment is terminated for any reason prior
+    to April 1, 2007. Pursuant to the agreement, we also
+    maintain a term life insurance policy in the amount of
+    $2,500,000 the proceeds of which would be used to repurchase
+    shares of our common stock from Mr. Hidayatallah’s
+    estate in the event of his death. The number of shares purchased
+    would be determined based upon the fair market value of our
+    common stock, as determined by a third party experienced in
+    valuations of this type, appointed by us.
+
+    David Wilde serves as President and Chief Operating Officer
+    pursuant to the terms of a three-year employment agreement dated
+    as of April 1, 2004. Under the terms of the employment
+    agreement, Mr. Wilde receives an annual base salary of
+    $300,000 subject to annual review and potentially an increase by
+    our board of directors, and Mr. Wilde is entitled to
+    receive a bonus in an amount equal to up to 100% of his base
+    salary, 50% of which is based on meeting quarterly and annual
+    operating income targets. The bonus calculation is subject to
+    adjustment in subsequent years.
+
+    Victor M. Perez serves as our Chief Financial Officer pursuant
+    to the terms of a three-year employment agreement dated as of
+    July 26, 2004. Under the terms of the employment agreement,
+    Mr. Perez receives an
+
+    12
+
+    annual base salary of $240,000 subject to annual review and
+    potentially an increase by our board of directors. In addition,
+    Mr. Perez is entitled to receive a bonus in an amount equal
+    to up to 50% of his base salary if he meets certain strategic
+    objectives specified in his employment agreement.
+
+    Terrence P. Keane, President and Chief Executive Officer of our
+    subsidiary AirComp L.L.C., a Delaware limited liability company,
+    is employed pursuant to an employment agreement dated
+    July 1, 2003, which has a term of four years. Under the
+    terms of this agreement, Mr. Keane is entitled to base
+    salary of $164,000 and to a bonus of up to 90% of his base
+    salary based upon AirComp meeting earnings targets established
+    by AirComp’s Management Committee. If Mr. Keane’s
+    employment is terminated by AirComp without cause or by
+    Mr. Keane for good reason (as such terms are defined in the
+    agreement), Mr. Keane will be entitled to receive his
+    accrued bonus, if any, and to continue to receive salary and
+    medical benefits for a period of six months. In addition, if a
+    change in control (as defined in the agreement) occurs with
+    respect to AirComp, and Mr. Keane does not accept
+    employment with AirComp’s successor, then Mr. Keane
+    will be entitled to receive his accrued bonus, if any, to
+    continue to receive salary for a period of 24 months, and
+    to continue to receive medical benefits for a period of
+    12 months.
+
+    David Bryan was appointed as the President and Chief Operating
+    Officer of Strata in February 2005 pursuant to the terms of a
+    three-year employment agreement dated as of April 1, 2004.
+    Under the terms of the employment agreement, Mr. Bryan
+    receives an annual base salary of $175,000 subject to annual
+    review and potentially an increase by our board of directors. In
+    addition, Mr. Bryan is entitled to receive a bonus based on
+    Strata’s earnings before taxes, interest and depreciation
+    provided that Strata met designated minimum earnings targets and
+    provided further that such bonus shall not exceed 100% of
+    Mr. Bryan’s base salary. The bonus calculation is
+    subject to adjustment in subsequent years.
+
+Board
+    Compensation
+
+    Our policy is to pay our independent directors a fee of
+    $5,000 per quarter beginning in 2005.
+    Messrs. Hidayatallah, Mortensen and Toboroff are not deemed
+    independent for this purpose. Each independent director serving
+    on a committee of the board of directors will receive $1,250
+    quarterly for service on such committee and each independent
+    director serving as chairman of a committee of the board of
+    directors will receive an additional $1,250 per quarter for
+    acting as chairman of such committee. In addition, our
+    “audit committee financial expert” receives $7,500 on
+    a quarterly basis. In 2004 we did not pay directors any
+    compensation for their services as directors. Directors are also
+    compensated for
+
+out-of-pocket
+
+    travel expenses.
+
+    In April 2004, we entered into an oral consulting agreement with
+    Mr. Toboroff pursuant to which we paid him $10,000 per
+    month during the 2005 fiscal year to advise us regarding
+    financing and acquisition opportunities. Effective as of the
+    first quarter of 2006, we pay Mr. Toboroff $12,000 per
+    month pursuant to the agreement.
+
+Compensation
+    Committee Interlocks and Insider Participation
+
+    The Compensation Committee of our board currently consists of
+    Messrs. Kelly and Whitener. Neither of these individuals
+    has been our officer or employee at any time. No current
+    executive officer has ever served as a member of the board of
+    directors or compensation committee of any other entity (other
+    than our subsidiaries) that has or has had one or more executive
+    officers serving as a member of our board or our Compensation
+    Committee.
+
+    Mr. Whitener is a principal of Energy Spectrum, from whom
+    we acquired Strata in February 2002. On April 2, 2004,
+    Energy Spectrum converted all of its Series A Preferred
+    Stock, including accrued dividend rights, into
+    1,718,090 shares of common stock and has subsequently sold
+    such common stock.
+
+    Mr. Kelly was an owner and founder of Downhole Injection
+    Systems, LLC, which we purchased in December 2004.
+    Mr. Kelly received 117,138 shares of our common stock
+    and $306,800 for his interest in Downhole Injection Systems,
+    LLC. Mr. Kelly subsequently sold all but 14,201 of his
+    shares in August of 2005.
+
+    13
+
+ITEM 12.
+
+SECURITY
+    OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND
+    RELATED STOCKHOLDER MATTERS
+
+Security
+    Ownership of Certain Beneficial Owners and Management
+
+    The following table sets forth the beneficial ownership of
+    outstanding shares of our common stock as of April 28, 2006
+    for:
+
+    •
+
+    our named executive officers;
+
+    •
+
+    each of our other directors;
+
+    •
+
+    all of our directors and executive officers as a group; and
+
+    •
+
+    each other person known by us to be a beneficial owner of more
+    than 5.0% of our outstanding common stock.
+
+    Beneficial ownership is determined in accordance with the rules
+    of the SEC. Under the rules of the SEC, a person is deemed to be
+    a “beneficial owner” of a security if that person has
+    or shares “voting power,” which includes the power to
+    vote or to direct the voting of such security, or
+    “investment power,” which includes the power to
+    dispose of or to direct the disposition of such security. A
+    person is also deemed to be a beneficial owner of any securities
+    of which that person has a right to acquire beneficial ownership
+    within 60 days. Under these rules, more than one person may
+    be deemed a beneficial owner of the same securities and a person
+    may be deemed a beneficial owner of securities as to which he
+    has no economic interest. Except as indicated by footnote, the
+    persons named in the table below have sole voting and investment
+    power with respect to all shares shown as beneficially owned by
+    them, subject to community property laws where applicable.
+
+Beneficial
+
+Number of Shares
+
+Ownership
+
+Name and Address
+
+Beneficially Owned
+
+Percentage
+
+Named Executive
+    Officers:
+
+Munawar H. Hidayatallah(1)
+
+    1,686,666
+
+    9.3
+
+David Wilde(2)
+
+    341,666
+
+    1.9
+
+Victor M. Perez(3)
+
+    51,667
+
+    *
+
+Terence P. Keane(4)
+
+    25,000
+
+    *
+
+David Bryan(5)
+
+    68,666
+
+    *
+
+Directors:
+
+Jens H. Mortensen, Jr.(6)
+
+    1,600,591
+
+    9.2
+
+John E. McConnaughy, Jr.(7)
+
+    100,000
+
+    *
+
+Victor F. Germack(8)
+
+    —
+
+    —
+
+Thomas E. Kelly(9)
+
+    14,201
+
+    *
+
+Thomas O. Whitener, Jr.(10)
+
+    —
+
+    —
+
+Robert E. Nederlander(11)
+
+    717,594
+
+    4.1
+
+Jeffrey R. Freedman(12)
+
+    119,000
+
+    *
+
+Leonard Toboroff(13)
+
+    695,594
+
+    4.0
+
+All directors and executive
+    officers as a group
+
+(19 persons)
+
+    5,543,976
+
+    28.8
+
+Other 5% Holders:
+
+Palo Alto Investors(14)
+
+    2,208,767
+
+    12.7
+
+Steve Emerson(15)
+
+    1,065,900
+
+    6.3
+
+    *
+
+    Less than one percent.
+
+    (1)
+
+    Mr. Hidayatallah is the trustee of the Hidayatallah Family
+    Trust, which is the record owner of 845,000 shares of our
+    common stock, and Mr. Hidayatallah holds options to
+    purchase 1,125,000 shares of common stock, of which options
+    to purchase 841,666 shares are exercisable within
+    60 days. Mr. Hidayatallah’s address is
+    5075 Westheimer, Suite 890, Houston, TX 77056.
+
+    14
+
+    (2)
+
+    Includes (a) 5,000 shares of common stock owned of
+    record by Mr. Wilde and (b) options to purchase
+    500,000 shares of common stock, of which 336,666 are
+    exercisable within 60 days. Mr. Wilde’s address
+    is 5075 Westheimer, Suite 890, Houston, TX 77056.
+
+    (3)
+
+    Includes options to purchase 100,000 shares of common
+    stock, of which 51,667 are exercisable within 60 days.
+    Mr. Perez’s address is 5075 Westheimer,
+    Suite 890, Houston, TX 77056.
+
+    (4)
+
+    Includes options to purchase 50,000 shares of common stock,
+    of which 25,000 are exercisable within 60 days.
+    Mr. Keane’s address is 5075 Westheimer,
+    Suite 890, Houston, TX 77056.
+
+    (5)
+
+    Includes (a) 12,000 shares of common stock owned of
+    record by Mr. Bryan and (b) options to purchase
+    70,000 shares of common stock, of which 56,666 are
+    exercisable within 60 days. Mr. Bryan’s address
+    is 5075 Westheimer, Suite 890, Houston, TX 77056.
+
+    (6)
+
+    Includes (a) 1,500,591 shares of common stock owned of
+    record by Mr. Mortensen and (b) options to purchase
+    100,000 shares of common stock, all of which are
+    exercisable within 60 days. Mr. Mortensen’s
+    address is 5075 Westheimer, Suite 890, Houston, TX 77056.
+
+    (7)
+
+    Mr. McConnaughy’s address is 2 Parklands Drive,
+    Darien, CT 06820.
+
+    (8)
+
+    Mr. Germack’s address is 845 3rd Avenue,
+    Suite 1410, New York, NY 10022.
+
+    (9)
+
+    Mr. Kelly’s address is 450 North Marienfield,
+    Suite 200, Midland, TX 79701.
+
+    (10)
+
+    Mr. Whitener’s address is 5956 Sherry Lane,
+    Suite 900, Dallas, TX 75225.
+
+    (11)
+
+    Includes (a) 715,594 shares of common stock owned
+    directly by Mr. Nederlander or by RER Corp. or QEN Corp.,
+    corporations controlled by Mr. Nederlander, and
+    (b) currently exercisable options to purchase
+    2,000 shares of common stock owned directly by
+    Mr. Nederlander or RER Corp. Mr. Nederlander’s
+    address is 1450 Broadway, Suite 2001, New York, NY
+    10018.
+
+    (12)
+
+    Mr. Freedman’s address is 123 Via Verde Way, Palm
+    Beach, FL 33418.
+
+    (13)
+
+    Includes (a) 595,194 shares of common stock owned
+    directly by Mr. Toboroff or Lenny Corp., a corporation
+    wholly-owned by Mr. Toboroff, and (b) currently
+    exercisable options to purchase 100,400 shares of common
+    stock owned directly by Mr. Toboroff.
+    Mr. Toboroff’s address is 1450 Broadway,
+    Suite 2001, New York, NY 10018.
+
+    (14)
+
+    Owned collectively by Micro Cap Partners, L.P., UBTI Free, L.P.
+    and Palo Alto Global Energy Fund, L.P. Palo Alto Investors,
+    LLC acts as the general partner of Micro Cap Partners, L.P.,
+    UBTI Free, L.P. and Palo Alto Global Energy Fund, L.P. Palo Alto
+    Investors, Inc. is the manager of Palo Alto Investors, LLC, and
+    William L. Edwards is the President of Palo Alto Investors, Inc.
+    Palo Alto Investors, LLC, Palo Alto Investors, Inc. and William
+    L. Edwards each have investment and voting authority with
+    respect to the shares owned by this stockholder. The business
+    address for each of these persons is 470 University Avenue, Palo
+    Alto, CA 94301.
+
+    (15)
+
+    Consists of certain shares owned by J. Steven Emerson IRA
+    RO II, Bear Stearns Securities Corporation, Custodian, J.
+    Steven Emerson Roth IRA, Bear Stearns Securities Corporation,
+    Custodian, and Emerson Partners, respectively. J. Steven Emerson
+    has investment and voting authority with respect to the shares
+    owned by J. Steven Emerson IRA RO II, Bear Stearns
+    Securities Corporation, Custodian, J. Steven Emerson Roth IRA,
+    Bear Stearns Securities Corporation, Custodian and Emerson
+    Partners, Bear Stearns Securities Corporation, Custodian.
+    Mr. Emerson’s business address is 1522 Ensley Avenue,
+    Los Angeles, CA 90024.
+
+    15
+
+Equity
+    Compensation Plan Information
+
+    The following table provides information as of December 31,
+    2005 with respect to the shares of our common stock that may be
+    issued under our existing equity compensation plans.
+
+Number of
+
+Securities to be
+
+Weighted
+
+Issued Upon
+
+Average Exercise
+
+Number of Securities
+
+Exercise of
+
+Price of
+
+Remaining Available
+
+Outstanding
+
+Outstanding
+
+for Future Issuance
+
+Options, Warrants
+
+Options, Warrants
+
+Under Equity
+
+Plan Category
+
+and Rights
+
+and Rights
+
+Compensation Plans
+
+Equity compensation plans approved
+    by security holders
+
+    2,756,067
+
+    $
+
+    5.18
+
+    210,100
+
+Equity compensation plans not
+    approved by security holders
+
+    489,243
+
+    $
+
+    2.97
+
+    —
+
+Total
+
+    3,245,310
+
+    $
+
+    4.85
+
+    210,100
+
+Equity
+    Compensation Plans Not Approved by Security Holders
+
+    These plans comprise the following:
+
+    In 1999 and 2000, the Board compensated former and continuing
+    Board members who had served from 1989 to March 31, 1999
+    without compensation by issuing promissory notes totaling
+    $325,000 and by granting stock options to these same
+    individuals. Options to purchase 4,800 shares of common
+    stock were granted with an exercise price of $13.75. These
+    options vested immediately and expire in March 2010. As of
+    December 31, 2005, none of these options had been exercised.
+
+    On May 31, 2001, our Board granted to one of our directors,
+    Leonard Toboroff, an option to purchase 100,000 shares of
+    common stock at $2.50 per share, expiring in October 2011.
+    The option was granted for services provided by
+    Mr. Toboroff to OilQuip prior to our merger with OilQuip
+    Rentals, Inc., including providing financial advisory services,
+    assisting in OilQuip’s capital structure and assisting
+    OilQuip in finding strategic acquisition opportunities. As of
+    December 31, 2005, none of these options have been
+    exercised.
+
+    In February 2001, we issued warrants to purchase
+    233,000 shares of our common stock at an exercise price of
+    $0.75 per share and warrants to purchase 67,000 shares
+    of our common stock at an exercise price of $5.00 per share
+    in connection with a subordinated debt financing. The warrants
+    to purchase 233,000 shares were redeemed during December
+    2004 for $1.5 million. The remaining 67,000 warrants are
+    currently outstanding and expire in February 2011.
+
+    In connection with the private placement in April 2004, we
+    issued warrants for the purchase of 800,000 shares of our
+    common stock at an exercise price of $2.50 per share. A
+    total of 486,557 of these warrants were exercised in 2005.
+    Warrants for 4,000 shares of our common stock at an
+    exercise price of $4.65 were also issued in May 2004 and remain
+    outstanding as of December 31, 2005.
+
+ITEM 13.
+
+CERTAIN
+    RELATIONSHIPS AND RELATED TRANSACTIONS
+
+    In July 2005, we entered into a lease of a yard in Buffalo,
+    Texas which is part owned by our Chief Operating Officer, David
+    Wilde. The monthly rent is $3,500. In September of 2005, we
+    entered into a four year lease for a yard in Kilgore, Texas for
+    $4,300 per month and a four-year lease for a yard in Corpus
+    Christi, Texas for $3,500 per month with Gary Edwards, the
+    President of Allis-Chalmers Tubular Services, Inc.
+
+    Alya H. Hidayatallah, the daughter of our Chairman and Chief
+    Executive Officer, Munawar H. Hidayatallah, has served as our
+    Vice President — Planning and Development since
+    April 2005. In 2005, we paid Ms. Hidayatallah a salary at a
+    rate of $80,000 per annum.
+
+    In April 2004, we entered into an oral consulting agreement with
+    Leonard Toboroff pursuant to which we paid him $10,000 per
+    month during the 2005 fiscal year to advise us regarding
+    financing and acquisition
+
+    16
+
+    opportunities. Effective as of the first quarter of 2006, we pay
+    Mr. Toboroff $12,000 per month pursuant to the
+    agreement.
+
+    As of December 31, 2005, Jens Mortensen, one of our
+    directors, was the holder of a subordinated note payable (having
+    a stated principal amount of $4.0 million and an annual
+    interest rate of 7.5%), which we issued to him in connection
+    with our acquisition of Tubular Services (of which
+    Mr. Mortensen is a former equity holder). As of
+    December 31, 2005, we owed Mr. Mortensen
+    $3.0 million in principal and $60,000 in accrued interest
+    on the subordinated note, all of which we paid in January 2006.
+    We also owe Mr. Mortensen $267,000 under the terms of a
+    non-compete agreement. During the year ended December 31,
+    2005, we paid $247,000 to Mr. Mortensen under the terms of
+    this non-compete agreement. We also leased a yard from
+    Mr. Mortensen on a monthly basis and paid rent of $16,800
+    during the year ended December 31, 2005.
+
+ITEM 14.
+
+PRINCIPAL
+    ACCOUNTANT FEES AND SERVICES
+
+    The following table shows the aggregate fees we paid to our
+    independent accountant, UHY Mann Frankfort Stein & Lipp
+    CPAs LLP, for services rendered during the years ended
+    December 31, 2005 and 2004 and to Gordon, Hughes &
+    Banks, LLP, for services rendered during the year ended
+    December 31, 2004.
+
+    Description of Fees To:
+
+UHY Mann Frankfort
+    Stein & Lipp CPAs LLP
+
+2005
+
+2004
+
+Audit fees(1)
+
+    $
+
+    325,542
+
+    $
+
+    210,453
+
+Audit related fees(2)
+
+    $
+
+    307,070
+
+    $
+
+    —
+
+Tax fees(3)
+
+    $
+
+    88,273
+
+    $
+
+    15,028
+
+All other fees(4)
+
+    $
+
+    121,755
+
+    $
+
+    14,000
+
+Gordon Hughes & Banks,
+    LLP
+
+Audit fees(1)
+
+    $
+
+    —
+
+    $
+
+    —
+
+Audit related fees(2)
+
+    $
+
+    —
+
+    $
+
+    —
+
+Tax fees(3)
+
+    $
+
+    —
+
+    $
+
+    —
+
+All other fees(4)
+
+    $
+
+     59,216
+
+    $
+
+     58,754
+
+    (1)
+
+    Includes fees paid for audit of our annual financial statements
+    and reviews of the related quarterly financial statements. 100%
+    of these fees were pre-approved by our Audit Committee.
+
+    (2)
+
+    Includes fees paid for assurance and related services that are
+    reasonably related to the performance of the audit or review of
+    our financial statements and are not reported under “Audit
+    fees”. These services include issuance of consents and
+    other accounting and reporting consultations. 100% of these fees
+    were pre-approved by our Audit Committee.
+
+    (3)
+
+    Includes tax planning and tax return preparation fees. These
+    services and fees were not pre-approved by our Audit Committee.
+
+    (4)
+
+    Includes fees related to the review and issuance of consents
+    related to our registration statements on
+
+Form S-1
+
+    and other SEC filings. These services and fees were not
+    pre-approved by our Audit Committee.
+
+Pre-approval
+    Policies and Procedures
+
+    We adopted a policy that the Audit Committee must approve in
+    advance all audit and audit related services provided by our
+    independent accountants. All of the audit and audit related
+    services provided to us in 2005 and 2004 were pre-approved by
+    the Audit Committee.
+
+    17
+
+PART IV
+
+ITEM 15.
+
+EXHIBITS AND
+    FINANCIAL STATEMENT SCHEDULES
+
+    (b) Exhibits
+
+    The exhibits listed on the Exhibit Index set forth
+    immediately following the signature page of this Annual Report
+    on
+
+Form 10-K/A-1
+
+    are filed as part of this
+
+Form 10-K/A-1.
+
+    18
+
+SIGNATURES
+
+    Pursuant to the requirements of Section 13 or 15(d) of the
+    Securities Exchange Act of 1934, as amended, the registrant has
+    duly caused this report to be signed on its behalf by the
+    undersigned, thereunto duly authorized on May 1, 2006.
+
+/s/  MUNAWAR H. HIDAYATALLAH
+
+Munawar H. Hidayatallah
+
+    Chief Executive Officer and Chairman
+
+    19
+
+EXHIBIT INDEX
+
+Exhibit
+
+Description
+
+    31
+
+    .1
+
+Certification of Chief Executive
+    Officer pursuant to Section 302 of the Sarbanes-Oxley Act
+    of 2002.
+
+    31
+
+    .2
+
+Certification of Chief Financial
+    Officer pursuant to Section 302 of the Sarbanes-Oxley Act
+    of 2002.
+
+    20
+
+EX-31.1
+
+2
+
+h34263a1exv31w1.htm
+
+CERTIFICATION OF CEO PURSUANT TO SECTION 302
+
+exv31w1
+
+EXHIBIT 31.1
+
+CERTIFICATIONS
+
+    I, Munawar Hidayatallah, Chief Executive Officer of the Company,
+    certify that:
+
+    1. I have reviewed this Annual Report on
+
+Form 10-K/A-1
+
+    of Allis-Chalmers Energy Inc.;
+
+    2. Based on my knowledge, this report does not contain any
+    untrue statement of a material fact or omit to state a material
+    fact necessary to make the statements made, in light of the
+    circumstances under which such statements were made, not
+    misleading with respect to the period covered by this report;
+
+    3. The registrant’s other certifying officer and I are
+    responsible for establishing and maintaining disclosure controls
+    and procedures (as defined in Exchange Act
+
+Rules 13a-15(e)
+
+    and
+
+15d-15(e))
+
+    for the registrant and have:
+
+    (a) Designed such disclosure controls and procedures, or
+    caused such disclosure controls and procedures to be designed
+    under our supervision, to ensure that material information
+    relating to the registrant, including its consolidated
+    subsidiaries, is made known to us by others within those
+    entities, particularly during the period in which this report is
+    being prepared; and
+
+    (b) Disclosed in this report any change in the
+    registrant’s internal control over financial reporting that
+    occurred during the registrant’s most recent fiscal quarter
+    (the registrant’s fourth fiscal quarter in the case of an
+    annual report) that has materially affected, or is reasonably
+    likely to materially affect, the registrant’s internal
+    control over financial reporting; and
+
+    4. The registrant’s other certifying officer and I
+    have disclosed, based on our most recent evaluation of internal
+    control over financial reporting, to the registrant’s
+    auditors and the audit committee of the registrant’s board
+    of directors:
+
+    (a) All significant deficiencies and material weaknesses in
+    the design or operation of internal control over financial
+    reporting which are reasonably likely to adversely affect the
+    registrant’s ability to record, process, summarize and
+    report financial information; and
+
+    (b) Any fraud, whether or not material, that involves
+    management or other employees who have a significant role in the
+    registrant’s internal control over financial reporting.
+
+    By:
+
+    /s/  MUNAWAR H. HIDAYATALLAH
+
+    MUNAWAR H. HIDAYATALLAH
+
+    CHIEF EXECUTIVE OFFICER
+
+    DATE: May 1, 2006
+
+EX-31.2
+
+3
+
+h34263a1exv31w2.htm
+
+CERTIFICATION OF CFO PURSUANT TO SECTION 302
+
+exv31w2
+
+EXHIBIT 31.2
+
+CERTIFICATIONS
+
+    I, Victor M. Perez, Chief Financial Officer of the Company,
+    certify that:
+
+    1. I have reviewed this Annual Report on
+
+Form 10-K/A-1
+
+    of Allis-Chalmers Energy Inc.;
+
+    2. Based on my knowledge, this report does not contain any
+    untrue statement of a material fact or omit to state a material
+    fact necessary to make the statements made, in light of the
+    circumstances under which such statements were made, not
+    misleading with respect to the period covered by this report;
+
+    3. The registrant’s other certifying officer and I are
+    responsible for establishing and maintaining disclosure controls
+    and procedures (as defined in Exchange Act
+
+Rules 13a-15(e)
+
+    and
+
+15d-15(e))
+
+    for the registrant and have:
+
+    (a) Designed such disclosure controls and procedures, or
+    caused such disclosure controls and procedures to be designed
+    under our supervision, to ensure that material information
+    relating to the registrant, including its consolidated
+    subsidiaries, is made known to us by others within those
+    entities, particularly during the period in which this report is
+    being prepared; and
+
+    (b) Disclosed in this report any change in the
+    registrant’s internal control over financial reporting that
+    occurred during the registrant’s most recent fiscal quarter
+    (the registrant’s fourth fiscal quarter in the case of an
+    annual report) that has materially affected, or is reasonably
+    likely to materially affect, the registrant’s internal
+    control over financial reporting; and
+
+    4. The registrant’s other certifying officer and I
+    have disclosed, based on our most recent evaluation of internal
+    control over financial reporting, to the registrant’s
+    auditors and the audit committee of the registrant’s board
+    of directors:
+
+    (a) All significant deficiencies and material weaknesses in
+    the design or operation of internal control over financial
+    reporting which are reasonably likely to adversely affect the
+    registrant’s ability to record, process, summarize and
+    report financial information; and
+
+    (b) Any fraud, whether or not material, that involves
+    management or other employees who have a significant role in the
+    registrant’s internal control over financial reporting.
+
+    By:
+
+    /s/  VICTOR M. PEREZ
+
+    VICTOR M. PEREZ
+
+    CHIEF FINANCIAL OFFICER
+
+    DATE: May 1, 2006
+
+-----END PRIVACY-ENHANCED MESSAGE-----

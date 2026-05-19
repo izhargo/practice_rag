@@ -1,0 +1,4312 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Ih8C0Q5pxPy88ywwINfFhfGYyeNjjCXpC8D+378WPQfXDiiovTKMmhdhvyhAJpUU
+ Vvp0hJvdc+jcO+iPejAybQ==
+
+0000950129-06-007871.txt : 20060814
+
+0000950129-06-007871.hdr.sgml : 20060814
+
+20060814135916
+ACCESSION NUMBER:		0000950129-06-007871
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20060630
+FILED AS OF DATE:		20060814
+DATE AS OF CHANGE:		20060814
+
+FILER:
+
+	COMPANY DATA:
+		COMPANY CONFORMED NAME:			Allis Chalmers Energy Inc.
+		CENTRAL INDEX KEY:			0000003982
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL, GAS FIELD SERVICES, NBC [1389]
+		IRS NUMBER:				390126090
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02199
+		FILM NUMBER:		061028845
+
+	BUSINESS ADDRESS:
+		STREET 1:		5075 WESTHEIMER
+		STREET 2:		SUITE 890
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77056
+		BUSINESS PHONE:		713-369-0550
+
+	MAIL ADDRESS:
+		STREET 1:		5075 WESTHEIMER
+		STREET 2:		SUITE 890
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77056
+
+	FORMER COMPANY:
+		FORMER CONFORMED NAME:	ALLIS CHALMERS CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:
+		FORMER CONFORMED NAME:	ALLIS CHALMERS MANUFACTURING CO
+		DATE OF NAME CHANGE:	19710614
+
+10-Q
+
+1
+
+h38818e10vq.htm
+
+FORM 10-Q - QUARTERLY REPORT
+
+e10vq
+
+Table of Contents
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-Q
+
+(Mark One)
+
+þ
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+
+FOR THE QUARTERLY PERIOD ENDED JUNE 30, 2006
+
+OR
+
+o
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934
+
+FOR THE TRANSITION PERIOD FROM
+
+ TO
+
+Commission file number 1-2199
+
+ALLIS-CHALMERS
+ENERGY INC.
+
+(Exact name of registrant as specified in its charter)
+
+DELAWARE
+
+39-0126090
+
+(State or other jurisdiction of
+
+incorporation or organization)
+
+(I.R.S. Employer
+
+Identification No.)
+
+5075 WESTHEIMER, SUITE 890, HOUSTON, TEXAS 77056
+
+(Address of principal executive offices) (Zip code)
+
+(713) 369-0550
+
+Registrant’s telephone number, including area code
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for
+such shorter period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days. Yes
+þ
+   No
+o
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer,
+or a non-accelerated filer. See definition of “accelerated filer and larger accelerated filer” in
+Rule 12b-2 of the Exchange Act. (Check one):
+
+Large accelerated filer
+o
+      Accelerated filer
+o
+       Non-accelerated filer
+þ
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act). Yes
+o
+   No
+þ
+
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of
+the latest practicable date.
+At August 8, 2006 there were 18,533,815 shares of common stock, par value $0.01 per share,
+outstanding.
+
+ALLIS-CHALMERS ENERGY INC.
+
+FORM 10-Q
+
+For the Quarterly Period Ended June 30, 2006
+
+TABLE OF CONTENTS
+
+ITEM
+
+PAGE
+
+PART I
+
+1.
+
+Financial Statements
+
+Consolidated Condensed Balance Sheets as of June 30, 2006 and December 31, 2005
+
+3
+
+Consolidated Condensed Income Statements for the three and six months ended June 30, 2006 and 2005
+
+4
+
+Consolidated Condensed Statements of Cash Flows for the six months ended June 30, 2006 and 2005
+
+5
+
+Notes to Consolidated Condensed Financial Statements
+
+6
+
+2.
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+17
+
+3.
+
+Quantitative and Qualitative Disclosures about Market Risk
+
+27
+
+4.
+
+Controls and Procedures
+
+27
+
+PART II
+
+1.
+
+Legal Proceedings
+
+28
+
+2.
+
+Unregistered Sales of Equity Securities and Use of Proceeds
+
+28
+
+6.
+
+Exhibits
+
+28
+
+Signatures
+
+29
+
+Certification of CEO Pursuant to Section 302
+
+Certification of CFO Pursuant to Section 302
+
+Certification of CEO and CFO Pursuant to Section 906
+
+2
+
+Table of Contents
+
+PART I. FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+ALLIS-CHALMERS ENERGY INC.
+
+CONSOLIDATED CONDENSED BALANCE SHEETS
+
+(in thousands, except for share and per share amounts)
+
+June 30,
+
+December 31,
+
+2006
+
+2005
+
+(unaudited)
+
+Assets
+
+Cash and cash equivalents
+
+$
+
+6,208
+
+$
+
+1,920
+
+Trade receivables, net
+
+49,114
+
+26,964
+
+Inventory
+
+9,897
+
+5,945
+
+Prepaid expenses and other
+
+2,655
+
+823
+
+Total current assets
+
+67,874
+
+35,652
+
+Property and equipment, net
+
+185,750
+
+80,574
+
+Goodwill
+
+12,417
+
+12,417
+
+Other intangible assets, net
+
+7,131
+
+6,783
+
+Debt issuance costs, net
+
+6,187
+
+1,298
+
+Other assets
+
+1,327
+
+631
+
+Total assets
+
+$
+
+280,686
+
+$
+
+137,355
+
+Liabilities and Stockholders’ Equity
+
+Current maturities of long-term debt
+
+$
+
+4,059
+
+$
+
+5,632
+
+Trade accounts payable
+
+9,616
+
+9,018
+
+Accrued salaries, benefits and payroll taxes
+
+2,270
+
+1,271
+
+Accrued interest
+
+6,654
+
+289
+
+Accrued income taxes
+
+1,686
+
+668
+
+Accrued expenses
+
+6,095
+
+3,682
+
+Accounts payable, related parties
+
+—
+
+60
+
+Total current liabilities
+
+30,380
+
+20,620
+
+Accrued postretirement benefit obligations
+
+319
+
+335
+
+Long-term debt, net of current maturities
+
+165,957
+
+54,937
+
+Other long-term liabilities
+
+749
+
+588
+
+Total liabilities
+
+197,405
+
+76,480
+
+Commitments and contingencies
+
+Stockholders’ Equity
+
+Preferred stock, $0.01 par value (25,000,000 shares authorized, no shares issued)
+
+—
+
+—
+
+Common stock, $0.01 par value (100,000,000 shares authorized;
+18,516,714 issued and outstanding at June 30, 2006 and
+16,859,988 issued and outstanding at December 31, 2005)
+
+185
+
+169
+
+Capital in excess of par value
+
+67,261
+
+58,889
+
+Retained earnings
+
+15,835
+
+1,817
+
+Total stockholders’ equity
+
+83,281
+
+60,875
+
+Total liabilities and stockholders’ equity
+
+$
+
+280,686
+
+$
+
+137,355
+
+The accompanying Notes are an integral part of the Consolidated Condensed Financial Statements.
+
+3
+
+Table of Contents
+
+ALLIS-CHALMERS ENERGY INC.
+
+CONSOLIDATED CONDENSED INCOME STATEMENTS
+
+(in thousands, except per share amounts)
+
+(unaudited)
+
+For the Three Months Ended
+
+For the Six Months Ended
+
+June 30,
+
+June 30,
+
+2006
+
+2005
+
+2006
+
+2005
+
+Revenues
+
+$
+
+60,470
+
+$
+
+23,588
+
+$
+
+107,498
+
+$
+
+42,922
+
+Cost of revenues
+
+Direct costs
+
+31,966
+
+15,691
+
+59,081
+
+28,476
+
+Depreciation
+
+3,828
+
+1,092
+
+7,158
+
+2,006
+
+Total cost of revenues
+
+35,794
+
+16,783
+
+66,239
+
+30,482
+
+Gross margin
+
+24,676
+
+6,805
+
+41,259
+
+12,440
+
+General and administrative
+
+8,139
+
+3,465
+
+15,482
+
+6,459
+
+Amortization
+
+666
+
+426
+
+1,273
+
+820
+
+Income from operations
+
+15,871
+
+2,914
+
+24,504
+
+5,161
+
+Other income (expense):
+
+Interest
+
+(3,797
+
+)
+
+(645
+
+)
+
+(7,425
+
+)
+
+(1,166
+
+)
+
+Other
+
+(6
+
+)
+
+10
+
+20
+
+158
+
+Total other income (expense)
+
+(3,803
+
+)
+
+(635
+
+)
+
+(7,405
+
+)
+
+(1,008
+
+)
+
+Net income before minority interest
+and income taxes
+
+12,068
+
+2,279
+
+17,099
+
+4,153
+
+Minority interest in income of subsidiaries
+
+—
+
+(344
+
+)
+
+—
+
+(488
+
+)
+
+Provision for income taxes
+
+(2,474
+
+)
+
+(166
+
+)
+
+(3,081
+
+)
+
+(329
+
+)
+
+Net income
+
+$
+
+9,594
+
+$
+
+1,769
+
+$
+
+14,018
+
+$
+
+3,336
+
+Net income per common share:
+
+Basic
+
+$
+
+0.53
+
+$
+
+0.13
+
+$
+
+0.80
+
+$
+
+0.24
+
+Diluted
+
+$
+
+0.50
+
+$
+
+0.12
+
+$
+
+0.74
+
+$
+
+0.22
+
+Weighted average shares outstanding:
+
+Basic
+
+18,050
+
+13,967
+
+17,578
+
+13,800
+
+Diluted
+
+19,140
+
+15,103
+
+19,000
+
+14,900
+
+The accompanying Notes are an integral part of the Consolidated Condensed Financial Statements.
+
+4
+
+Table of Contents
+
+ALLIS-CHALMERS ENERGY INC.
+
+CONSOLIDATED CONDENSED STATEMENTS OF CASH FLOWS
+
+(in thousands)
+
+(unaudited)
+
+For the Six Months Ended
+
+June 30,
+
+2006
+
+2005
+
+Cash Flows from Operating Activities:
+
+Net income
+
+$
+
+14,018
+
+$
+
+3,336
+
+Adjustments to reconcile net income to net cash
+provided by operating activities:
+
+Depreciation
+
+7,158
+
+2,006
+
+Amortization
+
+1,273
+
+820
+
+Imputed interest
+
+355
+
+—
+
+Stock option expense
+
+1,778
+
+—
+
+Provision for bad debts
+
+279
+
+—
+
+Minority interest in income of subsidiaries
+
+—
+
+488
+
+Loss on sale of property and equipment
+
+119
+
+—
+
+Changes in operating assets and liabilities, net of acquisitions:
+
+(Increase) in trade receivable
+
+(13,581
+
+)
+
+(3,024
+
+)
+
+(Increase) in inventory
+
+(1,499
+
+)
+
+(1,090
+
+)
+
+Decrease in other current assets
+
+278
+
+201
+
+(Increase) in other assets
+
+(663
+
+)
+
+(375
+
+)
+
+(Decrease) increase in accounts payable
+
+(1,517
+
+)
+
+610
+
+Increase in accrued interest
+
+6,365
+
+35
+
+Increase (decrease) in accrued expenses
+
+1,818
+
+(296
+
+)
+
+Increase in accrued salaries, benefits and payroll taxes
+
+657
+
+172
+
+Increase in other long-term liabilities
+
+145
+
+6
+
+Net Cash Provided By Operating Activities
+
+16,983
+
+2,889
+
+Cash Flows from Investing Activities:
+
+Acquisition of businesses, net of cash received
+
+(106,564
+
+)
+
+(7,088
+
+)
+
+Proceeds from sale of property and equipment
+
+1,814
+
+—
+
+Purchase of property and equipment
+
+(14,246
+
+)
+
+(5,463
+
+)
+
+Net Cash Used In Investing Activities
+
+(118,996
+
+)
+
+(12,551
+
+)
+
+Cash Flows from Financing Activities:
+
+Proceeds from exercises of options and warrants
+
+4,960
+
+—
+
+Proceeds from long-term debt
+
+161,412
+
+5,210
+
+Proceeds from line of credit
+
+5,000
+
+—
+
+Repayments on long-term debt
+
+(45,291
+
+)
+
+—
+
+Repayments on related party debt
+
+(3,031
+
+)
+
+—
+
+Repayments on line of credit
+
+(11,400
+
+)
+
+—
+
+Debt issuance costs
+
+(5,349
+
+)
+
+(199
+
+)
+
+Net Cash Provided By Financing Activities
+
+106,301
+
+5,011
+
+Net change in cash and cash equivalents
+
+4,288
+
+(4,651
+
+)
+
+Cash and cash equivalents at beginning of year
+
+1,920
+
+7,344
+
+Cash and cash equivalents at end of period
+
+$
+
+6,208
+
+$
+
+2,693
+
+The accompanying Notes are an integral part of the Consolidated Condensed Financial Statements.
+
+5
+
+Table of Contents
+
+ALLIS-CHALMERS ENERGY INC.
+
+NOTES TO UNAUDITED CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+
+NOTE 1 — NATURE OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Nature of Operations
+
+We are a multi-faceted oilfield service company that provides services and equipment to oil and
+natural gas exploration and production companies, domestically in Texas, Louisiana, New Mexico,
+Colorado, Oklahoma, Mississippi, Utah, Wyoming, offshore in the Gulf of Mexico, and internationally
+in Mexico. We operate in five sectors of the oil and natural gas service industry: directional
+drilling services; rental tools; casing and tubing services; compressed air drilling services; and
+production services.
+
+We derive operating revenues from rates per day and rates per job that we charge for the labor and
+equipment required to provide a service. The price we charge for our services depends upon several
+factors, including the level of oil and natural gas drilling activity and the competitive
+environment in the particular geographic regions in which we operate. Contracts are awarded based
+on price, quality of service and equipment and general reputation and experience of our personnel.
+The principal operating costs are direct and indirect labor and benefits, repairs and maintenance
+of our equipment, insurance, equipment rentals, fuel, depreciation and general and administrative
+expenses.
+
+Basis of Presentation
+
+Our unaudited consolidated condensed financial statements included herein have been prepared
+pursuant to the rules and regulations of the Securities and Exchange Commission, or SEC.
+Accordingly, certain information and disclosures normally included in financial statements prepared
+in accordance with generally accepted accounting principles have been condensed or omitted. We
+believe that the presentations and disclosures herein are adequate to make the information not
+misleading. The unaudited consolidated condensed financial statements reflect all adjustments
+(consisting of normal recurring adjustments) necessary for a fair presentation of the interim
+periods. These unaudited consolidated condensed financial statements should be read in conjunction
+with our audited consolidated financial statements included in our Annual Report on Form 10-K for
+the year ended December 31, 2005. The results of operations for the interim periods are not
+necessarily indicative of the results of operations to be expected for the full year.
+
+Certain reclassifications have been made to the prior year’s consolidated condensed financial
+statements to conform with the current period presentation.
+
+The preparation of financial statements in conformity with accounting principles generally accepted
+in the United States of America requires management to make estimates and assumptions that affect
+the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities
+at the date of the financial statements and the reported amounts of revenues and expenses during
+the reporting period. Future events and their effects cannot be perceived with certainty.
+Accordingly, our accounting estimates require the exercise of judgment. While management believes
+that the estimates and assumptions used in the preparation of the consolidated financial statements
+are appropriate, actual results could differ from those estimates. Estimates are used for, but are
+not limited to, determining the following: allowance for doubtful accounts, recoverability of
+long-lived assets and intangibles, useful lives used in depreciation and amortization, income taxes
+and valuation allowances. The accounting estimates used in the preparation of the consolidated
+financial statements may change as new events occur, as more experience is acquired, as additional
+information is obtained and as our operating environment changes.
+
+In July 2006, the FASB issued FASB Interpretation No. 48,
+Accounting for Uncertainty in Income
+Taxes — an interpretation of FASB Statement No. 109
+(“FIN 48”). FIN 48 clarifies the accounting for
+uncertainty in income taxes recognized in an enterprise’s financial statements in accordance with
+SFAS No. 109,
+Accounting for Income Taxes
+. It prescribes a recognition threshold and measurement
+attribute for financial statement recognition and measurement of a tax position taken or expected
+to be taken in a tax return. This interpretation is effective for fiscal years beginning after
+December 15, 2006. We are currently evaluating the provisions of FIN 48 and have not yet determined
+the impact, if any, on our financial statements.
+
+6
+
+Table of Contents
+
+ALLIS-CHALMERS ENERGY INC.
+
+NOTES TO UNAUDITED CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+
+NOTE 2 — ACQUISITIONS
+
+Effective April 1, 2006, we acquired 100% of the outstanding stock of Rogers Oil Tools, Inc., or
+Rogers, based in Lafayette, Louisiana, for a total consideration of approximately $13.7 million,
+which includes $11.3 million in cash, $1.6 million in our common stock and a $750,000 three-year
+promissory note. In addition, we purchased all the patents and proprietary technology that Tommie
+L. Rogers, Rogers’ founder and Chief Executive Officer, developed at Rogers. Rogers provides
+service for tubing tongs and casing tongs and rents and sells specialized automated power tongs to
+the snubbing and well control markets. Rogers also rents and sells drill pipe tongs, accessories,
+hydraulic power units and hydraulic tong positioners. The following table summarizes the
+allocation of the purchase price to the estimated fair value of the assets acquired and
+liabilities assumed at the date of acquisition:
+
+Current assets
+
+$
+
+4,520
+
+Property and equipment
+
+9,866
+
+Intangible assets
+
+1,131
+
+Total assets acquired
+
+15,517
+
+Current liabilities
+
+1,717
+
+Other long-term liabilities
+
+100
+
+Total liabilities assumed
+
+1,817
+
+Net assets acquired
+
+$
+
+13,700
+
+Approximately $380,000 of costs were incurred in relation to the Rogers acquisition. Rogers’
+historical property and equipment values were increased by approximately $8.4 million based on
+third-party valuations. Intangible assets include $981,000 assigned to patents and $150,000
+assigned to non-compete based on third-party valuations and employment contracts. The intangibles
+have a weighted-average useful life of 9 years.
+
+Effective January 1, 2006, we acquired 100% of the outstanding stock of Specialty Rental Tools,
+Inc., or Specialty, for $96.0 million in cash. The results of Specialty’s operations have been
+included in the consolidated financial statements since that date. Specialty, located in
+Lafayette, Louisiana, is engaged in the rental of high quality drill pipe, heavy weight spiral
+drill pipe, tubing work strings, blow-out preventors, choke manifolds and various valves and
+handling tools for oil and natural gas drilling. For the year ended December 31, 2005, Specialty
+had revenues of $32.7 million. The following table summarizes the allocation of the purchase
+price to the estimated fair value of the assets acquired and liabilities assumed at the date of
+acquisition:
+
+Accounts receivable
+
+$
+
+7,167
+
+Other current assets
+
+425
+
+Property and equipment
+
+90,540
+
+Total assets acquired
+
+98,132
+
+Current liabilities
+
+2,058
+
+Long-term debt
+
+74
+
+Total liabilities assumed
+
+2,132
+
+Net assets acquired
+
+$
+
+96,000
+
+Approximately $453,000 of costs were incurred in relation to the Specialty acquisition.
+Specialty’s historical property and equipment values were increased by approximately $71.5 million
+based on third-party valuations.
+
+On September 1, 2005, we acquired the casing and tubing service assets of Patterson Services, Inc.
+for approximately $15.6 million. These assets are located in Corpus Christi, Texas; Kilgore,
+Texas; Lafayette, Louisiana and Houma, Louisiana.
+
+Effective August 1, 2005, we acquired 100% of the outstanding capital stock of Target Energy Inc.,
+or Target, for $1.3 million in cash and forgiveness of a lease receivable of approximately $0.6
+million. The purchase price was allocated to the fixed assets of Target. The results of Target are
+included in our directional and horizontal drilling segment as their measurement while drilling, or
+MWD, equipment is utilized in that segment.
+
+On July 11, 2005, we acquired the compressed air drilling assets of W.T. Enterprises, Inc., or WT,
+based in South Texas, for $6.0 million in cash. The equipment includes compressors, boosters, mist
+pumps and vehicles. Goodwill of $82,000 and other identifiable intangible assets of $1.5 million
+were recorded in connection with the acquisition.
+
+7
+
+Table of Contents
+
+ALLIS-CHALMERS ENERGY INC.
+
+NOTES TO UNAUDITED CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+
+NOTE 2 — ACQUISITIONS (Continued)
+
+On July 11, 2005, we acquired from M-I its 45% interest in AirComp L.L.C., or AirComp, and a
+subordinated note in the principal amount of $4.8 million issued by AirComp, for which we paid M-I
+$7.1 million in cash and issued to M-I a $4.0 million subordinated note bearing interest at 5% per
+annum. As a result, we now own 100% of AirComp.
+
+On May 1, 2005, we acquired 100% of the outstanding capital stock of Capcoil Tubing Services, Inc.,
+or Capcoil, for $2.7 million in cash, 168,161 shares of our common stock and the payment or
+assumption of approximately $1.3 million of debt. Capcoil, located in Kilgore, Texas, is engaged
+in downhole well servicing by providing coil tubing services to enhance production from existing
+wells. Goodwill of $184,000 and other identifiable intangible assets of $1.4 million were recorded
+in connection with the acquisition.
+
+On April 1, 2005, we acquired 100% of the outstanding stock of Delta Rental Service, Inc., or
+Delta, for $4.6 million in cash, 223,114 shares of our common stock and two promissory notes
+totaling $350,000. The purchase price was allocated to fixed assets and inventory. Delta, located
+in Lafayette, Louisiana, is a rental tool company providing specialty rental items to the oil and
+gas industry such as spiral heavy weight drill pipe, test plugs used to test blow-out preventors,
+well head retrieval tools, spacer spools and assorted handling tools.
+
+These acquisitions were accounted for using the purchase method of accounting. The results of
+operations of the acquired entities since the date of acquisition are included in our consolidated
+condensed income statement. The following unaudited pro forma consolidated summary financial
+information illustrates the effects of the acquisition of Rogers, Specialty, WT, the minority
+interest in AirComp, Capcoil and Delta as if the acquisitions had occurred as of January 1, 2005,
+based on the historical statements of operations (in thousands, except per share amounts).
+
+For the Three Months Ended
+
+For the Six Months Ended
+
+June 30,
+
+June 30,
+
+2006
+
+2005
+
+2006
+
+2005
+
+Revenues
+
+$
+
+60,470
+
+$
+
+35,572
+
+$
+
+109,583
+
+$
+
+65,567
+
+Operating income
+
+15,871
+
+7,369
+
+24,510
+
+10,834
+
+Net income
+
+9,594
+
+4,307
+
+13,910
+
+5,322
+
+Net income per common share:
+
+Basic
+
+$
+
+0.53
+
+$
+
+0.31
+
+$
+
+0.79
+
+$
+
+0.37
+
+Diluted
+
+$
+
+0.50
+
+$
+
+0.28
+
+$
+
+0.73
+
+$
+
+0.35
+
+NOTE 3 — STOCK-BASED COMPENSATION
+
+We adopted SFAS No. 123R,
+Share-Based Payment
+, effective January 1, 2006. This statement requires
+all share-based payments to employees, including grants of employee stock options, to be recognized
+in the financial statements based on their grant-date fair values. Compensation cost for awards
+granted prior to, but not vested, as of January 1, 2006 would be based on the grant date attributes
+originally used to value those awards for pro forma purposes under SFAS No. 123. We adopted SFAS
+No. 123R using the modified prospective transition method, utilizing the Black-Scholes option
+pricing model for the calculation of the fair value of our employee stock options. Under the
+modified prospective method, we record compensation cost related to unvested stock awards as of
+December 31, 2005 by recognizing the unamortized grant date fair value of these awards over the
+remaining vesting periods of those awards with no change in historical reported earnings. We
+estimated forfeiture rates for the first six months of 2006 based on our historical experience.
+
+The Black-Scholes model incorporates assumptions to value stock-based awards. The risk-free rate
+of interest is the related U.S. Treasury yield curve for periods within the expected term of the
+option at the time of grant. The dividend yield on our common stock is assumed to be zero as we
+have historically not paid dividends and have no current plans to do so in the future. The
+expected volatility is based on historical volatility of our common stock.
+
+8
+
+Table of Contents
+
+ALLIS-CHALMERS ENERGY INC.
+
+NOTES TO UNAUDITED CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+
+NOTE 3 — STOCK-BASED COMPENSATION (Continued)
+
+Prior to January 1, 2006, we accounted for our stock-based compensation using Accounting Principle
+Board Opinion No. 25. Under APB No. 25, compensation expense is recognized for stock options with
+an exercise price that is less than the market price on the grant date of the option. For stock
+options with exercise prices at or above the market value of the stock on the grant date, we
+adopted the disclosure-only provisions of SFAS No. 123,
+Accounting For Stock-Based Compensation
+.
+We also adopted the disclosure-only provisions of SFAS No. 123 for the stock options granted to our
+employees and directors. Accordingly, no compensation cost was recognized under APB No. 25. Our
+net income for the three and six months ended June 30, 2006 includes approximately $836,000 and
+$1,778,000 of compensation costs related to share-based payments. As of June 30, 2006 there is
+$2.3 million of unrecognized compensation expense related to non-vested stock option grants. We
+expect approximately $1.5 million to be recognized over the remainder of 2006 and approximately
+$860,000 to be recognized in 2007.
+
+A summary of our stock option activity and related information as of June 30, 2006 is as follows:
+
+Weighted
+
+Weighted-
+
+Shares
+
+Average
+
+Average
+
+Aggregate
+
+Under
+
+Exercise
+
+Contractual
+
+Intrinsic Value
+
+Option
+
+Price
+
+Life (Years)
+
+(millions)
+
+Balance at beginning of period
+
+2,860,867
+
+$
+
+5.10
+
+Granted
+
+—
+
+—
+
+Canceled
+
+(38,333
+
+)
+
+4.52
+
+Exercised
+
+(1,217,999
+
+)
+
+3.43
+
+Outstanding at end of period
+
+1,604,535
+
+6.39
+
+8.74
+
+$
+
+11.6
+
+Exercisable at end of period
+
+782,702
+
+5.34
+
+8.46
+
+$
+
+6.5
+
+The aggregate intrinsic value in the table above represents the total pre-tax intrinsic value (the
+difference between the closing price of our common stock on the last trading day of the second
+quarter of 2006 and the exercise price, multiplied by the number of in-the-money options) that
+would have been received by the option holders had all option holders exercised their options on
+June 30, 2006. The total intrinsic value of options exercised during the three and six months
+ended June 30, 2006 was $15.6 and $16.2 million, respectively. The total cash received from option
+exercises during the three and six months ended June 30, 2006 was $4.0 and $4.2 million,
+respectively.
+
+No options were granted in the first six months of 2006. The following summarizes the assumptions
+used in the June 30, 2005 Black-Scholes model:
+
+For the Three
+
+For the Six
+
+Months Ended
+
+Months Ended
+
+June 30, 2005
+
+June 30, 2005
+
+Expected dividend yield
+
+—
+
+—
+
+Expected price volatility
+
+89.91
+
+%
+
+98.65
+
+%
+
+Risk-free interest rate
+
+6.25
+
+%
+
+6.63
+
+%
+
+Expected life of options
+
+7 years
+
+7 years
+
+Weighted average fair value of options
+granted at market value
+
+$
+
+4.01
+
+$
+
+3.12
+
+9
+
+Table of Contents
+
+ALLIS-CHALMERS ENERGY INC.
+
+NOTES TO UNAUDITED CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+
+NOTE 3 — STOCK-BASED COMPENSATION (Continued)
+
+The following table illustrates the pro-forma effect on net income and net income per share for the
+three and six months ended June 30, 2005 had we applied the fair value recognition provisions of
+SFAS No. 123R (in thousands, except per share amounts):
+
+Three Months
+
+Six Months
+
+Ended June 30,
+
+2005
+
+2005
+
+Net income: As reported
+
+$
+
+1,769
+
+$
+
+3,336
+
+Less total stock based employee
+compensation expense determined under
+fair value based method for all awards
+net of tax related effects
+
+(836
+
+)
+
+(1,505
+
+)
+
+Pro forma net income
+
+$
+
+933
+
+$
+
+1,831
+
+Net income per share:
+
+Basic
+
+As reported
+
+$
+
+0.13
+
+$
+
+0.24
+
+Pro forma
+
+$
+
+0.07
+
+$
+
+0.13
+
+Diluted
+
+As reported
+
+$
+
+0.12
+
+$
+
+0.22
+
+Pro forma
+
+$
+
+0.06
+
+$
+
+0.12
+
+NOTE 4 — INCOME PER COMMON SHARE
+
+We compute income per common share in accordance with the provisions of SFAS No. 128,
+Earnings Per
+Share
+. SFAS No. 128 requires companies with complex capital structures to present basic and
+diluted earnings per share. Basic earnings per share are computed on the basis of the weighted
+average number of shares of common stock outstanding during the period. Diluted earnings per share
+is similar to basic earnings per share, but presents the dilutive effect on a per share basis of
+potential common shares (e.g., convertible preferred stock, stock options, etc.) as if they had
+been converted. Potential dilutive common shares that have an anti-dilutive effect (e.g., those
+that increase income per share) are excluded from diluted earnings per share.
+
+The components of basic and diluted earnings per share are as follows (in thousands, except per
+share amounts):
+
+For the Three Months Ended
+
+For the Six Months Ended
+
+June 30,
+
+June 30,
+
+2006
+
+2005
+
+2006
+
+2005
+
+Numerator:
+
+Net income
+
+$
+
+9,594
+
+$
+
+1,769
+
+$
+
+14,018
+
+$
+
+3,336
+
+Denominator:
+
+Basic earnings per share — weighted
+average shares outstanding
+
+18,050
+
+13,967
+
+17,578
+
+13,800
+
+Effect of potentially dilutive common
+shares:
+
+Warrants and employee and director
+stock options
+
+1,090
+
+1,136
+
+1,422
+
+1,100
+
+Diluted earnings per share —
+weighted average shares
+
+Outstanding and assumed
+conversions
+
+19,140
+
+15,103
+
+19,000
+
+14,900
+
+Net income per share — basic
+
+$
+
+0.53
+
+$
+
+0.13
+
+$
+
+0.80
+
+$
+
+0.24
+
+Net income per share — diluted
+
+$
+
+0.50
+
+$
+
+0.12
+
+$
+
+0.74
+
+$
+
+0.22
+
+10
+
+Table of Contents
+
+ALLIS-CHALMERS ENERGY INC.
+
+NOTES TO UNAUDITED CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+
+NOTE 5 — GOODWILL AND INTANGIBLE ASSETS
+
+In accordance with SFAS No. 142,
+Goodwill and Other Intangible Assets
+, goodwill and
+indefinite-lived intangible assets are not permitted to be amortized. Goodwill and
+indefinite-lived intangible assets remain on the balance sheet and are tested for impairment on an
+annual basis, or when there is reason to suspect that their values may have been diminished or
+impaired. Goodwill and indefinite-lived intangible assets listed on the balance sheet totaled $12.4
+million at June 30, 2006 and December 31, 2005. Based on impairment testing performed during 2005
+pursuant to the requirements of SFAS No. 142, these assets were not impaired.
+
+Intangible assets with definite lives continue to be amortized over their estimated useful lives.
+Definite-lived intangible assets that continue to be amortized under SFAS No. 142 relate to our
+purchase of customer-related and marketing-related intangibles. These intangibles have useful
+lives ranging from five to ten years. Amortization of intangible assets for the three and six
+months ended June 30, 2006 were $429,000 and $813,000, respectively, compared to $441,000 and
+$607,000, respectively for the same periods last year. At June 30, 2006, intangible assets totaled
+$7.1 million, net of $3.4 million of accumulated amortization.
+
+NOTE 6 — INVENTORY
+
+Inventory is comprised of the following (in thousands):
+
+June 30,
+
+December 31,
+
+2006
+
+2005
+
+Hammer bits
+
+Finished goods
+
+$
+
+1,507
+
+$
+
+1,402
+
+Work in process
+
+1,616
+
+787
+
+Raw materials
+
+2,429
+
+233
+
+Total hammer bits
+
+5,552
+
+2,422
+
+Hammers
+
+801
+
+584
+
+Drive pipe
+
+572
+
+666
+
+Rental supplies
+
+355
+
+64
+
+Chemicals
+
+132
+
+201
+
+Coiled tubing and related inventory
+
+1,278
+
+1,145
+
+Shop supplies and related inventory
+
+1,207
+
+863
+
+Total inventory
+
+$
+
+9,897
+
+$
+
+5,945
+
+11
+
+Table of Contents
+
+ALLIS-CHALMERS ENERGY INC.
+
+NOTES TO UNAUDITED CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+
+NOTE 7- DEBT
+
+Our long-term debt consists of the following: (in thousands)
+
+June 30,
+
+December 31,
+
+2006
+
+2005
+
+Senior notes
+
+$
+
+160,000
+
+$
+
+—
+
+Bank term loans
+
+—
+
+42,090
+
+Revolving line of credit
+
+—
+
+6,400
+
+Subordinated note payable to M-1 LLC
+
+4,000
+
+4,000
+
+Subordinated seller note
+
+—
+
+3,031
+
+Seller notes
+
+900
+
+850
+
+Notes payable under non-compete agreements
+
+443
+
+698
+
+Notes payable to former directors
+
+32
+
+96
+
+Real estate loan
+
+—
+
+548
+
+Equipment and vehicle installment notes
+
+2,417
+
+1,939
+
+Insurance premium financing
+
+1,553
+
+—
+
+Capital lease obligations
+
+671
+
+917
+
+Total debt
+
+170,016
+
+60,569
+
+Less: short-term debt and current maturities
+
+4,059
+
+5,632
+
+Long-term debt obligations
+
+$
+
+165,957
+
+$
+
+54,937
+
+Senior notes, bank loans and line of credit agreements
+
+On January 18, 2006, we closed on a private offering, to qualified institutional buyers pursuant to
+Rule 144A under the Securities Act of 1933, of $160.0 million aggregate principal amount of our
+senior notes. The notes are due January 15, 2014 and bear interest at 9.0%. The proceeds were
+used to fund the acquisition of Specialty, to repay existing debt and for general corporate
+purposes.
+
+Prior to January 18, 2006, we were party to a July 2005 credit agreement that provided for the
+following senior secured credit facilities:
+
+•
+
+A $13.0 million revolving line of credit. Borrowings were limited to 85% of eligible
+accounts receivable plus 50% of eligible inventory (up to a maximum of $2.0 million of
+borrowings based on inventory). This line of credit was to be used to finance working
+capital requirements and other general corporate purposes, including the issuance of
+standby letters of credit. Outstanding borrowings under this line of credit were $6.4
+million at a margin above prime and LIBOR rates plus margin averaging approximately 8.1% as
+of December 31, 2005.
+
+•
+
+Two term loans totaling $42.0 million. Outstanding borrowings under these term loans
+were $42.0 million as of December 31, 2005. These loans were at LIBOR rates plus a margin
+which averages approximately 7.8% at December 31, 2005.
+
+Borrowings under the July 2005 credit facilities were to mature in July 2007. Amounts outstanding
+under the term loans as of July 2006 were to be repaid in monthly principal payments based on a 48
+month repayment schedule with the remaining balance due at maturity. Additionally, during the
+second year, we were to be required to prepay the remaining balance of the term loans by 75% of
+excess cash flow, if any, after debt service and capital expenditures. The interest rate payable
+on borrowings was based on a margin over the London Interbank Offered Rate, referred to as LIBOR,
+or the prime rate, and there was a 0.5% fee on the undrawn portion of the revolving line of credit.
+The margin over LIBOR was to increase by 1.0% in the second year.
+
+All amounts outstanding under our July 2005 credit agreement were paid off with the proceeds of our
+senior notes offering on January 18, 2006. On January 18, 2006, we also executed an amended and
+restated credit agreement which provides for a $25.0 million revolving line of credit with a
+maturity of January 2010. Our January 2006 amended and restated credit agreement contains
+customary events of default and financial covenants and limits our ability to incur additional
+indebtedness, make capital expenditures, pay dividends or make other distributions, create liens
+and sell assets. Our obligations under the January 2006 amended and restated credit agreement are
+secured by substantially all of our assets.
+
+12
+
+Table of Contents
+
+ALLIS-CHALMERS ENERGY INC.
+
+NOTES TO UNAUDITED CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+
+NOTE 7 — DEBT (Continued)
+
+Notes payable and real estate loan
+
+On July 11, 2005, we acquired from M-I its 45% equity interest in AirComp and the subordinated note
+in the principal amount of $4.8 million issued by AirComp, for which we paid M-I $7.1 million in
+cash and issued a new $4.0 million subordinated note bearing interest at 5% per annum. The
+subordinated note issued to M-I requires quarterly interest payments and the principal amount is
+due October 9, 2007. Contingent upon a future equity offering, the subordinated note is
+convertible into up to 700,000 shares of our common stock at a conversion price equal to the market
+value of the common stock at the time of conversion. This note was repaid from the proceeds of our
+offering of $95.0 million of 9.0% senior notes, which we completed in August 2006.
+
+As of December 31, 2005, Allis-Chalmers Tubular Services Inc., or Tubular, had a subordinated note
+outstanding and payable to Jens Mortensen, the seller of Tubular and one of our directors, in the
+amount of $4.0 million with a fixed interest rate of 7.5%. Interest was payable quarterly and the
+final maturity of the note was January 31, 2006. The subordinated note was subordinated to the
+rights of our bank lenders. The balance of this subordinated note was repaid in full in January
+2006 with proceeds from our senior notes offering.
+
+As part of the acquisition of Mountain Compressed Air Inc., or Mountain Air, in 2001, we issued a
+note to the sellers of Mountain Air in the original amount of $2.2 million accruing interest at a
+rate of 5.75% per annum. The note was reduced to $1.5 million as a result of the settlement of a
+legal action against the sellers in 2003. In March 2005, we reached an agreement with the sellers
+and holders of the note as a result of an action brought against us by the sellers. Under the
+terms of the agreement, we paid the holders of the note $1.0 million in cash, and agreed to pay an
+additional $350,000 on June 1, 2006, and an additional $150,000 on June 1, 2007, in settlement of
+all claims. At June 30, 2006 and December 31, 2005 the outstanding amounts due were $150,000 and
+$500,000, respectively.
+
+In connection with the purchase of Delta, we issued to the sellers a note in the amount of
+$350,000. The note bore interest at 2% and the principal and accrued interest was repaid on its
+maturity of April 1, 2006. In connection with the acquisition of Rogers, we issued to the seller a
+note in the amount of $750,000. The note bears interest at 5% and is due April 3, 2009.
+
+In connection with the purchase of Tubular, we agreed to pay a total of $1.2 million to Mr.
+Mortensen in exchange for a non-compete agreement. Monthly payments of $20,576 are due under this
+agreement through January 31, 2007. In connection with the purchase of Safco-Oil Field Products,
+Inc., or Safco, we also agreed to pay a total of $150,000 to the sellers in exchange for a
+non-compete agreement. We are required to make annual payments of $50,000 through September 30,
+2007. In connection with the purchase of Capcoil, we agreed to pay a total of $500,000 to two
+management employees in exchange for non-compete agreements. We are required to make annual
+payments of $110,000 through May 2008. Total amounts due under these non-compete agreements at
+June 30, 2006 and December 31, 2005 were $443,000 and $698,000, respectively.
+
+In 2000 we compensated directors, including current directors Nederlander and Toboroff, who served
+on the board of directors from 1989 to March 31, 1999 without compensation, by issuing promissory
+notes totaling $325,000. The notes bear interest at the rate of 5.0%. At June 30, 2006 and
+December 31, 2005, the principal and accrued interest on these notes totaled approximately $32,000
+and $96,000, respectively.
+
+We also had a real estate loan which was payable in equal monthly installments of $4,344 with the
+remaining outstanding balance due on January 1, 2010. The loan had a floating interest rate based
+on prime plus 2.0%. The outstanding principal balance was $548,000 at December 31, 2005. The
+balance of this loan was repaid in full in January 2006 with proceeds from our senior notes
+offering.
+
+13
+
+Table of Contents
+
+ALLIS-CHALMERS ENERGY INC.
+
+NOTES TO UNAUDITED CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+
+NOTE 7 — DEBT (Continued)
+
+Other debt
+
+We have various equipment financing loans with interest rates ranging from 5% to 8.2% and terms
+ranging from 2 to 5 years. As of June 30, 2006 and December 31, 2005, the outstanding balances for
+equipment financing loans were $2.4 million and $1.9 million, respectively. In April 2006, we
+obtained an insurance premium financing in the amount of $1.9 million with a fixed interest rate of
+5.6%. Under terms of the agreement, amounts outstanding are paid over a 10 month repayment
+schedule. The outstanding balance of this note was approximately $1.6 million as of June 30, 2006.
+We also have various capital leases with terms that expire in 2008. As of June 30, 2006 and
+December 31, 2005, amounts outstanding under capital leases were $671,000 and $917,000,
+respectively. In January 2006, we prepaid $350,000 of the outstanding equipment loans with proceeds
+from our senior notes offering.
+
+NOTE 8 — STOCKHOLDERS’ EQUITY
+
+We issued 125,285 shares of our common stock in relation to the Roger’s acquisition (see Note 2).
+We also had options and warrants exercised in the first six months of 2006, which resulted in
+1,531,441 shares of our common stock being issued for approximately $5.0 million. We recognized
+approximately $1.8 million of compensation expense related to stock options in the first six months
+of 2006 that was recorded as additional paid in capital (see Note 3).
+
+NOTE 9 — SUPPLEMENTAL CASH FLOW INFORMATION
+
+For the Six Months Ended
+
+June 30,
+
+2006
+
+2005
+
+Cash paid for interest and income taxes:
+
+Interest
+
+$
+
+832
+
+$
+
+1,166
+
+Income taxes
+
+$
+
+2,063
+
+$
+
+329
+
+Noncash activities:
+
+Insurance premium financed
+
+$
+
+1,933
+
+$
+
+—
+
+Common stock issued for acquisition of business
+
+$
+
+1,650
+
+$
+
+—
+
+Note payable issued for acquisition of business
+
+$
+
+750
+
+$
+
+—
+
+Non-compete payable in the future
+
+$
+
+150
+
+$
+
+—
+
+NOTE 10- SEGMENT INFORMATION
+
+At June 30, 2006, we had five operating segments including Directional Drilling Services (Strata
+and Target), Rental Tools, Casing and Tubing Services (Tubular Service and Rogers), Compressed Air
+Drilling Services (AirComp) and Production Services. All of the segments provide services to the
+energy industry. The revenues, operating income (loss), depreciation and amortization, capital
+expenditures and assets of each of the reporting segments, plus the corporate function, are
+reported below (in thousands):
+
+For the Three Months Ended
+
+For the Six Months Ended
+
+June 30,
+
+June 30,
+
+2006
+
+2005
+
+2006
+
+2005
+
+Revenues
+
+Directional drilling services
+
+$
+
+18,315
+
+$
+
+10,934
+
+$
+
+33,369
+
+$
+
+20,835
+
+Rental tools
+
+12,707
+
+1,566
+
+23,128
+
+1,940
+
+Casing and tubing services
+
+14,569
+
+3,933
+
+24,028
+
+7,493
+
+Compressed air drilling services
+
+10,949
+
+4,866
+
+20,048
+
+9,047
+
+Production services
+
+3,930
+
+2,289
+
+6,925
+
+3,607
+
+$
+
+60,470
+
+$
+
+23,588
+
+$
+
+107,498
+
+$
+
+42,922
+
+14
+
+Table of Contents
+
+ALLIS-CHALMERS ENERGY INC.
+
+NOTES TO UNAUDITED CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+
+NOTE 10 — SEGMENT INFORMATION (Continued)
+
+For the Three Months Ended
+
+For the Six Months Ended
+
+June 30,
+
+June 30,
+
+2006
+
+2005
+
+2006
+
+2005
+
+Operating Income (Loss)
+:
+
+Directional drilling services
+
+$
+
+4,367
+
+$
+
+1,495
+
+$
+
+6,972
+
+$
+
+3,373
+
+Rental tools
+
+7,308
+
+405
+
+12,306
+
+326
+
+Casing and tubing services
+
+4,314
+
+1,354
+
+6,165
+
+2,679
+
+Compressed air drilling services
+
+3,204
+
+1,002
+
+5,441
+
+1,529
+
+Production services
+
+341
+
+36
+
+618
+
+(2
+
+)
+
+General corporate
+
+(3,663
+
+)
+
+(1,378
+
+)
+
+(6,998
+
+)
+
+(2,744
+
+)
+
+$
+
+15,871
+
+$
+
+2,914
+
+$
+
+24,504
+
+$
+
+5,161
+
+Depreciation and Amortization
+:
+
+Directional drilling services
+
+$
+
+359
+
+$
+
+207
+
+$
+
+648
+
+$
+
+357
+
+Rental tools
+
+1,715
+
+176
+
+3,386
+
+265
+
+Casing and tubing services
+
+1,069
+
+468
+
+1,768
+
+908
+
+Compressed air drilling services
+
+731
+
+422
+
+1,415
+
+870
+
+Production services
+
+299
+
+189
+
+592
+
+325
+
+General corporate
+
+321
+
+56
+
+622
+
+101
+
+$
+
+4,494
+
+$
+
+1,518
+
+$
+
+8,431
+
+$
+
+2,826
+
+Capital Expenditures
+:
+
+Directional drilling services
+
+$
+
+707
+
+$
+
+937
+
+$
+
+3,405
+
+$
+
+1,200
+
+Rental tools
+
+417
+
+7
+
+1,101
+
+7
+
+Casing and tubing services
+
+4,373
+
+217
+
+5,500
+
+1,857
+
+Compressed air drilling services
+
+792
+
+1,147
+
+3,016
+
+1,926
+
+Production services
+
+365
+
+253
+
+1,046
+
+290
+
+General corporate
+
+6
+
+174
+
+178
+
+183
+
+$
+
+6,660
+
+$
+
+2,735
+
+$
+
+14,246
+
+$
+
+5,463
+
+As of
+
+June 30,
+
+December 31,
+
+2006
+
+2005
+
+Goodwill
+:
+
+Directional drilling services
+
+$
+
+4,168
+
+$
+
+4,168
+
+Rental tools
+
+—
+
+—
+
+Casing and tubing services
+
+3,673
+
+3,673
+
+Compressed air drilling services
+
+3,950
+
+3,950
+
+Production services
+
+626
+
+626
+
+General corporate
+
+—
+
+—
+
+$
+
+12,417
+
+$
+
+12,417
+
+Assets
+:
+
+Directional drilling services
+
+$
+
+28,496
+
+$
+
+20,960
+
+Rental tools
+
+105,994
+
+8,034
+
+Casing and tubing services
+
+67,984
+
+45,351
+
+Compressed air drilling services
+
+49,502
+
+46,045
+
+Production services
+
+13,853
+
+12,282
+
+General corporate
+
+14,857
+
+4,683
+
+$
+
+280,686
+
+$
+
+137,355
+
+15
+
+Table of Contents
+
+ALLIS-CHALMERS ENERGY INC.
+
+NOTES TO UNAUDITED CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+
+NOTE 10 — SEGMENT INFORMATION (Continued)
+
+For the Three Months Ended
+
+For the Six Months Ended
+
+June 30,
+
+June 30,
+
+2006
+
+2005
+
+2006
+
+2005
+
+Revenues
+:
+
+United States
+
+$
+
+58,572
+
+$
+
+21,832
+
+$
+
+103,662
+
+$
+
+39,393
+
+International
+
+1,898
+
+1,756
+
+3,836
+
+3,529
+
+$
+
+60,470
+
+$
+
+23,588
+
+$
+
+107,498
+
+$
+
+42,922
+
+NOTE 11 — LEGAL MATTERS
+
+We are named from time to time in legal proceedings related to our activities prior to our
+bankruptcy in 1988. However, we believe that we were discharged from liability for all such claims
+in the bankruptcy and believe the likelihood of a material loss relating to any such legal
+proceeding is remote.
+
+We are also involved in various other legal proceedings in the ordinary course of business. The
+legal proceedings are at different stages; however, we believe that the likelihood of material loss
+relating to any such legal proceeding is remote.
+
+NOTE 12 — SUBSEQUENT EVENTS
+
+On August 8, 2006, we entered into an amendment to our amended and restated credit agreement dated
+as of January 18, 2006. The amendment, among other things, amends the credit agreement to (a)
+allow us to (i) issue and sell $95.0 million aggregate principal amount of our 9.0% senior notes
+due 2014 and (ii) issue and sell 3,450,000 shares of our common stock, (b) allow us to use the net
+proceeds from the senior notes offering and the public offering to purchase all the outstanding
+capital stock of DLS Drilling Logistics and Services Corporation, or DLS, (c) exclude certain
+existing indebtedness and investments of DLS and investments and indebtedness related to the DLS
+Acquisition from the covenants contained in the Credit Agreement and (d) increase the amount of
+permitted lease obligations and capital expenditures.
+
+On August 8, 2006, we priced a public offering of 3.0 million shares of our common stock at $14.50
+per share. We have granted the underwriters a 30-day option to purchase up to an additional
+450,000 shares to cover over-allotments, if any. On August 14, 2006, we closed the common stock
+offering and the underwriters elected to exercise the over-allotment option in full.
+
+We also priced a private offering of $95.0 million aggregate principal amount of 9.0% senior notes
+on August 8, 2006. The notes were sold to investors at a price of 100% of the principal amount
+thereof, plus accrued interest from July 15, 2006. Fixed interest on the notes will be payable on
+January 15 and July 15 of each year, beginning on January 15, 2007 and the notes mature on January
+15, 2014. The sale of the notes closed on August 14, 2006.
+
+On August 14, 2006, we completed the acquisition of all of the outstanding capital stock of DLS.
+The purchase price of DLS consisted of $93.7 million in cash, 2.5 million shares of our common
+stock and approximately $8.6 million of assumed debt. DLS
+currently operates a fleet of 51 rigs, including 21 drilling rigs, 18 workover rigs and
+12 pulling rigs in Argentina and one drilling rig in Bolivia.
+
+In May of 2006, we filed a registration statement for the offering of common stock described above
+to fund a portion of the cash purchase price of DLS. We ultimately raised approximately $47.0
+million from such registered stock offering and applied all such amount toward the cash component
+of the purchase price of DLS. In August 2006, we also raised approximately $92.7 million through
+the issuance of additional 9.0% senior notes, and we applied a portion of such amount to the
+payment of the remainder of the cash component of the purchase price for DLS.
+
+As part of
+the DLS acquisition, Carlos Alberto Bulgheroni and Alejandro Pedro
+Bulgheroni, of the Bridas Group, have joined our board of directors,
+filling vacancies created by the resignations of Jens H. Mortensen,
+Jr. and Thomas O. Whitener, Jr.
+
+16
+
+Table of Contents
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATION
+
+This document contains forward-looking statements that involve risks and uncertainties. Our actual
+results may differ materially from the results discussed in such forward-looking statements.
+Factors that might cause such differences include, but are not limited to, the general condition of
+the oil and natural gas drilling industry, demand for our oil and natural gas service and rental
+products, and competition. Other factors are identified in our SEC filings, including our Annual
+Report on
+Form 10-K
+ for the year ended December 31, 2005 under the heading “Risk Factors” located
+at the end of “Item 7, Management’s Discussion and Analysis of Financial Condition and Results of
+Operations.”
+
+The following discussion and analysis should be read in conjunction with our selected historical
+financial data and our accompanying financial statements and the notes to those financial
+statements included elsewhere in this document. The following discussion contains forward-looking
+statements within the meaning of the Private Securities Litigation Reform Act of 1995 that reflect
+our plans, estimates and beliefs. Our actual results could differ materially from those
+anticipated in these forward-looking statements as a result of risks and uncertainties, including,
+but not limited to, those discussed above.
+
+Overview of Our Business
+
+We are a multi-faceted oilfield services company that provides services and equipment to oil and
+natural gas exploration and production companies, domestically in Texas, Louisiana, New Mexico,
+Colorado, Oklahoma, Mississippi, Utah, Wyoming, offshore in the Gulf of Mexico and internationally
+in Mexico. We currently operate in five sectors of the oil and natural gas service industry:
+directional drilling services; rental tools; casing and tubing services; compressed air drilling
+services; and production services.
+
+We derive operating revenues from rates per day and rates per job that we charge for the labor and
+equipment required to provide a service. The price we charge for our services depends upon several
+factors, including the level of oil and natural gas drilling activity and the competitive
+environment in the particular geographic regions in which we operate. Contracts are awarded based
+on price, quality of service and equipment, and general reputation and experience of our personnel.
+The demand for drilling services has historically been volatile and is affected by the capital
+expenditures of oil and natural gas exploration and production companies, which can fluctuate based
+upon the prices of oil and natural gas, or the expectation for the prices of oil and natural gas.
+
+The number of working drilling rigs, typically referred to as the “rig count,” is an important
+indicator of activity levels in the oil and natural gas industry. The rig count in the U.S.
+increased from 862 as of December 31, 2002 to 1,666 on June 30, 2006 according to the Baker Hughes
+rig count. Furthermore, directional and horizontal rig counts increased from 283 as of December
+31, 2002 to 688 on June 30, 2006, which accounted for 32.8% and 41.0% of the total U.S. rig count,
+respectively. Currently, we believe that the number of available drillings rigs is insufficient to
+meet the demand for drilling rigs. Consequently, unless a significant number of additional
+drilling rigs are brought online, the rig count may not increase substantially despite the strong
+demand.
+
+Our cost of revenues represents all direct and indirect costs associated with the operation and
+maintenance of our equipment. The principal elements of these costs are direct and indirect labor
+and benefits, repairs and maintenance of our equipment, insurance, equipment rentals, fuel and
+depreciation. Operating expenses do not fluctuate in direct proportion to changes in revenues
+because, among other factors, we have a fixed base of inventory of equipment and facilities to
+support our operations, and in periods of low drilling activity we may also seek to preserve labor
+continuity to market our services and maintain our equipment.
+
+17
+
+Table of Contents
+
+Comparison of Three Months Ended June 30, 2006 and 2005
+
+Our revenues for the three months ended June 30, 2006 were $60.5 million, an increase of 156.4%
+compared to $23.6 million for the three months ended June 30, 2005. Revenues increased in all of
+our business segments due to acquisitions completed in the second and third quarters of 2005 and
+the first and second quarters of 2006, the investment in additional equipment, improved pricing for
+our services, the addition of operations and sales personnel and the opening of new operations
+offices. Revenues increased most significantly at our rental tools segment due to the acquisition
+of Specialty Rental Tools, Inc., or Specialty, effective January 1, 2006. Our casing and tubing
+services segment also so a substantial increase in revenue, primarily due to the acquisitions of
+the casing and tubing assets of Patterson Services, Inc on September 1, 2005, and the acquisition
+of Rogers Oil Tool Services, Inc., or Rogers, as of April 1, 2006, along with improved market
+conditions and increased market penetration for our services in South Texas, East Texas, Louisiana
+and the U.S. Gulf of Mexico. Revenue increased at our compressed air drilling segment due to the
+acquisition of the air drilling assets of W.T. Enterprises, Inc., or WT, on July 11, 2005, the
+purchase of additional equipment and improved pricing for our services in West Texas. Our
+directional drilling services segment revenues increased in the 2006 period compared to the 2005
+period due to improved pricing for directional drilling services, the acquisition of Target Energy,
+Inc., or Target, which provides measurement-while-drilling tools, or MWD, the addition of
+operations and sales personnel, the opening of new operations offices and the purchase of
+additional down-hole motors and MWDs which increased our capacity and market presence. Also
+contributing to increased revenues was the acquisition of Capcoil Tubing Services, Inc., or
+Capcoil, as of May 1, 2005 in our production services segment.
+
+Our gross profit for the quarter ended June 30, 2006 increased 262.6% to $24.7 million, or 40.8% of
+revenues, compared to $6.8 million, or 28.8%, of revenues for the three months ended June 30, 2005.
+The increase in gross profit as a percentage of revenues is due to the acquisition of Specialty as
+of January 1, 2006, in the high margin rental tool business. The increase in gross profit is also
+due to increased revenues at our compressed air drilling services segment, including the
+acquisition of the air drilling assets of WT, increased revenues and improved pricing in the
+directional drilling services segment. Improved market conditions for our domestic casing and
+tubing segment, the acquisition of additional casing and tubing assets in September 2005 and the
+acquisition of Rogers in April 2006 also contributed to the increase in gross profit. The increase
+in gross profit was partially offset by an increase in depreciation expense of 250.5% to $3.8
+million for the second quarter of 2006 compared to $1.1 million for the second quarter of 2005.
+The increase is due to additional depreciable assets resulting from the acquisitions and capital
+expenditures. Our cost of revenues consists principally of our labor costs and benefits, equipment
+rentals, maintenance and repairs of our equipment, depreciation, insurance and fuel. Because many
+of our costs are fixed, our gross profit as a percentage of revenues is generally affected by our
+level of revenues.
+
+General and administrative expense was $8.1 million in the second quarter of 2006 period compared
+to $3.5 million for the second quarter of 2005. General and administrative expense increased due
+to the additional expenses associated with the acquisitions, and the hiring of additional sales and
+administrative personnel. General and administrative expense also increased because of increased
+accounting and consulting fees and other expenses in connection with initiatives to strengthen our
+internal control processes, costs related to Sarbanes Oxley compliance efforts and increased
+corporate accounting and administrative staff. As a percentage of revenues, general and
+administrative expenses were 13.5% in the 2006 quarter and 14.7% in the 2005 quarter.
+
+We adopted SFAS No. 123R,
+Share-Based Payment,
+effective January 1, 2006. This statement requires
+all share-based payments to employees, including grants of employee stock options, to be recognized
+in the financial statements based on their grant-date fair values. We adopted SFAS No. 123R using
+the modified prospective transition method, utilizing the Black-Scholes option pricing model for
+the calculation of the fair value of our employee stock options. Under the modified prospective
+method, we record compensation cost related to unvested stock awards as of December 31, 2005 by
+recognizing the unamortized grant date fair value of these awards over the remaining vesting
+periods of those awards with no change in historical reported earnings. Therefore, we recorded an
+expense of $0.8 million related to stock options for the three months ended June 30, 2006, of which
+$764,000 was recorded in general and administrative expense with the balance being recorded as a
+direct cost. Prior to January 1, 2006, we accounted for our stock-based compensation using
+Accounting Principle Board Opinion No. 25. Under APB No. 25, compensation expense is recognized
+for stock options with an exercise price that is less than the market price on the grant date of
+the option. Accordingly, no compensation cost was recognized under APB No. 25.
+
+Amortization expense was $666,000 in the second quarter of 2006 compared to $426,000 in the second
+quarter of 2005. The increase in amortization expense is due to the amortization of intangible
+assets in connection with our acquisitions and the amortization of deferred financing costs.
+
+18
+
+Table of Contents
+
+Income from operations for the three months ended June 30, 2006 totaled $15.9 million, a 444.6%
+increase over income from operations of $2.9 million for the three months ended June 30, 2005,
+reflecting the increase in our revenues and gross profit, offset in part by increased general and
+administrative expenses and amortization.
+
+Our net interest expense was $3.8 million in the second quarter of 2006, compared to $645,000 for
+the second quarter of 2005. Interest expense increased in the 2006 quarter due to the increased
+borrowings at a higher average interest rate. In January of 2006 we issued $160.0 million of
+senior notes bearing interest at 9.0% to fund the acquisition of Specialty, pay off other
+outstanding debt and for working capital.
+
+Minority interest in income of subsidiaries for the second quarter of 2006 was $0 compared to
+$344,000 for the second quarter of 2005 due to the acquisition of the minority interest in AirComp
+L.L.C., or AirComp, as of July 11, 2005.
+
+We had net income of $9.6 million for the second quarter of 2006, an increase of 442.3%, compared
+to net income of $1.8 million for the second quarter of 2005.
+
+The following table compares revenues and income from operations for each of our business segments.
+Income (loss) from operations consists of revenues less cost of revenues, general and
+administrative expenses, and depreciation and amortization:
+
+Revenues
+
+Income (Loss) from Operations
+
+Three Months Ended
+
+Three Months Ended
+
+June 30,
+
+June 30,
+
+2006
+
+2005
+
+Change
+
+2006
+
+2005
+
+Change
+
+(in thousands)
+
+Directional drilling services
+
+$
+
+18,315
+
+$
+
+10,934
+
+$
+
+7,381
+
+$
+
+4,367
+
+$
+
+1,495
+
+$
+
+2,872
+
+Rental tools
+
+12,707
+
+1,566
+
+11,141
+
+7,308
+
+405
+
+6,903
+
+Casing and tubing services
+
+14,569
+
+3,933
+
+10,636
+
+4,314
+
+1,354
+
+2,960
+
+Compressed air drilling services
+
+10,949
+
+4,866
+
+6,083
+
+3,204
+
+1,002
+
+2,202
+
+Production services
+
+3,930
+
+2,289
+
+1,641
+
+341
+
+36
+
+305
+
+General corporate
+
+—
+
+—
+
+—
+
+(3,663
+
+)
+
+(1,378
+
+)
+
+(2,285
+
+)
+
+Total
+
+$
+
+60,470
+
+$
+
+23,588
+
+$
+
+36,882
+
+$
+
+15,871
+
+$
+
+2,914
+
+$
+
+12,957
+
+Directional Drilling Services Segment
+
+Revenues for the quarter ended June 30, 2006 for our directional drilling services segment were
+$18.3 million, an increase of 67.5% from the $10.9 million in revenues for the quarter ended June
+30, 2005. Income from operations increased 192.1% to $4.4 million for the second quarter of 2006
+from $1.5 million for the comparable 2005 period. The improved results for this segment are due to
+the increase in drilling activity in the Texas and Gulf Coast areas, improved pricing for
+directional and horizontal drilling services, the acquisition of Target as of August 1, 2005, the
+purchase of an additional six MWDs, the establishment of new operations in West Texas and Oklahoma,
+and the addition of operations and sales personnel which increased our capacity and market
+presence. Our increased operating expenses as a result of the addition of operations and personnel
+were more than offset by the growth in revenues and improved pricing for our services.
+
+Rental Tools Segment
+
+Revenues for the quarter ended June 30, 2006 for the rental tools segment were $12.7 million, from
+$1.6 million in revenues for the quarter ended June 30, 2005. Income from operations increased to
+$7.3 million in the 2006 period compared to $405,000 in the 2005 period. Our rental tools revenues
+and operating income for the second quarter of 2006 increased compared to the prior year due
+primarily due to the acquisition of Specialty. Specialty was acquired as of January 1, 2006, the
+effective date of the acquisition. Safco-Oil Field Products, Inc., or Safco, Delta Rental Service,
+Inc., or Delta, and Specialty were merged in February 2006 to form Allis-Chalmers Rental Tools, Inc
+
+19
+
+Table of Contents
+
+Casing and Tubing Services Segment
+
+Revenues for the quarter ended June 30, 2006 for the casing and tubing services segment were $14.6
+million, an increase of 270.4% from the $3.9 million in revenues for the quarter ended June 30,
+2005. Revenues from domestic operations increased to $13.0 million in the 2006 period from $2.3
+million in the 2005 period as a result of the acquisition of Rogers and the casing and tubing
+assets of Patterson Services on September 1, 2005, which resulted in increased market penetration
+for our services in South Texas, East Texas, Louisiana and the U.S. Gulf of Mexico. Revenues from
+Mexico operations were $1.6 million for the second quarter of 2006 and in the second quarter of
+2005. Income from operations increased 218.6% to $4.3 million in the second quarter of 2006 from
+$1.4 million in the second quarter of 2005. The increase in this segment’s operating income is due
+to our increased revenues from domestic operations. The operating income as a percentage of
+revenue decreased to 29.6% for the three months ended June 30, 2006 compared to 34.4% for the same
+period of 2005. The decrease in operating income as a percentage of revenues is due to the
+increase in domestic revenues as compared to Mexico revenues, which have higher operating income
+margins.
+
+Compressed Air Drilling Services Segment
+
+Our compressed air drilling revenues were $10.9 million for the three months ended June 30, 2006,
+an increase of 125.0% compared to $4.9 million in revenues for the three months ended June 30,
+2005. Income from operations increased to $3.2 million in the 2006 period compared to income from
+operations of $1.0 million in the 2005 period. Our compressed air drilling revenues and operating
+income for the second quarter of 2006 increased compared to the prior year due primarily due to the
+acquisition of the air drilling assets of WT as of July 11, 2005, improved pricing for our services
+and our investment in additional equipment.
+
+Production Services Segment
+
+Operations for this segment consist of Downhole Injection Services, LLC, or Downhole which was
+acquired December 1, 2004, and Capcoil which was acquired May 1, 2005. Downhole and Capcoil were
+merged in February 2006, to form Allis-Chalmers Production Services, Inc. Revenues were $3.9
+million for the three months ended June 30, 2006, an increase of 71.7% compared to $2.3 million in
+revenues for the three months ended June 30, 2005. Income from operations increased to $341,000 in
+the 2006 period compared to $36,000 in the 2005 period. Our production services revenues and
+operating income for the second quarter of 2006 increased compared to the prior year due to the
+acquisition of Capcoil and improved pricing for our services and improved utilization of out
+equipment..
+
+General Corporate
+
+General corporate expenses increased $2.3 million to $3.7 million for the three months ended June
+30, 2006 compared to $1.4 million for the three months ended June 30, 2005. The increase was due
+to stock option expense of $0.8 million recorded in 2006 with the adoption of SFAS 123R, the
+increase in accounting and administrative staff to support the growing organization, increased
+franchise taxes based on our increased authorized shares and cost related to our Sarbanes-Oxley
+compliance effort.
+
+Comparison of Six Months Ended June 30, 2006 and 2005
+
+Our revenues for the six months ended June 30, 2006 were $107.5 million, an increase of 150.4%
+compared to $42.9 million for the six months ended June 30, 2005. Revenues increased in all of our
+business segments due to acquisitions completed in the second and third quarters of 2005 and the
+first and second quarters of 2006, the investment in additional equipment, improved pricing for our
+services, the addition of operations and sales personnel and the opening of new operations offices.
+Revenues increased most significantly at our rental tools segment due to the acquisition of
+Specialty, effective January 1, 2006 and Delta, on April 1, 2005. Our casing and tubing services
+segment recorded substantial revenue growth due to the acquisitions of the casing and tubing assets
+of Patterson Services, Inc on September 1, 2005, and the acquisition of Rogers effective April 1,
+2006, along with improved market conditions and increased market penetration for our services in
+South Texas, East Texas, Louisiana and the U.S. Gulf of Mexico. Our directional drilling services
+segment revenues increased in the 2006 period compared to the 2005 period due to improved pricing
+for directional drilling services, the acquisition of Target, which provides MWD tools, the
+addition of operations and sales personnel, the opening of new operations offices and the purchase
+of additional down-hole motors and MWDs which increased our capacity and market presence. Revenues
+also increased at our compressed air drilling segment due to the acquisition of the air drilling
+assets of WT, on July 11, 2005, the purchase of additional equipment and improved pricing for our
+services in West Texas. Also contributing to increased revenues was the acquisition of Capcoil, as
+of May 1, 2005 in our production services segment.
+
+20
+
+Table of Contents
+
+Our gross profit for the six months ended June 30, 2006 increased 231.7% to $41.3 million, or 38.4%
+of revenues, compared to $12.4 million, or 29.0%, of revenues for the six months ended June 30,
+2005. The increase in gross profit as a percentage of revenues is due to the acquisition of
+Specialty as of January 1, 2006 and the acquisition of Delta as of April 1, 2005, in the high
+margin rental tool business. The increase in gross profit is also due to increased revenues at our
+compressed air drilling services segment, including the acquisition of the air drilling assets of
+WT, increased revenues and improved pricing in the directional drilling services segment. Improved
+market conditions for our domestic casing and tubing segment, the acquisition of additional casing
+and tubing assets in September 2005 and the acquisition of Rogers effective April 1, 2006 also
+contributed to the gross profit increase. The increase in gross profit was partially offset by an
+increase in depreciation expense of 256.8% to $7.2 million for the first six months of 2006
+compared to $2.0 million for the first six months of 2005. The increase is due to additional
+depreciable assets resulting from the acquisitions and capital expenditures. Our cost of revenues
+consists principally of our labor costs and benefits, equipment rentals, maintenance and repairs of
+our equipment, depreciation, insurance and fuel. Because many of our costs are fixed, our gross
+profit as a percentage of revenues is generally affected by our level of revenues.
+
+General and administrative expense was $15.5 million in the first six months of 2006 period
+compared to $6.5 million for the first six months of 2005. General and administrative expense
+increased due to the additional expenses associated with the acquisitions, and the hiring of
+additional sales and administrative personnel. General and administrative expense also increased
+because of increased accounting and consulting fees and other expenses in connection with
+initiatives to strengthen our internal control processes, costs related to Sarbanes Oxley
+compliance efforts and increased corporate accounting and administrative staff. As a percentage of
+revenues, general and administrative expenses were 14.4% for the six months ended June 30, 2006
+and 15.0% in the same period of 2005.
+
+We adopted SFAS No. 123R,
+Share-Based Payment,
+effective January 1, 2006. This statement requires
+all share-based payments to employees, including grants of employee stock options, to be recognized
+in the financial statements based on their grant-date fair values. With the adoption of SFAS no.
+123R, we recorded $1.8 million of expense related to stock options during the six months ended June
+30, 2006, of which $1.6 million was recorded as a general and administrative expense with the
+balance recorded as direct costs. We adopted SFAS No. 123R using the modified prospective
+transition method, utilizing the Black-Scholes option pricing model for the calculation of the fair
+value of our employee stock options. Under the modified prospective method, we record compensation
+cost related to unvested stock awards as of December 31, 2005 by recognizing the unamortized grant
+date fair value of these awards over the remaining vesting periods of those awards with no change
+in historical reported earnings. Prior to January 1, 2006, we accounted for our stock-based
+compensation using Accounting Principle Board Opinion No. 25. Under APB No. 25, compensation
+expense is recognized for stock options with an exercise price that is less than the market price
+on the grant date of the option. Accordingly, no compensation cost was recognized under APB No.
+25.
+
+Amortization expense was $1.3 million in the first six months of 2006 compared to $820,000 in the
+first six months of 2005. The increase in amortization expense is due to the amortization of
+intangible assets in connection with our acquisitions and the amortization of deferred financing
+costs.
+
+Income from operations for the six months ended June 30, 2006 totaled $24.5 million, a 374.8%
+increase over income from operations of $5.2 million for the six months ended June 30, 2005,
+reflecting the increase in our revenues and gross profit, offset in part by increased general and
+administrative expenses, and amortization.
+
+Our net interest expense was $7.4 million in the first six months of 2006, compared to $1.2 million
+for the first six months of 2005. Interest expense increased in the 2006 period due to the
+increased borrowings at a higher average interest rate. In January of 2006 we issued $160.0
+million of senior notes bearing interest at 9.0% to fund the acquisition of Specialty, pay off
+other outstanding debt and for working capital.
+
+Minority interest in income of subsidiaries for the six months ended June 30, 2006 was $0 compared
+to $488,000 for the six months ended June 30, 2005 due to the acquisition of the minority interest
+in AirComp, as of July 11, 2005.
+
+We had net income of $14.0 million for the first six months of 2006, an increase of 320.2%,
+compared to net income of $3.3 million for the first six months of 2005.
+
+21
+
+Table of Contents
+
+The following table compares revenues and income from operations for each of our business segments.
+Income (loss) from operations consists of revenues less cost of revenues, general and
+administrative expenses, and depreciation and amortization:
+
+Revenues
+
+Income (Loss) from Operations
+
+Six Months Ended
+
+Six Months Ended
+
+June 30,
+
+June 30,
+
+2006
+
+2005
+
+Change
+
+2006
+
+2005
+
+Change
+
+(in thousands)
+
+Directional drilling services
+
+$
+
+33,369
+
+$
+
+20,835
+
+$
+
+12,534
+
+$
+
+6,972
+
+$
+
+3,373
+
+$
+
+3,599
+
+Rental tools
+
+23,128
+
+1,940
+
+21,188
+
+12,306
+
+326
+
+11,980
+
+Casing and tubing services
+
+24,028
+
+7,493
+
+16,535
+
+6,165
+
+2,679
+
+3,486
+
+Compressed air drilling services
+
+20,048
+
+9,047
+
+11,001
+
+5,441
+
+1,529
+
+3,912
+
+Production services
+
+6,925
+
+3,607
+
+3,318
+
+618
+
+(2
+
+)
+
+620
+
+General corporate
+
+—
+
+—
+
+—
+
+(6,998
+
+)
+
+(2,744
+
+)
+
+(4,254
+
+)
+
+Total
+
+$
+
+107,498
+
+$
+
+42,922
+
+$
+
+64,576
+
+$
+
+24,504
+
+$
+
+5,161
+
+$
+
+19,343
+
+Directional Drilling Services Segment
+
+Revenues for the six months ended June 30, 2006 for our directional drilling services segment were
+$33.4 million, an increase of 60.2% from the $20.8 million in revenues for the six months ended
+June 30, 2005. Income from operations increased 106.7% to $7.0 million for the first six months of
+2006 from $3.4 million for the comparable 2005 period. The improved results for this segment are
+due to the increase in drilling activity in the Texas and Gulf Coast areas, improved pricing for
+directional and horizontal drilling services, the acquisition of Target as of August 1, 2005, the
+purchase of an additional six MWDs, the establishment of new operations in West Texas and Oklahoma,
+and the addition of operations and sales personnel which increased our capacity and market
+presence. Our increased operating expenses as a result of the addition of operations and personnel
+were more than offset by the growth in revenues and improved pricing for our services.
+
+Rental Tools Segment
+
+Revenues for the six months ended June 30, 2006 for the rental tools segment were $23.1 million,
+from $1.9 million in revenues for the six months ended June 30, 2005. Income from operations
+increased to $12.3 million in the 2006 period compared to $326,000 in the 2005 period. Our rental
+tools revenues and operating income for the first six months of 2006 increased compared to the
+prior year due primarily due to the acquisitions of Specialty and Delta. Delta was acquired as of
+April 1, 2005, and Specialty was acquired as of January 1, 2006, the effective date of their
+respective acquisitions. Safco, Delta and Specialty were merged in February 2006 to form
+Allis-Chalmers Rental Tools, Inc
+
+Casing and Tubing Services Segment
+
+Revenues for the six months ended June 30, 2006 for the casing and tubing services segment were
+$24.0 million, an increase of 220.7% from the $7.5 million in revenues for the six months ended
+June 30, 2005. Revenues from domestic operations increased to $20.8 million in the 2006 period
+from $4.2 million in the 2005 period as a result of the acquisitions of the casing and tubing
+assets of Patterson Services on September 1, 2005 and Rogers effective April 1, 2006, which
+resulted in increased market penetration for our services in South Texas, East Texas, Louisiana and
+the U.S. Gulf of Mexico. Revenues from Mexico operations decreased to $3.2 million in the first
+six months of 2006 from $3.3 million in the 2005 period. Income from operations increased 130.1%
+to $6.2 million in the first six months of 2006 from $2.7 million in the first six months of 2005.
+The increase in this segment’s operating income is due to our increased revenues from domestic
+operations. The operating income as a percentage of revenue decreased to 25.7% for the six months
+ended June 30, 2006 compared to 35.8% for the same period of 2005. The decrease in operating
+income as a percentage of revenues is due to the increase in domestic revenues as compared to
+Mexico revenues, which have higher operating income margins.
+
+Compressed Air Drilling Services Segment
+
+Our compressed air drilling revenues were $20.0 million for the six months ended June 30, 2006, an
+increase of 121.6% compared to $9.0 million in revenues for the six months ended June 30, 2005.
+Income from operations increased to $5.4 million in the 2006 period compared to income from
+operations of $1.5 million in the 2005 period. Our compressed air drilling revenues and operating
+income for the first six months of 2006 increased compared to the prior year due primarily due to
+the acquisition of the air drilling assets of WT as of July 11, 2005, improved pricing for our
+services and our investment in additional equipment.
+
+22
+
+Table of Contents
+
+Production Services Segment
+
+Operations for this segment consist of Downhole which was acquired December 1, 2004, and Capcoil
+which was acquired May 1, 2005. Downhole and Capcoil were merged in February 2006, to form
+Allis-Chalmers Production Services, Inc. Revenues were $6.9 million for the six months ended June
+30, 2006, an increase of 92.0% compared to $3.6 million in revenues for the six months ended June
+30, 2005. Income from operations increased to $618,000 in the 2006 period compared to loss from
+operations of $2,000 in the 2005 period. Our production services revenues and operating income for
+the first six months of 2006 increased compared to the prior year due to the acquisition of Capcoil
+and improved pricing for our services and improved utilization of our equipment.
+
+General Corporate
+
+General corporate expenses increased $4.3 million to $7.0 million for the six months ended June 30,
+2006 compared to $2.7 million for the six months ended June 30, 2005. The increase was due to
+stock option expense of $1.8 million recorded in 2006 with the adoption of SFAS 123R, the increase
+in accounting and administrative staff to support the growing organization, increased franchise
+taxes based on our increased authorized shares and cost related to our Sarbanes-Oxley compliance
+effort.
+
+Liquidity and Capital Resources
+
+Our on-going capital requirements arise primarily from our need to service our debt, to complete
+acquisitions and acquire and maintain equipment, and to fund our working capital requirements. Our
+primary sources of liquidity are borrowings under our revolving lines of credit, proceeds from the
+issuance of debt and equity securities and cash flows from operations. We had cash and cash
+equivalents of $6.2 million at June 30, 2006 compared to $1.9 million at December 31, 2005.
+
+Operating Activities
+
+In the six months ended June 30, 2006, our operating activities provided $17.0 million in cash
+compared to $2.9 million for the same period in 2005. Net income for the six months ended June 30,
+2006 increased to $14.0 million, compared to $3.3 million in the 2005 period. The $14.0 million in
+net income for the 2006 period includes a charge of $1.8 million related to the expensing of stock
+options as required under SFAS No. 123R. Revenues and income from operations increased in the
+first six months of 2006 due to acquisitions completed in the first and second quarters of 2006 and
+the second and third quarters of 2005, the investment in additional equipment, the opening of new
+operations offices and the addition of operations and sales personnel. Non-cash expenses totaled
+$11.0 million during the first six months of 2006 consisting of $8.4 million of depreciation and
+amortization, $1.8 million from the expensing of stock options, $355,000 of imputed interest
+related to the effective date of the Specialty acquisition, $279,000 related to increases to the
+allowance for doubtful accounts receivables and $119,000 on the loss from asset retirements.
+Non-cash expenses during the first six months of 2005 totaled $3.3 million, consisting of
+depreciation and amortization expense of $2.8 million and minority interest of $488,000.
+
+During the six months ended June 30, 2006, changes in operating assets and liabilities used $8.0
+million in cash, principally due to an increase of $13.6 million in accounts receivable, an
+increase of $1.5 million in inventory, a decrease of $1.5 million in accounts payable, offset in
+part by an increase of $6.4 million in accrued interest and an increase of $1.8 million in accrued
+expenses. Accounts receivable increased due to the increase in our revenues in the first six
+months of 2006. Other inventory increased primarily due to increased activity levels. The
+increase in accrued interest relates to our 9.0% senior notes issued in 2006 which is only payable
+in January and July. The increase in accrued expenses can be attributed to additional income tax
+liability due to profitability and additional expenses related to higher activity levels.
+
+During the six months ended June 30, 2005, changes in operating assets and liabilities used $3.8
+million in cash, principally due to an increase of $3.0 million in accounts receivable, an increase
+of $1.1 million in inventory, and a decrease of $296,000 in accrued expenses, offset in part by an
+increase in accounts payable of $610,000. Accounts receivable increased due to the increase in our
+revenues in the first six months of 2005. The increase in inventory primarily relates to the
+acquisition of Capcoil. Accounts payable increased due to the increased level of activity.
+
+23
+
+Table of Contents
+
+Investing Activities
+
+During the six months ended June 30, 2006, we used $119.0 million in investing activities,
+consisting of $95.8 million for the acquisition of Specialty, net of cash received, $10.7 million
+for the acquisition of Rogers, net of cash received and $14.2 million for capital expenditures,
+offset by $1.8 million of proceeds from equipment sales. Included in the $14.2 million for capital
+expenditures was $5.5 million for equipment used in our casing and tubing segment, $3.0 million for
+the expansion of our MWD equipment used in the directional drilling segment and $3.0 million for
+additional equipment in our compressed air drilling services segment. A majority of our equipment
+sales relate to items “lost in hole” by our customers. During the first six months of 2005, we
+used $12.6 million in investing activities, consisting principally of the purchase of equipment of
+$5.5 million, the acquisition of Delta, net of cash received, for $4.5 million and the acquisition
+of Capcoil, net of cash received, for $2.6 million. Equipment purchases consisted primarily of
+$1.9 million for casing equipment, approximately $1.2 million for the purchase of downhole motors
+and approximately $1.9 million for new compressed air drilling equipment.
+
+Financing Activities
+
+During the six months ended June 30, 2006, financing activities provided $106.3 million in cash.
+We received $161.4 million in proceeds from long-term debt, repaid $45.3 million in borrowings
+under long-term debt facilities, repaid $3.0 million in related party debt, repaid $6.4 million net
+under our line of credit and paid $5.3 million in debt issuance costs. We also received $5.0
+million in proceeds from the exercise of options and warrants. During the six months ended June
+30, 2005, financing activities provided a net of $5.0 million in cash. We received $5.2 million,
+net, in borrowings under long-term debt facilities and paid $199,000 in debt issuance costs.
+
+On January 18, 2006, we closed on a private offering of $160.0 million aggregate principal amount
+of our senior notes. The notes are due January 15, 2014 and bear interest at 9.0%. The proceeds
+from the sale of the notes were used to fund the Specialty acquisition, to repay existing debt and
+for general corporate purposes.
+
+Prior to January 18, 2006, we were party to a July 2005 credit agreement that provided for the
+following senior secured credit facilities:
+
+•
+
+A $13.0 million revolving line of credit. Borrowings were limited to 85% of eligible
+accounts receivable plus 50% of eligible inventory (up to a maximum of $2.0 million of
+borrowings based on inventory). This line of credit was to be used to finance working
+capital requirements and other general corporate purposes, including the issuance of
+standby letters of credit. Outstanding borrowings under this line of credit were $6.4
+million at a margin above prime and LIBOR rates plus margin averaging approximately 8.1% as
+of December 31, 2005.
+
+•
+
+Two term loans totaling $42.0 million. Outstanding borrowings under these term loans
+were $42.0 million as of December 31, 2005. These loans were at LIBOR rates plus a margin
+which averages approximately 7.8% at December 31, 2005.
+
+Borrowings under the July 2005 credit facilities were to mature in July 2007. Amounts outstanding
+under the term loans as of July 2006 were to be repaid in monthly principal payments based on a 48
+month repayment schedule with the remaining balance due at maturity. Additionally, during the
+second year, we were to be required to prepay the remaining balance of the term loans by 75% of
+excess cash flow, if any, after debt service and capital expenditures. The interest rate payable
+on borrowings was based on a margin over the London Interbank Offered Rate, referred to as LIBOR,
+or the prime rate, and there was a 0.5% fee on the undrawn portion of the revolving line of credit.
+The margin over LIBOR was to increase by 1.0% in the second year.
+
+All amounts outstanding under our July 2005 credit agreement were paid off with the proceeds of our
+senior notes offering on January 18, 2006. On January 18, 2006, we also executed an amended and
+restated credit agreement which provides for a $25.0 million revolving line of credit with a
+maturity of January 2010. Our January 2006 amended and restated credit agreement contains
+customary events of default and financial covenants and limits our ability to incur additional
+indebtedness, make capital expenditures, pay dividends or make other distributions, create liens
+and sell assets. Our obligations under the January 2006 amended and restated credit agreement are
+secured by substantially all of our assets.
+
+At June 30, 2006, we had $170.0 million in outstanding indebtedness, of which $166.0 million was
+long term debt and $4.0 million was the current portion of long term debt.
+
+24
+
+Table of Contents
+
+On July 11, 2005, we acquired from M-I its 45% equity interest in AirComp and the subordinated note
+in the principal amount of $4.8 million issued by AirComp, for which we paid M-I $7.1 million in
+cash and issued a new $4.0 million subordinated note bearing interest at 5% per annum. The
+subordinated note issued to M-I requires quarterly interest payments and the principal amount is
+due October 9, 2007. Contingent upon a future equity offering, the subordinated note is
+convertible into up to 700,000 shares of our common stock at a conversion price equal to the market
+value of the common stock at the time of conversion. This note was repaid from the proceeds of our
+9.0% senior notes offering, which we completed in August 2006.
+
+As of December 31, 2005, Allis-Chalmers Tubular Services Inc., or Tubular, had a subordinated note
+outstanding and payable to Jens Mortensen, the seller of Tubular and one of our directors, in the
+amount of $4.0 million with a fixed interest rate of 7.5%. Interest was payable quarterly and the
+final maturity of the note was January 31, 2006. The subordinated note was subordinated to the
+rights of our bank lenders. The balance of this subordinated note was repaid in full in January
+2006 with proceeds from our senior notes offering.
+
+As part of the acquisition of Mountain Compressed Air Inc., or Mountain Air, in 2001, we issued a
+note to the sellers of Mountain Air in the original amount of $2.2 million accruing interest at a
+rate of 5.75% per annum. The note was reduced to $1.5 million as a result of the settlement of a
+legal action against the sellers in 2003. In March 2005, we reached an agreement with the sellers
+and holders of the note as a result of an action brought against us by the sellers. Under the
+terms of the agreement, we paid the holders of the note $1.0 million in cash, and agreed to pay an
+additional $350,000 on June 1, 2006, and an additional $150,000 on June 1, 2007, in settlement of
+all claims. At June 30, 2006 and December 31, 2005 the outstanding amounts due were $150,000 and
+$500,000, respectively.
+
+In connection with the purchase of Delta, we issued to the sellers a note in the amount of
+$350,000. The note bore interest at 2% and the principal and accrued interest was repaid on its
+maturity of April 1, 2006. In connection with the acquisition of Rogers, we issued to the seller a
+note in the amount of $750,000. The note bears interest at 5% and is due April 3, 2009.
+
+In connection with the purchase of Tubular, we agreed to pay a total of $1.2 million to Mr.
+Mortensen in exchange for a non-compete agreement. Monthly payments of $20,576 are due under this
+agreement through January 31, 2007. In connection with the purchase of Safco, we also agreed to
+pay a total of $150,000 to the sellers in exchange for a non-compete agreement. We are required to
+make annual payments of $50,000 through September 30, 2007. In connection with the purchase of
+Capcoil, we agreed to pay a total of $500,000 to two management employees in exchange for
+non-compete agreements. We are required to make annual payments of $110,000 through May 2008.
+Total amounts due under these non-compete agreements at June 30, 2006 and December 31, 2005 were
+$443,000 and $698,000, respectively.
+
+In 2000 we compensated directors, including current directors Nederlander and Toboroff, who served
+on the board of directors from 1989 to March 31, 1999 without compensation, by issuing promissory
+notes totaling $325,000. The notes bear interest at the rate of 5.0%. At June 30, 2006 and
+December 31, 2005, the principal and accrued interest on these notes totaled approximately $32,000
+and $96,000, respectively.
+
+We also had a real estate loan which was payable in equal monthly installments of $4,344 with the
+remaining outstanding balance due on January 1, 2010. The loan had a floating interest rate based
+on prime plus 2.0%. The outstanding principal balance was $548,000 at December 31, 2005. The
+balance of this loan was repaid in full in January 2006 with proceeds from our senior notes
+offering.
+
+We have various equipment financing loans with interest rates ranging from 5% to 8.2% and terms
+ranging from 2 to 5 years. As of June 30, 2006 and December 31, 2005, the outstanding balances for
+equipment financing loans were $2.4 million and $1.9 million, respectively. In April 2006, we
+obtained an insurance premium financing in the amount of $1.9 million with a fixed interest rate of
+5.6%. Under terms of the agreement, amounts outstanding are paid over a 10 month repayment
+schedule. The outstanding balance of this note was approximately $1.6 million as of June 30, 2006.
+We also have various capital leases with terms that expire in 2008. As of June 30, 2006 and
+December 31, 2005, amounts outstanding under capital leases were $671,000 and $917,000,
+respectively. In January 2006, we prepaid $350,000 of the outstanding equipment loans with
+proceeds from our senior notes offering.
+
+We have no off balance sheet arrangements, other than normal operating leases and employee
+contracts, that have or are likely to have a current or future material effect on our financial
+condition, changes in financial condition, revenues, expenses, results of operations, liquidity,
+capital expenditures or capital resources. We do not guarantee obligations of any unconsolidated
+entities.
+
+25
+
+Table of Contents
+
+Capital Requirements
+
+We have identified capital expenditure projects that will require up to approximately $8.0 million
+for the remainder of 2006, exclusive of any acquisitions. We believe that our current cash
+generated from operations, cash available under our credit facilities and cash on hand will provide
+sufficient funds for our identified projects.
+
+We intend to implement a growth strategy of increasing the scope of services through both internal
+growth and acquisitions. We are regularly involved in discussions with a number of potential
+acquisition candidates. The acquisition of assets could require additional financing, which we
+currently anticipate would be borrowed under our bank facility. Any such borrowing would require
+the consent of our lenders under our bank credit facilities. We also expect to make capital
+expenditures to acquire and to maintain our existing equipment. Our performance and cash flow from
+operations will be determined by the demand for our services which in turn are affected by our
+customers’ expenditures for oil and gas exploration and development, and industry perceptions and
+expectations of future oil and natural gas prices in the areas where we operate. We will need to
+refinance our existing debt facilities as they become due and provide funds for capital
+expenditures and acquisitions. To effect our expansion plans, we will require additional equity or
+debt financing and the proceeds of the pending offering. There can be no assurance that we will be
+successful in raising the additional debt or equity capital or that we can do so on terms that will
+be acceptable to us.
+
+Recent Developments
+
+On August 8, 2006, we entered into an amendment to our amended and restated credit agreement dated
+as of January 18, 2006. The amendment, among other things, amends the credit agreement to (a)
+allow us to (i) issue and sell $95.0 million aggregate principal amount of our 9.0% senior notes
+due 2014 and (ii) issue and sell 3,450,000 shares of our common stock, (b) allow us to use the net
+proceeds from the senior notes offering and the public offering to purchase all the outstanding
+capital stock of DLS Drilling Logistics and Services Corporation, or DLS, (c) exclude certain
+existing indebtedness and investments of DLS and investments and indebtedness related to the DLS
+Acquisition from the covenants contained in the Credit Agreement and (d) increase the amount of
+permitted lease obligations and capital expenditures.
+
+On August 8, 2006, we priced a public offering of 3.0 million shares of our common stock at $14.50
+per share. We have granted the underwriters a 30-day option to purchase up to an additional
+450,000 shares to cover over-allotments, if any. On August 14, 2006, we closed the common stock
+offering and the underwriters elected to exercise the over-allotment option in full.
+
+We also priced a private offering of $95.0 million aggregate principal amount of 9.0% senior notes
+on August 8, 2006. The notes were sold to investors at a price of 100% of the principal amount
+thereof, plus accrued interest from July 15, 2006. Fixed interest on the notes will be payable on
+January 15 and July 15 of each year, beginning on January 15, 2007 and the notes mature on January
+15, 2014. The sale of the notes closed on August 14, 2006.
+
+On August 14, 2006, we completed the acquisition of all of the outstanding capital stock of DLS.
+The purchase price of DLS consisted of $93.7 million in cash, 2.5 million shares of our common
+stock and approximately $8.6 million of assumed debt. DLS
+currently operates a fleet of 51 rigs, including 21 drilling rigs, 18 workover rigs and
+12 pulling rigs in Argentina and one drilling rig in Bolivia.
+
+In May of 2006, we filed a registration statement for the offering of common stock described above
+to fund a portion of the cash purchase price of DLS. We ultimately raised approximately $47.0
+million from such registered stock offering and applied all such amount toward the cash component
+of the purchase price of DLS. In August 2006, we also raised approximately $92.7 million through
+the issuance of additional 9.0% senior notes, and we applied a portion of such amount to the
+payment of the remainder of the cash component of the purchase price for DLS.
+
+As part of
+the DLS acquisition, Carlos Alberto Bulgheroni and Alejandro Pedro
+Bulgheroni, of the Bridas Group, have joined our board of directors,
+filling vacancies created by the resignations of Jens H. Mortensen,
+Jr. and Thomas O. Whitener, Jr.
+
+Critical Accounting Policies
+
+Please see our Annual Report on Form 10-K for the year ended December 31, 2005 for a description of
+other policies that are critical to our business operations and the understanding of our results of
+operations. The impact and any associated risks related to these policies on our business
+operations is discussed throughout Management’s Discussion and Analysis of Financial Condition and
+Results of Operations where such policies affect our reported and expected financial results. No
+material changes to such information have occurred during the six months ended June 30, 2006.
+
+In July 2006, the FASB issued FASB Interpretation No. 48,
+Accounting for Uncertainty in Income
+Taxes — an interpretation of FASB Statement No. 109
+(“FIN 48”). FIN 48 clarifies the accounting for
+uncertainty in income taxes recognized in an enterprise’s financial statements in accordance with
+SFAS No. 109,
+Accounting for Income Taxes
+. It prescribes a recognition threshold and measurement
+attribute for financial statement recognition and measurement of a tax position taken or expected
+to be taken in a tax return. This interpretation is effective for fiscal years beginning after
+December 15, 2006. We are currently evaluating the provisions of FIN 48 and have not yet determined
+the impact, if any, on our financial statements.
+
+26
+
+Table of Contents
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK.
+
+We are exposed to market risk primarily from changes in interest rates and foreign currency
+exchange risks.
+
+Interest Rate Risk.
+
+Fluctuations in the general level of interest rates on our current and future fixed and variable
+rate debt obligations expose us to market risk. We are vulnerable to significant fluctuations in
+interest rates affecting our adjustable rate debt, and any future refinancing of our fixed rate
+debt and our future debt.
+
+At December 31, 2005, we were exposed to interest rate fluctuations on approximately $49.0 million
+of notes payable and bank credit facility borrowings carrying variable interest rates. At March
+31, 2006, we repaid all variable interest rate debt.
+
+We have also been subject to interest rate market risk for short-term invested cash and cash
+equivalents. The principal of such invested funds would not be subject to fluctuating value
+because of their highly liquid short-term nature. As of June 30, 2006, we had $4.2 million
+invested in short-term investments.
+
+Foreign Currency Exchange Rate Risk.
+
+We conduct business in Mexico through our Mexican partner, Matyep. This business exposes us to
+foreign exchange risk. To control this risk, we provide for payment in U.S. dollars. However, we
+have historically provided our partner a discount upon payment equal to 50% of any loss suffered by
+our partner as a result of devaluation of the Mexican peso between the date of invoicing and the
+date of payment. To date, such payments have not been material in amount.
+
+ITEM 4. CONTROLS AND PROCEDURES.
+
+(a) Evaluation of Disclosure Controls and Procedures
+.
+
+We maintain disclosure controls and procedures that are designed to ensure that information
+required to be disclosed in our reports under the Securities Exchange Act of 1934, as amended, are
+recorded, processed, summarized and reported within the time periods specified in the SEC’s rules
+and forms, and that such information is accumulated and communicated to management, including our
+chief executive officer and chief financial officer, as appropriate, to allow timely decisions
+regarding required disclosures.
+
+Management, including our chief executive officer and our chief financial officer, has evaluated
+the effectiveness of our “disclosure controls and procedures” (as defined in Exchange Act Rules
+13a-15(e) and 15d-15(e)) as of the end of the period covered by this Report, which we refer to as
+the Evaluation Date.
+
+As disclosed in the notes to our consolidated financial statements included elsewhere in this
+report and under the caption “Management’s Discussion and Analysis of Financial Condition and
+Results of Operations — Restatement,” we understated diluted earnings per share due to an
+incorrect calculation of our weighted shares outstanding for the third quarter of 2003, for each of
+the first three quarters of 2004, for the years ended December 31, 2003 and 2004 and for the
+quarter ended March 31, 2005. In addition, we understated basic earnings per share due to an
+incorrect calculation of our weighted average basic shares outstanding for the quarter ended
+September 30, 2004. Consequently, we have restated our financial statements for each of those
+periods. The incorrect calculation resulted from a mathematical error and an improper application
+of Statement of Financial Accounting Standards, or SFAS, No. 128,
+Earnings Per Share
+. Management
+has concluded that the need to restate our financial statements resulted, in part, from the lack of
+sufficient experienced accounting personnel, which in turn resulted in a lack of effective control
+over the financial reporting process.
+
+As part of our growth strategy over the past five years, we have completed acquisitions of several
+privately-held businesses, including closely-held entities. Prior to becoming part of our
+consolidated company, these businesses were not required to implement or maintain, and did not
+implement or maintain, the disclosure controls and procedures or internal controls over financial
+reporting that federal law requires of publicly-held companies such as ours. We are in the process
+of creating and implementing appropriate disclosure controls and procedures and internal controls
+over financial reporting at each of our recently acquired businesses. However, we have not yet
+completed this process and cannot assure you as to when the process will be complete.
+
+In addition, during the fourth quarter of 2005, we failed to timely file a Current Report on Form
+8-K relating to the issuance of shares of our common stock in connection with recent stock option
+and warrant exercises. The current report, which was due to be filed in November 2005, was filed in
+February 2006.
+
+27
+
+Table of Contents
+
+As a result of the issues described above, our management has concluded that, as of the Evaluation
+Date, our disclosure controls and procedures were not effective to enable us to record, process,
+summarize, and report information required to be included in our SEC filings within the required
+time period, and to ensure that such information is accumulated and communicated to our management,
+including our chief executive officer and chief financial accounting officer, to allow timely
+decisions regarding required disclosure.
+
+(b) Change in Internal Control Over Financial Reporting.
+
+There were the following changes in our internal control over financial reporting (as such term is
+defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during the period
+covered by this report that have materially affected, or are reasonably likely to materially
+affect, our internal control over financial reporting:
+
+•
+
+We continued the engagement of an independent internal controls consulting firm which is
+in the process of documenting, analyzing, identifying and testing internal control.
+
+•
+
+During the quarter we continued the process of consolidating our payroll functions to
+improve quality control over the process. In addition we identified a new third party
+processor to handle our payroll calculations.
+
+•
+
+We continue to implement improvements in the way the accounting software is utilized.
+
+PART II. OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+We are involved in various legal proceedings in the ordinary course of business. The legal
+proceedings are at different stages; however, we believe that the likelihood of material loss
+relating to any such legal proceeding is remote.
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+During the six months ended June 30, 2006, we issued 313,442 shares of our common stock to private
+investors upon the exercise of previously issued warrants. The exercise price of the warrants was
+$2.50 per share resulting in total proceeds to us of $783,605. The proceeds were used in the
+normal course of operations for general corporate purposes. The transaction was exempt from the
+registration requirements of the Securities Act of 1933, as amended, pursuant to Regulation D
+promulgated by the SEC under the Securities Act.
+
+During the six months ended June 30, 2006, we issued 400 and 100,400 shares of our common stock to
+Robert E. Nederlander and Leonard Toboroff, two of our directors, upon the exercise of previously
+granted stock options. The weighted average exercise price of the options was $2.59 per share
+resulting in total proceeds to us of $261,000. The proceeds were used in the normal course of
+operations for general corporate purposes. The transactions were exempt from the registration
+requirements of the Securities Act pursuant to Section 4(2) of the Securities Act, as transactions
+by the issuer not involving any public offering.
+
+During the six months ended June 30, 2006, we also issued 125,285 shares of our common stock to
+Tommie L. Rogers, the seller in our acquisition of Rogers Oil Tool Services Inc. The transactions
+were exempt from the registration requirements of the Securities Act pursuant to Section 4(2) of
+the Securities Act, as transactions by the issuer not involving any public offering.
+
+ITEM 6. EXHIBITS
+
+(a) The exhibits listed on the Exhibit Index immediately following the signature page of this
+Quarterly Report on Form 10-Q are filed as part of this report.
+
+28
+
+Table of Contents
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, as
+amended, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized on August 14, 2006.
+
+Allis-Chalmers Energy Inc.
+
+           (
+Registrant)
+
+/S/ MUNAWAR H. HIDAYATALLAH
+
+Munawar H. Hidayatallah
+
+Chief Executive Officer and Chairman
+
+29
+
+Table of Contents
+
+EXHIBIT INDEX
+
+1.1
+
+Underwriting Agreement dated as of August 8, 2006 by and between the Registrant and the
+underwriters listed on Schedule A thereto (incorporated by reference to Exhibit 1.1 to the
+Registrant’s Form 8-K filed on August 9, 2006).
+
+4.1
+
+First Supplemental Indenture dated as of August 8, 2006 by and among Allis-Chalmers GP, LLC,
+a Delaware limited liability company, Allis-Chalmers LP, LLC, a Delaware limited liability
+company, Allis-Chalmers Management, LP, a Texas limited partnership, Rogers Oil Tool Services,
+Inc., a Louisiana corporation, the Registrant, the other Guarantors (as defined in the
+Indenture referred to therein) and Wells Fargo Bank, N.A (incorporated by reference to Exhibit
+4.2 to the Registrant’s Form 8-K filed on August 14, 2006).
+
+4.2
+
+Form of 9.0% Senior Note due 2014 (incorporated by reference to Exhibit 4.2 to the
+Registrant’s Form 8-K filed on August 14, 2006).
+
+10.1
+
+Purchase Agreement dated as of August 8, 2006 by and between the Registrant, the guarantors
+listed on Schedule B thereto and RBC Capital Markets Corporation (incorporated by reference to
+Exhibit 10.4 to the Registrant’s Form 8-K filed on August 14, 2006).
+
+10.2
+
+Registration Rights Agreement dated as of August 14, 2006 by and among the Registrant, the
+guarantors named thereto and RBC Capital Markets Corporation (incorporated by reference to
+Exhibit 10.1 to the Registrant’s Form 8-K filed on August 14, 2006).
+
+10.3
+
+Investors Rights Agreement dated as of August 18, 2006 by and among the Registrant and the
+investors named on Schedule A thereto (incorporated by reference to Exhibit 10.1 to the
+Registrant’s Form 8-K filed on August 14, 2006).
+
+10.4
+
+First Amendment to Amended and Restated Credit Agreement dated as of August 8, 2006, by and
+among the Registrant, the guarantors named thereto and Royal Bank of Canada (incorporated by
+reference to Exhibit 10.3 to the Registrant’s Form 8-K filed on August 14, 2006).
+
+31.1*
+
+Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+31.2*
+
+Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+32.1*
+
+Certification of the Chief Executive Officer and Chief Financial Officer pursuant to 18
+U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+*
+
+Filed herewith
+
+30
+
+EX-31.1
+
+2
+
+h38818exv31w1.htm
+
+CERTIFICATION OF CEO PURSUANT TO SECTION 302
+
+exv31w1
+
+EXHIBIT 31.1
+
+CERTIFICATIONS
+
+I, Munawar Hidayatallah, Chief Executive Officer of Allis-Chalmers Energy Inc., certify that:
+
+          1. I have reviewed this Quarterly Report on Form 10-Q of Allis-Chalmers Energy Inc.;
+
+          2. Based on my knowledge, this report does not contain any untrue statement of a material fact
+or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period
+covered by this report;
+
+          3. Based on my knowledge, the financial statements, and other financial information included
+in this report, fairly present in all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the periods presented in this report;
+
+          4. The registrant’s other certifying officer(s) and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) for the registrant and have:
+
+               (a) Designed such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material information relating to
+the registrant, including its consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being prepared;
+
+               (b) Evaluated the effectiveness of the registrant’s disclosure controls and procedures and
+presented in this report our conclusions about the effectiveness of the disclosure controls and
+procedures, as of the end of the period covered by this report based on such evaluation;
+
+               (c) Disclosed in this report any change in the registrant’s internal control over financial
+reporting that occurred during the registrant’s most recent fiscal quarter (the registrant’s fourth
+fiscal quarter in the case of an annual report) that has materially affected, or is reasonably
+likely to materially affect, the registrant’s internal control over financial reporting; and
+
+          5. The registrant’s other certifying officer(s) and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the registrant’s auditors and the audit
+committee of the registrant’s board of directors:
+
+          (a) All significant deficiencies and material weaknesses in the design or operation of
+internal control over financial reporting which are reasonably likely to adversely affect the
+registrant’s ability to record, process, summarize and report financial information; and
+
+          (b) Any fraud, whether or not material, that involves management or other employees who have a
+significant role in the registrant’s internal control over financial reporting.
+
+Date: August 14 , 2006
+
+By:
+
+/s/ Munawar H. Hidayatallah
+
+Munawar H. Hidayatallah
+
+Chief Executive Officer and
+Chairman
+
+EX-31.2
+
+3
+
+h38818exv31w2.htm
+
+CERTIFICATION OF CFO PURSUANT TO SECTION 302
+
+exv31w2
+
+EXHIBIT 31.2
+
+CERTIFICATIONS
+
+I, Victor M. Perez, Chief Financial Officer of Allis-Chalmers Energy Inc., certify that:
+
+          1. I have reviewed this Quarterly Report on Form 10-Q of Allis-Chalmers Energy Inc.;
+
+          2. Based on my knowledge, this report does not contain any untrue statement of a material fact
+or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period
+covered by this report;
+
+          3. Based on my knowledge, the financial statements, and other financial information included
+in this report, fairly present in all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the periods presented in this report;
+
+          4. The registrant’s other certifying officer(s) and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) for the registrant and have:
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls
+and procedures to be designed under our supervision, to ensure that material information
+relating to the registrant, including its consolidated subsidiaries, is made known to us
+by others within those entities, particularly during the period in which this report is
+being prepared;
+
+(b) Evaluated the effectiveness of the registrant’s disclosure controls and procedures
+and presented in this report our conclusions about the effectiveness of the disclosure
+controls and procedures, as of the end of the period covered by this report based on such
+evaluation;
+
+(c) Disclosed in this report any change in the registrant’s internal control over
+financial reporting that occurred during the registrant’s most recent fiscal quarter (the
+registrant’s fourth fiscal quarter in the case of an annual report) that has materially
+affected, or is reasonably likely to materially affect, the registrant’s internal control
+over financial reporting; and
+
+5. The registrant’s other certifying officer(s) and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the registrant’s auditors and the audit
+committee of the registrant’s board of directors:
+
+(a)
+
+All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably likely
+to adversely affect the registrant’s ability to record, process, summarize and
+report financial information; and
+
+(b)
+
+Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant’s internal control over
+financial reporting.
+
+Date: August 14, 2006
+
+By:
+
+/s/ Victor M. Perez
+
+Victor M. Perez
+
+Chief Financial Officer
+
+EX-32.1
+
+4
+
+h38818exv32w1.htm
+
+CERTIFICATION OF CEO AND CFO PURSUANT TO SECTION 906
+
+exv32w1
+
+EXHIBIT 32.1
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350,
+
+AS ADOPTED PURSUANT TO
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report on Form 10-Q of Allis-Chalmers Energy Inc. (the “Company”),
+for the period ended June 30, 2006, as filed with the Securities and Exchange Commission on the
+date hereof (the “Report”), the undersigned hereby certify, pursuant to 18 U.S.C. Section 1350,
+that:
+
+(1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities
+Exchange Act of 1934; and
+
+(2) The information contained in the Report fairly presents, in all material respects, the
+financial condition and results of the operations of the Company.
+
+Date: August 14, 2006
+
+By:
+
+/s/ Munawar H. Hidayatallah
+
+Munawar H. Hidayatallah
+
+Chief Executive Officer
+
+Date: August 14, 2006
+
+By:
+
+/s/ Victor M. Perez
+
+Victor M. Perez
+
+Chief Financial Officer
+
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,701 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VJg/qXs1U0aprTPaPjgNVLbH02Hniq1IL4NEbnxLcGjxmS0Xn/NwAwYdF8QwbXsB
+ 3i/Mca5BlGYTkTqLM03JEA==
+
+0000004515-09-000041.txt : 20091106
+
+0000004515-09-000041.hdr.sgml : 20091106
+
+20091106171052
+ACCESSION NUMBER:		0000004515-09-000041
+CONFORMED SUBMISSION TYPE:	10-Q/A
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20091106
+FILED AS OF DATE:		20091106
+DATE AS OF CHANGE:		20091106
+
+FILER:
+
+	COMPANY DATA:
+		COMPANY CONFORMED NAME:			AMERICAN AIRLINES INC
+		CENTRAL INDEX KEY:			0000004515
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIR TRANSPORTATION, SCHEDULED [4512]
+		IRS NUMBER:				131502798
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02691
+		FILM NUMBER:		091165629
+
+	BUSINESS ADDRESS:
+		STREET 1:		4333 AMON CARTER BLVD
+		CITY:			FT WORTH
+		STATE:			TX
+		ZIP:			76155
+		BUSINESS PHONE:		8179631234
+
+	MAIL ADDRESS:
+		STREET 1:		P O BOX 619616 MD5661
+		CITY:			DALLAS FORT WORTH AI
+		STATE:			TX
+		ZIP:			75261-9616
+
+	FORMER COMPANY:
+		FORMER CONFORMED NAME:	AMERICAN AIRWAYS INC
+		DATE OF NAME CHANGE:	19670629
+
+10-Q/A
+
+1
+
+aa0630-10qa.htm
+
+AMERICAN AIRLINES, INC.
+
+aa0630-10qa.htm
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+          Washington, D.C.  20549
+
+          FORM 10-Q/A
+
+            (Amendment No. 1)
+
+[
+ü
+]Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+For the Quarterly Period Ended
+June 30, 2009
+.
+
+[  ]Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+For the Transition Period From
+
+ to
+
+.
+
+Commission file number
+1-2691.
+
+American Airlines, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+13-1502798
+
+(State or other jurisdiction
+
+ of incorporation or organization)
+
+(I.R.S. Employer Identification No.)
+
+4333 Amon Carter Blvd.
+
+Fort Worth, Texas
+
+76155
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+Registrant's telephone number, including area code
+
+(817) 963-1234
+
+Not Applicable
+
+(Former name, former address and former fiscal year , if changed since last report)
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90
+days.
+þ
+  Yes
+¨
+  No
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer.  See definition of “accelerated filer” and “large accelerated filer” in Rule 12b-2 of the Exchange Act.
+þ
+ Large
+Accelerated Filer
+¨
+ Accelerated Filer
+¨
+ Non-accelerated Filer
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was
+required to submit and post such files).
+¨
+  Yes
+¨
+  No
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).
+¨
+ Yes
+þ
+ No
+
+Indicate the number of shares outstanding of each of the issuer's classes of common stock, as of the latest practicable date.
+
+Common Stock, $1 par value – 1,000 shares as of July 10, 2009.
+
+EXPLANATORY NOTE
+
+This Form 10-Q/A (Amendment No. 1) to American Airlines, Inc.’s (American's) Quarterly Report on Form 10-Q for the fiscal quarter ended June 30, 2009, initially filed with the Securities and Exchange Commission (SEC) on July 15, 2009 (Original Filing), is being filed in response to communications received
+from the SEC in connection with a confidential treatment request with respect to Exhibit 10.5, Purchase Agreement No. 1977 Supplement No. 32 dated as of June 9, 2009.  Item 6 of Part II of the Original Filing is hereby amended to include a revised redacted version of Exhibit 10.5.
+
+Item 6
+.
+Exhibits
+
+The following exhibits are included herein:
+
+10.1
+
+Form of Stock Appreciation Right Agreement (with awards effective July 20, 2009 to executive officers noted),
+incorporated by reference to Exhibit 10.1 to American's report on Form 10-Q for the quarterly period ended June 30, 2009, as filed on July 15, 2009.
+
+10.2
+
+Form of 2009 Deferred Share Award
+Agreement (with awards effective July 20, 2009
+
+ to executive officers noted), incorporated by reference to Exhibit 10.2 to American's report on Form 10-Q for the quarterly period ended
+June 30, 2009, as filed on July 15, 2009.
+
+10.3
+
+F
+orm of Performance Share Agreement under the 2009 - 2011 Performance Share Plan for Officers and Key Employees and the 2009 – 2011 Performance Share Plan for Officers and Key Employees (with awards effective July 20, 2009 to executive officers noted), incorporated by reference to
+Exhibit 10.3 to American's report on Form 10-Q for the quarterly period ended June 30, 2009, as filed on July 15, 2009.
+
+10.4
+
+AMR Corporation 2009 Long Term Incentive Plan (approved by shareholders at AMR’s May 20, 2009 Annual Meeting of stockholders),
+ incorporated by reference to Exhibit 10.4 to American's report on Form 10-Q for the quarterly period ended June 30, 2009, as filed on July 15, 2009.
+
+10.5
+
+Purchase Agreement No. 1977 Supplement No. 32 dated as of June 9, 2009.
+
+[CONFIDENTIAL PORTION OF THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+12
+
+Computation of ratio of earnings to fixed charges for the three and six months ended June 30, 2009 and 2008, incorporated by reference to Exhibit 12 to American's report on Form 10-Q for the quarterly period ended June 30, 2009, as filed on July 15, 2009.
+
+31.1
+
+Certification of Chief Executive Officer pursuant to Rule 13a-14(a), incorporated by reference to Exhibit 31.1 to American's report on Form 10-Q for the quarterly period ended June 30, 2009, as filed on July 15, 2009.
+
+31.2
+
+Certification of Chief Financial Officer pursuant to Rule 13a-14(a), incorporated by reference to Exhibit 31.2 to American's report on Form 10-Q for the quarterly period ended June 30, 2009, as filed on July 15, 2009.
+
+32
+
+Certification pursuant to Rule 13a-14(b) and section 906 of the Sarbanes-Oxley Act of 2002 (subsections (a) and (b) of section 1350, chapter 63 of title 18, United States Code), incorporated by reference to Exhibit 32 to American's report on Form 10-Q for the quarterly period ended June 30, 2009, as filed on July 15, 2009.
+
+Signature
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+AMERICAN AIRLINES, INC.
+
+Date:  November 6, 2009
+
+BY:
+/
+s/
+Thomas W. Horton
+
+Thomas W. Horton
+
+Executive Vice President and Chief Financial Officer
+
+   (Principal Financial and Accounting Officer)
+
+EX-10.5A
+
+2
+
+ex105a.htm
+
+BOEING PURCHASE AGREEMENT
+
+ex105a.htm
+
+Supplemental Agreement No. 32
+
+to
+
+Purchase Agreement No. 1977
+
+between
+
+The Boeing Company
+
+and
+
+American Airlines, Inc.
+
+Relating to Boeing Model 737-800 Aircraft
+
+THIS SUPPLEMENTAL AGREEMENT, entered into as of June ____, 2009, (Supplemental Agreement Number 32) by and between THE BOEING COMPANY, a Delaware corporation with offices in Seattle, Washington, (Boeing) and AMERICAN AIRLINES, INC., a Delaware corporation with offices in Fort Worth, Texas, together
+with its successors and permitted assigns (Customer);
+
+WHEREAS, Boeing and Customer entered into Purchase Agreement No. 1977 dated October 31, 1997, relating to Boeing Model 737-823 aircraft, as amended and supplemented (the Purchase Agreement).  Capitalized terms used herein without definitions shall have the meanings specified therefore in such Purchase Agreement;
+
+WHEREAS, pursuant to Letter Agreement No. 6-1162-AKP-075 titled Aircraft Purchase Rights and Substitution Rights (the “Rights Letter”), Boeing and Customer have agreed to, among other things, the treatment of aircraft Purchase Rights;
+
+WHEREAS, pursuant to Purchase Agreement No. 1977 Supplement Agreement No. 19 (“SA 19”), Boeing and Customer have agreed to, among other things, [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT];
+
+WHEREAS, pursuant to Letter Agreement No. 6-1162-LAJ-936 titled Special Matters for Model 737, 757, 767 and 777 Aircraft (“Special Matters Letter”), Boeing and Customer have agreed to, among other things, [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT];
+
+WHEREAS, [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT];
+
+WHEREAS, by taking delivery of up to and including [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT];
+
+WHEREAS, [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT];
+
+WHEREAS, Customer desires to [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT];
+
+WHEREAS, Customer and Boeing desire to amend the Purchase Agreement to reflect the following:
+
+1)
+
+[CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+2)
+
+[CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+3)
+
+[CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+WHEREAS, Customer and Boeing agree upon the delivery schedules set forth in Letter No. 6-1162-CLO-1059 dated February 26, 2009, C. Odegard to T. Horton, [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT];
+
+WHEREAS, Customer and Boeing Capital Corporation have agreed to [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT];
+
+WHEREAS, at the time of execution of Supplemental Agreement Number 30, the aircraft serial numbers were not included in Table 1C [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT];
+
+NOW THEREFORE, in consideration of the mutual covenants herein contained, the parties agree to amend the Purchase Agreement as follows:
+
+1.
+Table of Contents, Articles, Tables, Exhibits, and Letter Agreements:
+
+1.1          The Table of Contents is removed in its entirety and replaced with a revised Table of Contents, attached hereto, which sets for the appropriate SA-32 references and adds Letter Agreement No. 6-1162-CLO-1082 entitled “Advance Payments and Permitted Transactions 2”.
+The Table of Contents is hereby made part of the Purchase Agreement.
+
+1.2           Table 1C [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] is deleted in its entirety and replaced with a revised Table 1C, attached hereto, which adds [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY
+WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]. Revised Table 1C is hereby made part of the Purchase Agreement.
+
+1.3           Supplemental Exhibit BFE1 entitled “Buyer Furnished Equipment Variables” is deleted in its entirety and replaced with a revised BFE1, attached hereto, which sets forth the preliminary on-dock dates for the Aircraft scheduled for delivery in [CONFIDENTIAL PORTION
+OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+1.4           Letter Agreement No. 6-1162-CLO-1082 entitled “Advance Payments and Permitted Transactions 2”, attached hereto, [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].  Letter Agreement
+No. 6-1162-CLO-1082 entitled “Advance Payments and Permitted Transactions 2” is hereby made part of the Purchase Agreement.
+
+2.
+Leased Aircraft Consent.
+
+Except as set forth in Section 3, below, no further consent shall be required from Boeing [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].  The agreement set forth in the previous sentence of this Section 2 shall remain in effect whether or not any Aircraft
+scheduled for delivery from Boeing to Customer [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].  Except as set forth in this Letter Agreement, Customer’s obligations as set forth in Letter Agreement No. 6-1162-AKP-071R1 entitled “Purchase Obligations” shall remain in full force and effect.
+
+3.
+Leased Aircraft Configuration
+.
+
+[CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+4.
+
+Aircraft
+[CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+.
+
+If Customer desires [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+5.
+Excusable Delay Schedule.
+
+Customer and Boeing agree upon the delivery schedules set forth in Letter No. 6-1162-CLO-1059 dated February 26, 2009, C. Odegard to T. Horton, [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT], copy attached.
+
+6.
+Advance Payment for Aircraft.
+
+Customer and Boeing agree that as of the date of this Supplemental Agreement, [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+The Purchase Agreement will be deemed to be amended to the extent provided herein and as so amended will continue in full force and effect.  In the event of any inconsistency between the above provisions and the provisions contained in the referenced exhibits to this Supplemental Agreement, the terms of the exhibits will control.
+
+EXECUTED IN DUPLICATE as of the day and year first above written.
+
+THE BOEING COMPANY                                                                           AMERICAN
+AIRLINES, INC.
+
+By:
+
+By:
+
+;
+
+Its:
+   Attorney-In-Fact
+                                                                Its:
+
+P.A. No. 1977                                                           SA-32
+
+AAL
+
+BOEING PROPRIETARY
+
+EX-10.5B
+
+3
+
+ex105b.htm
+
+BOEING PURCHASE AGREEMENT
+
+ex105b.htm
+
+TABLE OF CONTENTS
+
+ SA
+
+ARTICLES
+NUMBER
+
+1.                  Quantity, Model and Description                                                                                               SA21
+
+2.                  Delivery Schedule
+
+3.                  Price
+
+4.                  Payment
+
+5.                  Miscellaneous
+
+TABLE
+
+1                  Aircraft Delivery, Description, Price and SA29
+
+[CONFIDENTIAL PORTION OMITTED AND FILED
+
+SEPARATELY WITH THE COMMISSION PURSUANT
+
+TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+1A                   Aircraft Delivery, Description, Price and SA30
+
+[CONFIDENTIAL PORTION OMITTED AND FILED
+
+SEPARATELY WITH THE COMMISSION PURSUANT
+
+TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+1B                   Aircraft Delivery, Description, Price and SA30
+
+[CONFIDENTIAL PORTION OMITTED AND FILED
+
+SEPARATELY WITH THE COMMISSION PURSUANT
+
+TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+   1C                      Aircraft Delivery, Description, Price and
+SA32
+
+[CONFIDENTIAL PORTION OMITTED AND FILED
+
+SEPARATELY WITH THE COMMISSION PURSUANT
+
+TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+EXHIBITS
+
+A.
+
+Aircraft Configuration
+
+   A1                      Aircraft Configuration SA28
+
+B.                  Aircraft Delivery Requirements and Responsibilities
+
+C.                  Defined Terms
+
+SUPPLEMENTAL EXHIBITS
+
+   AE1                      [CONFIDENTIAL PORTION OMITTED AND FILED SA20
+
+SEPARATELY WITH THE COMMISSION PURSUANT
+
+TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+Optional Features
+
+BFE1                   BFE Variables
+SA32
+
+CS1                   Customer Support Variables
+
+SLP1                   Service Life Policy Components
+
+EE1                   [CONFIDENTIAL PORTION OMITTED AND FILED
+
+SEPARATELY WITH THE COMMISSION PURSUANT
+
+TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+Engine Warranty and Patent Indemnity
+
+PA No. 1977                                                                 SA32
+
+LETTER AGREEMENTS
+
+6-1162-AKP-070                                   Miscellaneous Commitments for Model 737, 757,
+
+767 and 777 Aircraft
+
+6-1162-AKP-072R1 [CONFIDENTIAL PORTION OMITTED AND FILED
+
+ SEPARATELY WITH THE COMMISSION PURSUANT
+
+ TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+6-1162-AKP-073 [CONFIDENTIAL PORTION OMITTED AND FILED
+
+ SEPARATELY WITH THE COMMISSION PURSUANT
+
+ TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+6-1162-AKP-074R2                                   Business Considerations
+
+6-1162-AKP-075                                   Aircraft Purchase Rights and Substitution Rights
+
+- Attachment A
+
+- Attachment B SA30
+
+- Attachment C SA30
+
+6-1162-AKP-076                                   Aircraft Performance Guarantees
+
+6-1162-AKP-077                                   Spares Matters
+
+6-1162-AKP-078                                   Model 737 Miscellaneous Commitments
+
+6-1162-AKP-079 [CONFIDENTIAL PORTION OMITTED AND FILED
+
+ SEPARATELY WITH THE COMMISSION PURSUANT
+
+ TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+                       Sharing
+
+6-1162-AKP-080                                   Installation of Cabin Systems Equipment
+
+6-1162-AKP-081 [CONFIDENTIAL PORTION OMITTED AND FILED
+
+ SEPARATELY WITH THE COMMISSION PURSUANT
+
+ TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+6-1162-AKP-082                                   Confidentiality
+
+6-1162-AKP-083 [CONFIDENTIAL PORTION OMITTED AND FILED
+
+ SEPARATELY WITH THE COMMISSION PURSUANT
+
+ TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+6-1162-AKP-084 [CONFIDENTIAL PORTION OMITTED AND FILED
+
+ SEPARATELY WITH THE COMMISSION PURSUANT
+
+ TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+                       Commitment
+
+6-1162-AKP-085 [CONFIDENTIAL PORTION OMITTED AND FILED
+
+ SEPARATELY WITH THE COMMISSION PURSUANT
+
+ TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+6-1162-AKP-117                                   Delivery Schedule
+
+6-1162-SSM-1405 [CONFIDENTIAL PORTION OMITTED AND FILED
+
+ SEPARATELY WITH THE COMMISSION PURSUANT
+
+TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+       Attachment B1
+
+6-1162-CLO-1035                                   [CONFIDENTIAL PORTION OMITTED AND FILED                                                                                             SA28
+
+ SEPARATELY WITH THE COMMISSION PURSUANT
+
+TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+6-1162-CLO-1038                                   Advance Payments and Financing Matters                                                                                   SA31
+
+6-1162-CLO-1082                                   Advance Payments and Financing Matters 2
+SA32
+
+PA No. 1977                                                                SA32
+
+EX-10.5E
+
+4
+
+ex105e.htm
+
+BOEING PURCHASE AGREEMENT
+
+ex105e.htm
+
+6-1162-CLO-1082
+
+American Airlines, Inc.
+
+P.O. Box 619616
+
+Dallas-Fort Worth Airport, Texas 75261-9616
+
+Subject:                      Advance Payments and Permitted Transactions 2
+
+Reference:
+
+Purchase Agreement No. 1977 (the Purchase Agreement) between The Boeing Company (Boeing) and American Airlines, Inc.  (Customer) relating to Model 737-823 aircraft (the Aircraft)
+
+This Letter Agreement amends and supplements the Purchase Agreement.  All terms used but not defined in this Letter Agreement have the same meaning as in the Purchase Agreement.
+
+1.
+
+Advance Payments for Aircraft.
+
+Notwithstanding Article 4.2 and Table 1C of the Purchase Agreement, which sets forth Boeing’s standard [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT], Boeing and Customer agree that the [CONFIDENTIAL PORTION OMITTED
+AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT], is hereby amended as follows:
+
+1.1
+
+Customer will make Advance Payments to Boeing [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+1.2
+
+Notwithstanding Section 1.3 of Letter Agreement No. 6-1162-AKP-070 entitled Miscellaneous Commitments for Model 737, 757, 767 and 777 Aircraft, Customer will [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+1.3
+
+[CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+2.           Permitted Transactions
+
+Notwithstanding Article 9.2 of the AGTA, Boeing agrees that Customer may from time to time prior to delivery of any Relevant Aircraft enter into arrangements and agreements with lenders, lessors or other parties (whose business includes, but may not be limited to, the financing of aircraft) for the purpose of (a) [CONFIDENTIAL PORTION OMITTED
+AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] and/or (b) consummating [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] pursuant to which the right to purchase an SA 32 Relevant Aircraft, and the corresponding obligation to make [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] with respect thereto, are conveyed to such a party
+[CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+For the purpose of securing an [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] and notwithstanding the provisions of  [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] between Boeing and
+Customer [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT], including the right to purchase an SA 32 Relevant Aircraft provided that Customer and Customer’s financiers accept Boeing’s customary terms and conditions for consenting [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] including, but not limited to, the following:
+
+(i)
+
+if Customer’s financier gives notice that it intends to exercise its [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]; Boeing shall have the right to assume those rights with respect to such SA 32 Relevant Aircraft [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION
+PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] and received and retained by Boeing with respect to that SA 32 Relevant Aircraft (
+Manufacturer’s Option
+);
+
+(ii)
+
+Customer shall continue at all times to remain liable to Boeing under the Purchase Agreement to perform all duties and obligations of Customer;
+
+(iii)
+
+Boeing shall not be subject to any additional liability [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] Boeing would not otherwise be subject to under the Purchase Agreement;
+
+(iv)
+
+[CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]; or require Boeing to divest itself of title to or possession of the SA 32 Relevant Aircraft, or any other things, [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+and
+
+(v)
+
+In lieu of the concessions granted to Customer under the Purchase Agreement, [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] In calculating the amount payable by the financier for an SA 32 Relevant Aircraft, [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT
+TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+[CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] Customer may execute [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]  Any such [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE
+COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] shall be subject to the conditions that (i) it shall not subject Boeing to any liability as a result of the assignment which Boeing would not otherwise be subject to under the Purchase Agreement and (ii) no such assignment will require Boeing to divest itself of title to or possession of the aircraft [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+[CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] the Purchase Agreement in connection with [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] is contingent upon Boeing’s consent, which shall not
+be unreasonably withheld or delayed.  Boeing agrees to cooperate in good faith with Customer and to take such actions as may be reasonably requested by Customer to [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] Notwithstanding Paragraph 1.1 above, [CONFIDENTIAL PORTION OMITTED AND FILED SEPARATELY WITH THE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+For avoidance of doubt, nothing within this Letter Agreement is intended to, nor shall it, derogate the rights and obligations of Boeing and Customer with regard to the financing of aircraft at or following delivery in accordance with Article 9.2 of the AGTA.
+
+P.A. No. 1977 SA-32
+
+Advance Payments and Permitted Transactions 2
+
+BOEING PROPRIETARY
+
+American Airlines, Inc.
+
+6-1162-CLO-1082 Page 5
+
+3.
+Confidential Treatment.
+
+Customer and Boeing understand certain commercial and financial information contained in this Letter Agreement is considered by Boeing and Customer as confidential.  Customer and Boeing agree that each will treat this Letter Agreement and the information contained herein as confidential
+and will not, without the prior written consent of the other, disclose this Letter Agreement or any information contained herein to any other person or entity, except as required by law or government regulation.
+
+Very truly yours,
+
+THE BOEING COMPANY
+
+By
+
+Its
+Attorney-In-Fact
+
+ACCEPTED AND AGREED TO this
+
+Date: _______________, 2009
+
+AMERICAN AIRLINES, INC.
+
+By
+
+Its
+
+P.A. No. 1977 SA-32
+
+Advance Payments and Permitted Transactions 2
+
+BOEING PROPRIETARY
+
+P.A. No. 1977 SA-32
+
+Advance Payments and Permitted Transactions 2
+
+BOEING PROPRIETARY
+
+-----END PRIVACY-ENHANCED MESSAGE-----
