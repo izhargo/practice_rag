@@ -7,8 +7,8 @@ from utils import chunk, extract_title
 
 ROOT = Path(__file__).parent.parent
 DEFAULT_FILINGS_DIR = ROOT / "edgar_data" / "filings_to_index"
-FAISS_PATH = str(ROOT / "cch_index.faiss")
-DB_PATH = str(ROOT / "cch_index.db")
+FAISS_PATH = str(ROOT / "cch_index_100.faiss")
+DB_PATH = str(ROOT / "cch_index_100.db")
 
 
 def main():

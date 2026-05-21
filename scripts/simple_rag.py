@@ -7,8 +7,8 @@ from utils import chunk
 
 ROOT = Path(__file__).parent.parent
 DEFAULT_FILINGS_DIR = ROOT / "edgar_data" / "filings_to_index"
-FAISS_PATH = str(ROOT / "simple_index.faiss")
-DB_PATH = str(ROOT / "simple_index.db")
+FAISS_PATH = str(ROOT / "simple_index_100.faiss")
+DB_PATH = str(ROOT / "simple_index_100.db")
 
 
 def main():

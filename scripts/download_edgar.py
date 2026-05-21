@@ -5,8 +5,9 @@ import requests
 from bs4 import BeautifulSoup
 from pathlib import Path
 
-XLSX_PATH = "../edgar_data/cik_list.xlsx"
-OUTPUT_DIR = Path("../edgar_data/filings")
+ROOT = Path(__file__).resolve().parent.parent
+XLSX_PATH = str(ROOT / "edgar_data" / "cik_list.xlsx")
+OUTPUT_DIR = ROOT / "edgar_data" / "normalized_filings"
 BASE_URL = "https://www.sec.gov/Archives/"
 DELAY = 0.2          # 5 requests/second — well within the 10 req/s limit
 USER_AGENT = "izhargo@gmail.com"
@@ -33,6 +34,20 @@ def strip_html(content: bytes) -> bytes:
             cleaned.append(line)
             prev_blank = False
     return "\n".join(cleaned).encode("utf-8")
+
+
+def normalize_text(text: str) -> str:
+    """Normalize quotes, dashes, and whitespace for consistent downstream matching."""
+    # Straighten curly quotes and apostrophes
+    text = text.replace("\u2018", "'").replace("\u2019", "'")
+    text = text.replace("\u201c", '"').replace("\u201d", '"')
+    # Normalize em/en dashes to hyphens
+    text = text.replace("\u2014", "-").replace("\u2013", "-")
+    # Collapse runs of spaces/tabs (but preserve newlines)
+    text = re.sub(r"[^\S\n]+", " ", text)
+    # Collapse 3+ consecutive newlines into 2
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
 
 
 def clean_name(name: str) -> str:
@@ -69,7 +84,9 @@ def download_filing(session: requests.Session, row: dict) -> bool:
     try:
         response = session.get(url, timeout=30)
         response.raise_for_status()
-        local_path.write_bytes(strip_html(response.content))
+        clean_bytes = strip_html(response.content)
+        normalized = normalize_text(clean_bytes.decode("utf-8", errors="replace"))
+        local_path.write_text(normalized, encoding="utf-8")
         return True
     except requests.HTTPError as e:
         print(f"  HTTP error {e.response.status_code}: {url}")
