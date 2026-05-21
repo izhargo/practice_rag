@@ -224,4 +224,4 @@ __marimo__/
 
 *.db
 *.faiss
-.output/
+output/
